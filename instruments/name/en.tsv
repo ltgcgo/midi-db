@@ -8,10 +8,11 @@ Celesta	~cp
 Chor.EP1	Chorus Electric Piano 1
 Chor.EP2	Chorus Electric Piano 2
 ChrchBel	Church Bell
+Cimbalom	~cp
 ClaviWah	Clavichord Wah
 ClvchrdK	Clavichord K
 Clvichrd	Clavichord
-Det.CP80	~unk
+Det.CP80	Yamaha CP-80
 Dream	Dream
 Dulcimer	~cp
 Dulcmer2	Dulcimer 2
@@ -37,8 +38,8 @@ HpschrdK	Harpsichord K
 Hpschrd2	Harpsichord 2
 Hpschrd3	Harpsichord 3
 Hrpschrd	Harpsichord
-LayerCP1	~unk
-LayerCP2	~unk
+LayerCP1	Yamaha Concert Piano 1
+LayerCP2	Yamaha Concert Piano 2
 Log Drum	~cp
 Marimba	~cp
 MarimbaK	Marimba K
@@ -50,9 +51,8 @@ PianoStr	Piano Strings
 PlsClavi	Pulse Clavichord
 PrcClavi	Pierce Clavichord
 Santur	~cp
-Simbalom	~cp
 SMarimba	Sine Marimba
-TubulBel	~unk
+TubulBel	Tubular Bells
 Vibes	Vibraphone
 VibesK	Vibraphone K
 VX EPno1	VX Electric Piano 1
