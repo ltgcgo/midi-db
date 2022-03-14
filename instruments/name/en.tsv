@@ -30,7 +30,7 @@ Glocken	~cp
 GrandPno	Acoustic Grand Piano
 GrndPnoK	Acoustic Grand Piano K
 HardEPno	Hard Electric Piano
-HardVibe	Hard Vibes
+HardVibe	Hard Vibraphone
 HnkyTonk	Honky Tonk
 HnkyTnkK	Honky Tonk K
 HpschrdK	Harpsichord K
@@ -53,8 +53,8 @@ Santur	~cp
 Simbalom	~cp
 SMarimba	Sine Marimba
 TubulBel	~unk
-Vibes	~cp
-VibesK	Vibes K
+Vibes	Vibraphone
+VibesK	Vibraphone K
 VX EPno1	VX Electric Piano 1
 VX EPno2	VX Electric Piano 2
 Xylophon	Xylophone
