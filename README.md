@@ -9,6 +9,8 @@
 ## Voice Maps
 See all of the [correct names](/bank/en.tsv).
 
+Blank names can either mean placeholder or silence.
+
 ### YAMAHA XG
 #### Bank selection
 **Table**: [xg.tsv](/bank/xg.tsv)
