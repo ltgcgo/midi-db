@@ -15,12 +15,12 @@ See all of the [correct names](/bank/en.tsv).
 **Importance**: MSB PRG LSB
 
 #### Bank categories
-* `000`: Melodic Voices
-* `061`: KORG Drum Kits
-* `064`: XG SFX Voices
-* `120`: GS/GM2 Drum Kits
-* `126`: XG SFX Kits
-* `127`: XG Drum Kits
+- [x] `000`: Melodic Voices
+- [x] `064`: XG SFX Voices
+- [x] `120`: GS/GM2 Drum Kits
+- [ ] `121`: GM2 Voices
+- [x] `126`: XG SFX Kits
+- [x] `127`: XG Drum Kits
 
 #### Compatibility
 ##### Device
@@ -43,10 +43,13 @@ See all of the [correct names](/bank/en.tsv).
 **Importance**: LSB PRG MSB
 
 #### Bank categories
-* `000`: GS standard
-* `001`: Roland SC-55 map
-* `002`: Roland SC-88 map
-* `003`: Roland SC-88 Pro map
+- [ ] `000`: GS standard
+- [ ] `001`: Roland SC-55 map
+- [ ] `002`: Roland SC-88 map
+- [ ] `003`: Roland SC-88 Pro map
+- [x] `120` (MSB): Roland GS Drum Kits
+- [ ] `126`: Roland MT-32 alternate map
+- [ ] `127`: Roland MT-32 main map
 
 #### Compatibility
 ##### Devices
@@ -66,19 +69,22 @@ See all of the [correct names](/bank/en.tsv).
 
 #### Bank categories
 (As of KORG NS5R and later, all synth modules support GS and XG voice maps.)
-* `000`: Melodic Voices
-* `056`: KORG GM-b
-* `061`: KORG Drum Kits
-* `081`: KORG 05R/W map
-* `082`: KORG ProgB
-* `083`: KORG ProgC
-* `089`: KORG CmbA
-* `090`: KORG CmbB
-* `091`: KORG CmbC 
+- [x] `000`: Melodic Voices
+- [x] `056`: KORG AG-10 map: _GM-b_
+- [x] `061`: KORG Drum Kits _(help wanted)_
+- [x] `062`: KORG X5D(R) & AG-10 Drum Kits _(help wanted, incomplete)_
+- [x] `081`: KORG 05R/W map: _ProgA_
+- [x] `082`: KORG X5D(R): _ProgB_
+- [x] `083`: KORG ProgC
+- [ ] `089`: KORG CmbA
+- [ ] `090`: KORG CmbB
+- [ ] `091`: KORG CmbC 
 
 #### Compatibility
 ##### Devices
 * 05R/W
+* AG-10
+* X5D
 * NS5R
 * NX5R
 
