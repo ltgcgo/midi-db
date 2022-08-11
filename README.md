@@ -50,7 +50,7 @@ Blank names can either mean placeholder or silence.
 - [ ] `002`: Roland SC-88 map
 - [ ] `003`: Roland SC-88 Pro map
 - [x] `120` (MSB): Roland GS Drum Kits
-- [ ] `126`: Roland MT-32 alternate map
+- [x] `126`: Roland MT-32 alternate map
 - [ ] `127`: Roland MT-32 main map
 
 #### Compatibility
