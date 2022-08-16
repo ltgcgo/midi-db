@@ -9,6 +9,8 @@
 ## Voice Maps
 See all of the [correct names](/bank/en.tsv).
 
+Major maps contains Yamaha-ish voice/kit IDs, not actual names. Actual names for devices require additional maps.
+
 Blank names can either mean placeholder or silence.
 
 ### YAMAHA XG
