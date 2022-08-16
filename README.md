@@ -2,7 +2,7 @@
 🎹 Data concerning MIDI standards.
 
 ## Bitmaps
-* [XG Fonts](/bitmaps/xg/font.tsv)
+* [XG Fonts](/bitmaps/xg/font.tsv) _(design based on established systems, CC0 where applicable)_
 * [XG System](/bitmaps/xg/system.tsv)
 * [XG Voices](/bitmaps/xg/voices.tsv)
 
