@@ -47,13 +47,13 @@ Blank names can either mean placeholder or silence.
 **Importance**: LSB PRG MSB
 
 #### Bank categories
-- [ ] `000`: GS standard
-- [ ] `001`: Roland SC-55 map
-- [ ] `002`: Roland SC-88 map
-- [ ] `003`: Roland SC-88 Pro map
+- [x] `000`: GS standard
+- [x] `001`: Roland SC-55 map
+- [x] `002`: Roland SC-88 map
+- [x] `003`: Roland SC-88 Pro map
 - [x] `120` (MSB): Roland GS Drum Kits
 - [x] `126`: Roland MT-32 alternate map
-- [ ] `127`: Roland MT-32 main map
+- [x] `127`: Roland MT-32 main map
 
 #### Compatibility
 ##### Devices
