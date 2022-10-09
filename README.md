@@ -75,8 +75,8 @@ Blank names can either mean placeholder or silence.
 (As of KORG NS5R and later, all synth modules support GS and XG voice maps.)
 - [x] `000`: Melodic Voices
 - [x] `056`: KORG AG-10 map: _GM-b_
-- [x] `061`: KORG Drum Kits _(help wanted, incomplete)_
-- [x] `062`: KORG X5D(R) & AG-10 Drum Kits _(help wanted, incomplete)_
+- [x] `061`: KORG Drum Kits
+- [x] `062`: KORG X5D(R) & AG-10 Drum Kits
 - [x] `081`: KORG 05R/W map: _ProgA_
 - [x] `082`: KORG X5D(R): _ProgB_
 - [x] `083`: KORG ProgC
