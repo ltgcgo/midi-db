@@ -82,7 +82,7 @@ Blank names can either mean placeholder or silence.
 - [x] `083`: KORG ProgC
 - [x] `089`: KORG CmbA
 - [x] `090`: KORG CmbB
-- [ ] `091`: KORG CmbC 
+- [x] `091`: KORG CmbC
 
 #### Compatibility
 ##### Devices
