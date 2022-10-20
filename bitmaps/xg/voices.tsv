@@ -46,7 +46,6 @@ ReedOrgn	@DrawOrgn
 RevCymbl	@TnklBell
 RockOrgn	@DrawOrgn
 Saw Lead	@SquareLd
-Standrd2	@Standard
 SteelDrm	@TnklBell
 Strings2	@Strings1
 Syn. Str	@Strings1
@@ -60,3 +59,48 @@ VoiceOoh	@SynVoice
 Warm Pad	@NewAgePd
 WireLead	@SquareLd
 Woodblok	@TnklBell
+Standrd2	@Standard
+Standrd3	@Standard
+Dry Kit	@Standard
+BrightKt	@Standard
+Skim Kit	@Standard
+Slim Kit	@Standard
+RogueKit	@Standard
+Hob Kit	@Standard
+Room Kit	@Standard
+DarkRoom	@Standard
+TechnoKt	@Standard
+PowerKit	@Standard
+Rock Kit	@Standard
+RockKit2	@Standard
+Electro	@Standard
+AnalogKt	@Standard
+Anal.Kt2	@Standard
+DanceKit	@Standard
+HipHopKt	@Standard
+JungleKt	@Standard
+ApogeeKt	@Standard
+Perigee	@Standard
+Jazz Kit	@Standard
+JazzKit2	@Standard
+BrushKit	@Standard
+BrushKt2	@Standard
+Symphony	@Standard
+Orch.Kit	@Standard
+EthnicKt	@Standard
+KikSnare	@Standard
+AsianKit	@Standard
+CymblKit	@Standard
+SFX Kit	@Standard
+Ntrl Kit	@Standard
+NtrlFunk	@Standard
+TrampKit	@Standard
+AmberKit	@Standard
+CoffinKt	@Standard
+Live Std	@Standard
+LiveFunk	@Standard
+Lv Brush	@Standard
+Std&Perc	@Standard
+FunkPerc	@Standard
+Brush&P.	@Standard
+MT-32 Kt	@Standard
