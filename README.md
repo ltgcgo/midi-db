@@ -20,6 +20,7 @@ Blank names can either mean placeholder or silence.
 
 #### Bank categories
 - [x] `000`: Melodic Voices
+- [ ] `048`: MU-100 Extension
 - [x] `064`: XG SFX Voices
 - [x] `120`: GS/GM2 Drum Kits
 - [x] `121`: GM2 Voices
@@ -51,6 +52,7 @@ Blank names can either mean placeholder or silence.
 - [x] `001`: Roland SC-55 map
 - [x] `002`: Roland SC-88 map
 - [x] `003`: Roland SC-88 Pro map
+- [ ] `004`: Roland SC-8850 map
 - [x] `120` (MSB): Roland GS Drum Kits
 - [x] `126`: Roland MT-32 alternate map
 - [x] `127`: Roland MT-32 main map
@@ -77,9 +79,11 @@ Blank names can either mean placeholder or silence.
 - [x] `056`: KORG AG-10 map: _GM-b_
 - [x] `061`: KORG Drum Kits
 - [x] `062`: KORG X5D(R) & AG-10 Drum Kits
+- [x] `080`: KORG ProgU _(reserved)_
 - [x] `081`: KORG 05R/W map: _ProgA_
 - [x] `082`: KORG X5D(R): _ProgB_
 - [x] `083`: KORG ProgC
+- [x] `088`: KORG CmbU _(reserved)_
 - [x] `089`: KORG CmbA
 - [x] `090`: KORG CmbB
 - [x] `091`: KORG CmbC
@@ -94,3 +98,22 @@ Blank names can either mean placeholder or silence.
 
 ##### Standard
 * General MIDI
+
+### KORG KROSS 2
+#### Bank selection
+**Table**: [ns5r.tsv](/bank/ns5r.tsv)
+**Importance**: MSB LSB PRG
+
+#### Bank categories
+All occupies MSB `063`. Listed values are LSB values.
+- [ ] `000` ProgA
+- [ ] `001` ProgB
+- [ ] `002` ProgC
+- [ ] `003` ProgD
+- [ ] `004` ProgE
+- [ ] `005` ProgF
+- [x] `006`-`009` ProgUA/B/C/D _(reserved)_
+- [ ] `010` _(mapped from `000`)_ CombA
+- [ ] `011` _(mapped from `001`)_ CombB
+- [ ] `012` _(mapped from `002`)_ CombC
+- [x] `013`-`016` _(mapped from `003`-`006`)_ CombUA/B/C/D _(reserved)_
