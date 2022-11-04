@@ -145,7 +145,6 @@ Blank names can either mean placeholder or silence.
 
 #### Compatibility
 ##### Devices
-* AKAI SG01k
 * AKAI SG01v
 
 ### KORG KROSS 2
