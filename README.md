@@ -125,7 +125,7 @@ Blank names can either mean placeholder or silence.
 **Importance**: MSB **LSB** PRG
 
 #### Bank categories
-- [ ] `004`: SP Bank
+- [ ] `004`: SP Bank _(MT-32 compatible?)_
 - [ ] `007`: LX SP Bank
 
 #### Compatibility
