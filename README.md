@@ -13,17 +13,34 @@ Major maps contains Yamaha-ish voice/kit IDs, not actual names. Actual names for
 
 Blank names can either mean placeholder or silence.
 
+### General MIDI
+#### Bank selection
+**Table**: [gm.tsv](/bank/gm.tsv)
+
+**Importance**: **MSB** PRG LSB
+
+#### Bank categories
+- [x] `000`: Melodic Voices
+
+### General MIDI rev. 2
+#### Bank selection
+**Table**: [gm2.tsv](/bank/gm2.tsv)
+
+**Importance**: **MSB** PRG LSB
+#### Bank categories
+- [x] `120`: Drum Kits
+- [x] `121`: Melodic Voices
+
 ### YAMAHA XG
 #### Bank selection
 **Table**: [xg.tsv](/bank/xg.tsv)
-**Importance**: MSB PRG LSB
+
+**Importance**: **MSB** PRG LSB
 
 #### Bank categories
 - [x] `000`: Melodic Voices
 - [ ] `048`: MU-100 Extension
 - [x] `064`: XG SFX Voices
-- [x] `120`: GS/GM2 Drum Kits
-- [x] `121`: GM2 Voices
 - [x] `126`: XG SFX Kits
 - [x] `127`: XG Drum Kits
 
@@ -45,10 +62,10 @@ Blank names can either mean placeholder or silence.
 ### Roland GS
 #### Bank selection
 **Table**: [gs.tsv](/bank/gs.tsv)
-**Importance**: LSB PRG MSB
+
+**Importance**: **LSB** PRG MSB
 
 #### Bank categories
-- [x] `000`: GS standard
 - [x] `001`: Roland SC-55 map
 - [x] `002`: Roland SC-88 map
 - [x] `003`: Roland SC-88 Pro map
@@ -63,6 +80,7 @@ Blank names can either mean placeholder or silence.
 * SC-55
 * SC-88
 * SC-88 Pro
+* SC-8850
 
 ##### Standard
 * General MIDI
@@ -71,7 +89,8 @@ Blank names can either mean placeholder or silence.
 ### KORG NS5R
 #### Bank selection
 **Table**: [ns5r.tsv](/bank/ns5r.tsv)
-**Importance**: MSB PRG LSB
+
+**Importance**: **MSB** PRG LSB
 
 #### Bank categories
 (As of KORG NS5R and later, all synth modules support GS and XG voice maps.)
@@ -99,9 +118,40 @@ Blank names can either mean placeholder or silence.
 ##### Standard
 * General MIDI
 
+### KAWAI GMega
+#### Bank selection
+**Table**: [gmega.tsv](/bank/gmega.tsv)
+
+**Importance**: MSB **LSB** PRG
+
+#### Bank categories
+- [ ] `004`: SP Bank
+- [ ] `007`: LX SP Bank
+
+#### Compatibility
+##### Devices
+* KAWAI GMega
+* KAWAI GMega LX
+* KAWAI K11
+
+### AKAI SG
+#### Bank selection
+**Table**: [sg.tsv](/bank/sg.tsv)
+
+**Importance**: LSB **MSB** PRG
+
+#### Bank categories
+- [ ] `001`: Bank 01
+
+#### Compatibility
+##### Devices
+* AKAI SG01k
+* AKAI SG01v
+
 ### KORG KROSS 2
 #### Bank selection
 **Table**: [ns5r.tsv](/bank/ns5r.tsv)
+
 **Importance**: MSB LSB PRG
 
 #### Bank categories
