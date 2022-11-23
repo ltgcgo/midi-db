@@ -46,8 +46,14 @@ Blank names can either mean placeholder or silence.
 
 #### Compatibility
 ##### Device
+* QY10
 * QY70
 * QY100
+* S-YXG50
+* S-YXG70
+* S-YXG100
+* S-YXG2006
+* MU50
 * MU80
 * MU90
 * MU100
@@ -77,6 +83,7 @@ Blank names can either mean placeholder or silence.
 #### Compatibility
 ##### Devices
 * MT-32
+* CM-64
 * SC-55
 * SC-88
 * SC-88 Pro
@@ -146,6 +153,32 @@ Blank names can either mean placeholder or silence.
 #### Compatibility
 ##### Devices
 * AKAI SG01v
+
+### YAMAHA PLG-150VL
+#### Bank selection
+**Table**: [plg-150vl.tsv](/bank/plg-150vl.tsv)
+
+**Importance**: **MSB** LSB PRG
+
+#### Bank categories
+- [x] `097`: PLG-150VL / SONDIUS-XG
+
+### YAMAHA PLG-100SG
+#### Bank selection
+**Table**: [plg-100sg.tsv](/bank/plg-100sg.tsv)
+
+**Importance**: **MSB** LSB PRG
+
+#### Bank categories
+- [x] `098`: PLG-100SG
+
+#### Compatibility
+##### Devices
+* MU100
+* MU128
+* MU500
+* MU1000
+* MU2000
 
 ### KORG KROSS 2
 #### Bank selection
