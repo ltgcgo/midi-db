@@ -161,6 +161,7 @@ Blank names can either mean placeholder or silence.
 **Importance**: **MSB** LSB PRG
 
 #### Bank categories
+- [x] `033`: PLG-150VL Preset (redirect to LSB 005~008 from LSB 000~003)
 - [x] `097`: PLG-150VL / SONDIUS-XG
 
 ### YAMAHA PLG-100SG
