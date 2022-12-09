@@ -88,6 +88,7 @@ Blank names can either mean placeholder or silence.
 * SC-88
 * SC-88 Pro
 * SC-8850
+* AKAI SG01k
 
 ##### Standard
 * General MIDI
@@ -132,7 +133,7 @@ Blank names can either mean placeholder or silence.
 **Importance**: MSB **LSB** PRG
 
 #### Bank categories
-- [ ] `004`: SP Bank _(MT-32 compatible?)_
+- [ ] `004`: SP Bank _(MT-32 compatible)_
 - [ ] `007`: LX SP Bank
 
 #### Compatibility
@@ -145,13 +146,15 @@ Blank names can either mean placeholder or silence.
 #### Bank selection
 **Table**: [sg.tsv](/bank/sg.tsv)
 
-**Importance**: LSB **MSB** PRG
+**Importance**: LSB PRG **MSB**
 
 #### Bank categories
-- [ ] `001`: Bank 01
+- [ ] `001`: Bank 01 (SG01v)
+- [x] `008`: Bank 08 (SG01k)
 
 #### Compatibility
 ##### Devices
+* AKAI SG01k
 * AKAI SG01v
 
 ### YAMAHA PLG-150VL
