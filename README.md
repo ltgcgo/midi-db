@@ -157,6 +157,16 @@ Blank names can either mean placeholder or silence.
 * AKAI SG01k
 * AKAI SG01v
 
+### YAMAHA PLG-150PF/AP
+#### Bank selection
+**Table**: [plg-150pf.tsv](/bank/plg-150pf.tsv)
+
+**Importance**: **MSB** PRG LSB
+
+#### Bank categories
+- [ ] `032`: PLG-150AP Preset (redirect to LSB 005 from LSB 001)
+- [ ] `096`: PLG-150PF/AP
+
 ### YAMAHA PLG-150VL
 #### Bank selection
 **Table**: [plg-150vl.tsv](/bank/plg-150vl.tsv)
