@@ -133,8 +133,8 @@ Blank names can either mean placeholder or silence.
 **Importance**: MSB **LSB** PRG
 
 #### Bank categories
-- [ ] `004`: SP Bank _(MT-32 compatible)_
-- [ ] `007`: LX SP Bank
+- [x] `004`: SP Bank _(MT-32 compatible)_
+- [x] `007`: LX Bank
 
 #### Compatibility
 ##### Devices
@@ -164,8 +164,8 @@ Blank names can either mean placeholder or silence.
 **Importance**: **MSB** PRG LSB
 
 #### Bank categories
-- [ ] `032`: PLG-150AP Preset (redirect to LSB 005 from LSB 001)
-- [ ] `096`: PLG-150PF/AP
+- [x] `032`: PLG-150AP Preset (redirect to LSB 005 from LSB 001)
+- [x] `096`: PLG-150PF/AP
 
 ### YAMAHA PLG-150VL
 #### Bank selection
@@ -174,7 +174,7 @@ Blank names can either mean placeholder or silence.
 **Importance**: **MSB** LSB PRG
 
 #### Bank categories
-- [x] `033`: PLG-150VL Preset (redirect to LSB 005~008 from LSB 000~003)
+- [x] `033`: PLG-150VL Preset (redirect to LSB 005-008 from LSB 000-003)
 - [x] `097`: PLG-150VL / SONDIUS-XG
 
 ### YAMAHA PLG-100SG
