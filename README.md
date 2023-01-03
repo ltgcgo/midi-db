@@ -39,13 +39,15 @@ Blank names can either mean placeholder or silence.
 
 #### Bank categories
 - [x] `000`: Melodic Voices
-- [ ] `048`: MU-100 Extension
+- [x] `048`: MU100 Model Exclusive Voices
 - [x] `064`: XG SFX Voices
 - [x] `126`: XG SFX Kits
 - [x] `127`: XG Drum Kits
 
 #### Compatibility
 ##### Device
+* TG100
+* TG300
 * QY10
 * QY70
 * QY100
@@ -53,6 +55,7 @@ Blank names can either mean placeholder or silence.
 * S-YXG70
 * S-YXG100
 * S-YXG2006
+* MU5
 * MU50
 * MU80
 * MU90
@@ -185,14 +188,6 @@ Blank names can either mean placeholder or silence.
 
 #### Bank categories
 - [x] `098`: PLG-100SG
-
-#### Compatibility
-##### Devices
-* MU100
-* MU128
-* MU500
-* MU1000
-* MU2000
 
 ### KORG KROSS 2
 #### Bank selection
