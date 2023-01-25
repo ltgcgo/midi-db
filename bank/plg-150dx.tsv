@@ -1,0 +1,657 @@
+MSB	LSB	PRG	NME
+067	0	1	Turn Tbl
+067	0	17	DX-Clave
+067	0	18	SideStck
+067	0	19	Snapie
+067	0	20	Deep Snr
+067	0	21	SumohDrm
+067	0	33	DX-Wave
+067	0	34	Image  3
+067	0	49	DX-Piyo1
+067	0	50	DX-Inct1
+067	0	51	DX-Grwl1
+067	0	52	DX-Grwl2
+067	0	53	Help me!
+067	0	54	DX-Wolf
+067	0	55	JnglBell
+067	0	56	DX-Inct2
+067	0	65	DX-Ring1
+067	0	66	DX-TlCal
+067	0	67	DX-TlBsy
+067	0	68	DX-TlTne
+067	0	69	DX-Ring2
+067	0	70	DX-BigBn
+067	0	71	IronEch1
+067	0	72	IronEch2
+067	0	73	DX-RvCy1
+067	0	74	DX-RvCy2
+067	0	81	DX-Hlcpt
+067	0	82	DX-Train
+067	0	83	Take Off
+067	0	84	Mobile 1
+067	0	85	MotrCycl
+067	0	86	DX-Ship
+067	0	87	Closing
+067	0	88	Scrchers
+067	0	89	MM-Fall
+067	0	90	DX-Flght
+067	0	91	MobyDick
+067	0	92	OutLimit
+067	0	97	Paranoir
+067	0	98	CaGhstLn
+067	0	99	MM-Shk 2
+067	0	100	Image 1
+067	0	101	Image 2
+067	0	102	Tenjiku
+067	0	103	Metal
+067	0	104	Flxatone
+067	0	105	Spoon
+067	0	113	WhikShot
+067	0	114	PercShot
+067	0	115	Crasher
+067	0	116	Laser 1
+067	0	117	Laser 2
+067	0	118	Laser 3
+067	0	119	Stopper
+067	0	120	Wallop 1
+067	0	121	Wallop 2
+067	0	122	StreetSD
+067	0	123	ManEater
+067	0	124	SmbaWhsl
+067	0	125	Refs Wsl
+067	0	126	Triangl1
+067	0	127	Triangl2
+067	0	128	SlighBel
+99	0	1	FrtePno1
+99	0	2	BritPno1
+99	0	3	DXCP-70
+99	0	4	DX-Rgtim
+99	0	5	DX-Road1
+99	0	6	E.Pno 1
+99	0	7	Harpsi 1
+99	0	8	MM-Clav1
+99	0	9	Celesta1
+99	0	10	Glocken1
+99	0	11	MusicBx1
+99	0	12	DX-Vibe1
+99	0	13	DX-Mrmb1
+99	0	14	DX-Xylo1
+99	0	15	Carillon
+99	0	16	DX-Dlcm1
+99	0	17	FullOrgn
+99	0	18	PrcOrg 1
+99	0	19	RckOrg 1
+99	0	20	DXChrch1
+99	0	21	PufOrgn1
+99	0	22	DX-Acrd1
+99	0	23	DX-Hmnc1
+99	0	24	DX-TngAc
+99	0	25	DX-AcGt1
+99	0	26	DX-PkGt1
+99	0	27	DX-JzGt1
+99	0	28	DX-ClGt1
+99	0	29	DX-MtGt1
+99	0	30	DX-ODGt
+99	0	31	Fuzz Gtr
+99	0	33	DX-WdBa1
+99	0	34	DX-FgBa1
+99	0	35	DX-PkBa1
+99	0	36	FrtlsBa1
+99	0	37	RundWund
+99	0	38	DigiBas1
+99	0	39	DX-SyBa1
+99	0	40	DX-Bass1
+99	0	41	DX-Vln 1
+99	0	42	DX-Vla 1
+99	0	43	DX-Celo1
+99	0	46	DX-Pizz1
+99	0	47	LuteHarp
+99	0	48	DX-Tmpni
+99	0	49	Mid Str1
+99	0	50	WarmStr1
+99	0	51	DX-SySt1
+99	0	52	DX-SySt6
+99	0	53	DX-Cho 1
+99	0	55	DX-Cho 6
+99	0	57	DX-Trpt1
+99	0	58	DX-Trb 1
+99	0	59	DX-Tuba1
+99	0	61	DX-Horn
+99	0	62	DX-BrSc1
+99	0	63	CS80-Br1
+99	0	64	ChorsBrs
+99	0	65	DxSprnSx
+99	0	66	DxAltoSx
+99	0	67	DxTenrSx
+99	0	69	Oboe 1
+99	0	70	Eng.Horn
+99	0	71	Bassoon
+99	0	72	VbrtClar
+99	0	73	Piccolo1
+99	0	74	DX-Flt 1
+99	0	75	Recordr1
+99	0	76	DX-PnFl1
+99	0	77	Fuhppps!
+99	0	79	Whistle1
+99	0	80	DX-Ocrn1
+99	0	81	DX-Squar
+99	0	82	DXSyLd 1
+99	0	83	CaliopL1
+99	0	84	BrsLead1
+99	0	85	Au Campo
+99	0	86	DX-VceLd
+99	0	87	Fifths 1
+99	0	88	LeadLine
+99	0	89	HyperSqr
+99	0	90	Film Pad
+99	0	91	BritePad
+99	0	92	DX-ChPd1
+99	0	93	BowPad 1
+99	0	94	DX-MtPd1
+99	0	95	GrngePad
+99	0	96	SweepPd1
+99	0	98	FluvPush
+99	0	99	MtalGlkn
+99	0	100	PrdsGlok
+99	0	101	DX-Brit1
+99	0	102	Fmilters
+99	0	103	WaterLog
+99	0	104	DX-ScFi1
+99	0	105	DX-Sitr1
+99	0	106	DX-Banjo
+99	0	107	Shamisn1
+99	0	108	DX-Koto
+99	0	109	DX-Klmb1
+99	0	110	DX-BgPip
+99	0	111	DX-Fidle
+99	0	112	ScchTone
+99	0	113	HandBel1
+99	0	114	DX-Aggo1
+99	0	115	StlDrum1
+99	0	116	Block
+99	0	117	Janpany
+99	0	119	MM-SDr 1
+99	64	1	FrtePno2
+99	64	2	BritPno2
+99	64	3	El.Gnd 1
+99	64	4	ToyPno 1
+99	64	5	BigWurlt
+99	64	6	ClrE.Pno
+99	64	7	Cembalim
+99	64	8	MM-Clav2
+99	64	9	Celesta2
+99	64	10	Glocken2
+99	64	12	MM-Vibe1
+99	64	13	BritMrmb
+99	64	14	DX-Xylo2
+99	64	15	DX-Bel 1
+99	64	17	DrwOrg 1
+99	64	18	PrcOrg 2
+99	64	19	RckOrg 2
+99	64	20	PipeOrg1
+99	64	21	SoftRdOr
+99	64	22	DX-Acrd2
+99	64	23	DX-Hmnc2
+99	64	25	DX-AcGt2
+99	64	26	DX-PkGt2
+99	64	27	DX-JzGt2
+99	64	28	DX-ClGt2
+99	64	29	DX-MtGt2
+99	64	31	DX-DsGt1
+99	64	33	DX-WdBa2
+99	64	34	DX-FgBa2
+99	64	35	PickPluk
+99	64	36	FrtlsBa2
+99	64	37	SlapStrg
+99	64	38	SuprBas1
+99	64	39	DX-SyBa2
+99	64	40	Remark
+99	64	41	DX-Vln 2
+99	64	42	DX-Vla 2
+99	64	43	Rosin
+99	64	46	Pizz Str
+99	64	47	Syn Harp
+99	64	49	Mid Str2
+99	64	50	Low Str1
+99	64	51	Anna Str
+99	64	52	DX-SySt7
+99	64	53	DX-Cho 2
+99	64	55	DX-Cho 7
+99	64	57	DX-Trpt2
+99	64	58	DX-Trb 2
+99	64	59	DX-Tuba2
+99	64	61	MelwHrn1
+99	64	62	DX-BrSc2
+99	64	63	CS80-Br2
+99	64	64	SyntiBrs
+99	64	67	DX-Tsax
+99	64	69	Oboe 2
+99	64	72	SlowClar
+99	64	73	Piccolo2
+99	64	74	DX-Flt 2
+99	64	75	Recordr2
+99	64	76	Forest99
+99	64	77	DX-Botle
+99	64	80	DX-Ocrn2
+99	64	81	DX-SLd 1
+99	64	82	DXSyLd 2
+99	64	83	CaliopL2
+99	64	84	DX-WahLd
+99	64	85	LeadPhon
+99	64	86	Giovanni
+99	64	87	Fifths 2
+99	64	88	BassLead
+99	64	89	Cho+Mrmb
+99	64	90	DX-SawPd
+99	64	91	SyBr Pd1
+99	64	92	Anna Pad
+99	64	93	BowPad 2
+99	64	94	InitEnsm
+99	64	95	StacHevn
+99	64	96	Evlution
+99	64	99	BellPluk
+99	64	100	Brassy
+99	64	101	DX-Brit2
+99	64	104	DX-ScFi2
+99	64	105	DX-Sitr2
+99	64	107	Shamisn2
+99	64	108	Koto+Flt
+99	64	109	DX-Klmb2
+99	64	113	HandBel2
+99	64	114	DX-Aggo2
+99	64	115	StlDrum2
+99	64	117	SoftHead
+99	64	119	MM-SDr 2
+99	65	1	MM-Pno 1
+99	65	2	BritPno3
+99	65	3	El.Gnd 2
+99	65	4	ToyPno 2
+99	65	5	WurliEP1
+99	65	6	E.Pno 2
+99	65	7	AD1600s1
+99	65	8	SkltnClv
+99	65	9	Celesta3
+99	65	10	Glocken3
+99	65	12	DX-Vibe2
+99	65	13	DX-Mrmb2
+99	65	15	MM-Bell
+99	65	17	DrwOrg 2
+99	65	18	PrcOrg 3
+99	65	19	RckOrg 3
+99	65	20	PipeOrg2
+99	65	21	PufOrgn2
+99	65	22	DX-Acrd3
+99	65	23	BuzzHarp
+99	65	25	DX-AcGt3
+99	65	26	DX-PkGt3
+99	65	27	DX-JzGt3
+99	65	28	DX-ClGt3
+99	65	29	DX-MtGt3
+99	65	31	DX-DsGt2
+99	65	33	DX-WdBa3
+99	65	34	HarmBass
+99	65	35	ChifBass
+99	65	36	FrtlsBa3
+99	65	37	LiteSlap
+99	65	38	DrhtBass
+99	65	39	DX-SyBa3
+99	65	40	DX-Bass2
+99	65	41	DX-Vln 3
+99	65	43	DX-Celo2
+99	65	47	OrchHarp
+99	65	49	Brit Str
+99	65	50	Low Str2
+99	65	51	SmalSect
+99	65	52	DX-AnSt3
+99	65	53	DX-Cho 3
+99	65	55	DX-Cho 8
+99	65	57	DX-Trpt3
+99	65	58	Mute Trb
+99	65	61	MelwHrn2
+99	65	62	5th Brss
+99	65	63	DX-SBr 1
+99	65	64	DX-SBr 7
+99	65	69	Oboe 3
+99	65	72	DX-Clar1
+99	65	74	DX-Flt 3
+99	65	75	Recordr3
+99	65	76	Harvest
+99	65	77	Quena
+99	65	80	DX-Ocrn3
+99	65	81	DX-SLd 2
+99	65	82	DXSyLd 3
+99	65	83	PuffPipe
+99	65	84	BrsLead2
+99	65	85	SweepLd
+99	65	86	SnglLine
+99	65	88	EadgbeLd
+99	65	89	IceHeven
+99	65	90	ElecComb
+99	65	91	SyBr Pd2
+99	65	92	Whisper1
+99	65	93	BowPad 3
+99	65	94	MtlSweep
+99	65	96	Phasers
+99	65	99	MtalDlcm
+99	65	100	Electric
+99	65	101	SynBrite
+99	65	104	Baroque
+99	65	105	JuceHarp
+99	65	107	Shamisn3
+99	65	109	DX-Klmb3
+99	65	113	TrcrBell
+99	65	115	Jamaica
+99	65	119	Tom Herz
+99	66	1	Digi Pno
+99	66	2	5th Pno1
+99	66	3	El.Gnd 3
+99	66	4	ToyPno 3
+99	66	5	EP 1980
+99	66	6	Urban
+99	66	7	AD1600s2
+99	66	8	ClavStf1
+99	66	10	Glocken4
+99	66	12	DX-Vibe3
+99	66	13	DX-Mrmb3
+99	66	15	MiniBell
+99	66	17	DrwOrg 3
+99	66	18	DxJazOr1
+99	66	19	RckOrg 4
+99	66	20	DXChrch2
+99	66	21	StretOrg
+99	66	22	DX-Acrd4
+99	66	23	FM-Hmnc1
+99	66	25	DX-AcGt4
+99	66	26	DX-PkGt4
+99	66	27	DX-JzGt4
+99	66	28	DX-ClGt4
+99	66	29	DX-MtGt4
+99	66	31	DX-DsGt3
+99	66	33	SmohBass
+99	66	34	NstyBass
+99	66	35	Plktrmbs
+99	66	36	FrtlsBa4
+99	66	37	ImpctBas
+99	66	38	Brainacs
+99	66	39	Cutmandu
+99	66	40	DX-Bass3
+99	66	43	DX-Celo3
+99	66	47	Harp+Flt
+99	66	49	DX-Str 1
+99	66	50	DX-Str10
+99	66	51	Michelle
+99	66	52	MM-Str 1
+99	66	53	DX-Cho 4
+99	66	55	MM-Vce 1
+99	66	57	DX-Trpt4
+99	66	61	MletHorn
+99	66	62	TightBr1
+99	66	63	DX-SBr 2
+99	66	64	SamplBrs
+99	66	72	DX-Clar2
+99	66	74	DX-Flt 4
+99	66	81	LyleLead
+99	66	82	Super DX
+99	66	83	CaliopL3
+99	66	84	BrsLead3
+99	66	85	LdSbHarm
+99	66	88	DX-Ba+Ld
+99	66	89	MM-Prety
+99	66	90	Fl.Cloud
+99	66	91	SyBr Pd3
+99	66	93	Ethereal
+99	66	94	Gior Pad
+99	66	96	FM-Grwth
+99	66	99	MetalBox
+99	66	100	DX-Atms1
+99	66	104	DX-ScFi3
+99	66	105	Xanu
+99	66	115	SteelCan
+99	67	3	MM-EGnd1
+99	67	4	ToyPno 4
+99	67	5	DX-Road2
+99	67	6	E.Pno 3
+99	67	7	Harpsi 2
+99	67	8	Revinett
+99	67	12	DX-Vibe4
+99	67	13	MtalMrmb
+99	67	15	DX-Bel 2
+99	67	17	JazOrg 1
+99	67	18	PrcOrg 4
+99	67	19	RckOrg 5
+99	67	20	PipeOrg3
+99	67	22	DX-Acrd5
+99	67	23	FM-Hmnc2
+99	67	25	Lute Gtr
+99	67	26	DX-PkGt5
+99	67	28	DX-ClGt5
+99	67	29	HevyGage
+99	67	31	DX-DsGt4
+99	67	33	After 88
+99	67	34	FustBass
+99	67	35	Owl Bass
+99	67	36	FrtlsBa5
+99	67	37	Afresh
+99	67	38	DigiBas2
+99	67	39	DX-SyBa4
+99	67	40	Hop Bass
+99	67	49	DX-Str 2
+99	67	50	DX-Str11
+99	67	51	DX-SySt2
+99	67	52	WarmStr3
+99	67	53	DX-Cho 5
+99	67	55	MM-Vce 2
+99	67	57	SlvTrmpt
+99	67	61	BlnchHrn
+99	67	62	TightBr2
+99	67	63	DX-SBr 3
+99	67	64	SinglBrs
+99	67	74	DX-Flt 5
+99	67	81	DX-SLd 3
+99	67	82	DXSyLd 4
+99	67	84	DXAtkLd
+99	67	88	FrtlsLd
+99	67	89	TngVoice
+99	67	90	Floating
+99	67	91	SyBr Pd4
+99	67	93	Glassy
+99	67	100	DX-Atms2
+99	67	104	DX-Stars
+99	67	105	EthrFour
+99	68	3	MM-EGnd2
+99	68	4	PrprdPno
+99	68	5	DX-Road3
+99	68	6	Vics EP
+99	68	7	Harpsi 3
+99	68	8	Clavecn1
+99	68	12	BellVibe
+99	68	15	DX-Bel 3
+99	68	17	Farf Out
+99	68	18	PrcOrg 5
+99	68	19	RckOrg 6
+99	68	20	PipeOrg4
+99	68	25	DX-AcGt5
+99	68	26	DX-PkGt6
+99	68	28	DX-ClGt6
+99	68	31	DX-DsGt5
+99	68	33	DX-WdBa4
+99	68	34	ClavBass
+99	68	35	MtalBass
+99	68	39	BassNovo
+99	68	40	Excite
+99	68	49	DX-Str 3
+99	68	50	DX-Str12
+99	68	51	DX-SySt3
+99	68	52	WarmStr4
+99	68	55	MM-Vce 3
+99	68	61	AlpsHorn
+99	68	62	BlowBrss
+99	68	63	DX-SBr 4
+99	68	64	ThickBrs
+99	68	74	DX-Flt 6
+99	68	81	DX-SLd 4
+99	68	82	DXSyLd 5
+99	68	89	Str Tine
+99	68	90	BrsyWarm
+99	68	91	SyBr Pd5
+99	68	93	GlssHarp
+99	69	3	DigiPoly
+99	69	4	Bell Pno
+99	69	5	Old Jazz
+99	69	6	E.Pno 4
+99	69	7	Harpsi 4
+99	69	8	E.P/Clav
+99	69	12	LFO Vibe
+99	69	15	DX-Bel 4
+99	69	17	DrwOrg 4
+99	69	18	PrcOrg 6
+99	69	19	RckOrg 7
+99	69	20	PipeOrg5
+99	69	25	Mrmb Gtr
+99	69	26	DX-PkGt7
+99	69	28	DX-ClGt7
+99	69	33	DX-WdBa5
+99	69	34	DX-FgBa3
+99	69	35	WireBass
+99	69	39	DX-SyBa5
+99	69	40	DX-Bass4
+99	69	49	DX-Str 4
+99	69	50	DX-Str13
+99	69	51	DX-SySt4
+99	69	52	HalOrch1
+99	69	55	Dbvoxfem
+99	69	61	VibraHrn
+99	69	62	BrssSect
+99	69	63	DX-SBr 5
+99	69	64	XyloBrss
+99	69	74	DX-Flt 7
+99	69	81	DX-SLd 5
+99	69	82	DXSyLd 6
+99	69	90	WhstlPad
+99	69	91	SyBr Pd6
+99	69	93	Ice Glxy
+99	70	3	Mark III
+99	70	4	Andrian
+99	70	5	Knock EP
+99	70	6	E.Pno 5
+99	70	7	Caffeine
+99	70	8	DX-Clv 1
+99	70	12	Vibetron
+99	70	15	DX-Bel 5
+99	70	17	DrwOrg 5
+99	70	18	PrcOrg 7
+99	70	19	RckOrg 8
+99	70	26	Tite Gtr
+99	70	28	DX-ClGt8
+99	70	34	Inorganc
+99	70	39	DX-SyBa6
+99	70	49	DX-Str 5
+99	70	51	DX-AnSt1
+99	70	52	HalOrch2
+99	70	55	Lady Vox
+99	70	62	WarmBrss
+99	70	63	DX-SBr 6
+99	70	64	OrchBrss
+99	70	74	MtalFlut
+99	70	81	DX-SLd 6
+99	70	82	DXSyLd 7
+99	70	91	SyBr Pd7
+99	70	93	SpceTrip
+99	71	3	RatioDob
+99	71	4	SftEPno1
+99	71	5	EP 1970
+99	71	6	FulTine1
+99	71	7	HarpsiWr
+99	71	8	ClavComp
+99	71	15	DX-Bel 6
+99	71	17	DrwOrg 6
+99	71	18	PrcOrg 8
+99	71	19	RckOrg 9
+99	71	26	Gtr Box
+99	71	39	DX-SyBa7
+99	71	49	DX-Str 6
+99	71	51	DX-AnSt2
+99	71	52	Maxi Str
+99	71	55	SpaceVox
+99	71	62	Horn Ens
+99	71	63	MM-Brss1
+99	71	64	Ensemble
+99	71	74	AirBlowr
+99	71	82	Vibratrn
+99	71	91	ClaviPad
+99	72	4	SftEPno2
+99	72	5	DX-Road4
+99	72	6	Duke EP
+99	72	7	Harpsi 5
+99	72	8	DX-Clv 2
+99	72	15	TmplBel1
+99	72	17	DrwOrg 7
+99	72	18	PrcOrg 9
+99	72	19	RckOrg10
+99	72	26	LongNail
+99	72	39	DX-SyBa8
+99	72	49	DX-Str 7
+99	72	51	AgtateMs
+99	72	52	SilkHall
+99	72	55	Syn Vox
+99	72	62	Fanfare
+99	72	63	MM-Brss2
+99	72	64	Kingdom
+99	72	82	DXSyLd 8
+99	72	91	Dspo Pad
+99	73	4	GlockPno
+99	73	5	PrcEPno1
+99	73	6	E.Pno 6
+99	73	8	DX-Clv 3
+99	73	15	TmplBel2
+99	73	17	DrwOrg 8
+99	73	18	PrcOrg10
+99	73	19	RckOrg11
+99	73	26	Firenze
+99	73	49	DX-Str 8
+99	73	51	SolinePf
+99	73	52	Aftrnoon
+99	73	63	MM-Brss3
+99	73	82	Winwood
+99	73	91	FnerThng
+99	74	5	ModEPno1
+99	74	6	E.Pno 7
+99	74	8	ClavExcl
+99	74	15	TmplBel3
+99	74	17	DrwOrg 9
+99	74	18	PrcOrg11
+99	74	19	RckOrg12
+99	74	26	Folknik
+99	74	51	Soft Bow
+99	74	52	ST.Machn
+99	74	63	Funkrhyt
+99	74	91	MnstrPad
+99	75	6	FulTine2
+99	75	8	BritClv1
+99	75	17	DrwOrg10
+99	75	18	PrcOrg12
+99	75	19	SynOrg 2
+99	75	26	RytmPluk
+99	75	51	GntlMind
+99	75	52	MoterDrv
+99	75	63	PowerDrv
+99	75	91	WhaserPd
+99	76	6	E.Pno 8
+99	76	8	BritClv2
+99	76	17	DrwOrg11
+99	76	18	PrcOrg13
+99	76	51	Gypsy
+99	76	63	RahlBrss
+99	76	91	BackSuir
+99	77	6	E.Pno 9
+99	77	8	DX-Clv 4
+99	77	17	DrwOrg12
+99	77	18	PrcOrg14
+99	77	63	UltraDrv
+99	77	91	PsrSweep
+99	78	6	E.Pno10
+99	78	8	DX-Clv 5
+99	78	18	SynOrg 1
+99	78	63	Ana Poly
+99	79	63	Court
+99	80	63	Juice
