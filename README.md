@@ -160,7 +160,37 @@ Blank names can either mean placeholder or silence.
 * AKAI SG01k
 * AKAI SG01v
 
-### YAMAHA PLG-150PF/AP
+### YAMAHA PLG-150AN
+#### Bank selection
+**Table**: [plg-150an.tsv](/bank/plg-150an.tsv)
+
+**Importance**: **MSB** PRG LSB
+
+#### Bank categories
+- [ ] `036`: PLG-150AN Preset (redirect to LSB 005-007 from LSB 000-002)
+- [x] `100`: PLG-150AN
+
+#### YAMAHA PLG-150DR/PC
+#### Bank selection
+**Table**: [plg-150dr.tsv](/bank/plg-150dr.tsv)
+
+**Importance**: **MSB** PRG LSB
+
+#### Bank categories
+- [x] `095`: PLG-150DR/PC
+
+#### YAMAHA PLG-150DX
+#### Bank selection
+**Table**: [plg-150dx.tsv](/bank/plg-150dx.tsv)
+
+**Importance**: **MSB** PRG LSB
+
+#### Bank categories
+- [ ] `035`: PLG-150DX Preset (redirect to LSB 005-007 from LSB 000-002)
+- [x] `067`: PLG-150DX SFX
+- [x] `099`: PLG-150DX Voices
+
+#### YAMAHA PLG-150PF/AP
 #### Bank selection
 **Table**: [plg-150pf.tsv](/bank/plg-150pf.tsv)
 
