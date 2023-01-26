@@ -1,237 +1,237 @@
 MSB	PRG	LSB	NME
-100	039	000	ANSynBas
-100	039	064	RealMini
-100	039	065	Chamleon
-100	039	066	Cream
-100	039	067	Maxx
-100	039	068	2001
-100	039	069	BlapMoth
-100	039	070	Ruff
-100	039	071	BiggMac
-100	039	072	Prphtic1
-100	039	073	Prphtic2
-100	039	074	Wonder
-100	039	075	Slum
-100	039	096	X-Bass
-100	040	000	FootBase
-100	040	064	Mini Low
-100	040	065	DuckBass
-100	040	066	10thTone
-100	040	067	DuckBas2
-100	040	068	Cracker
-100	040	069	Monty
-100	040	070	BirdWrld
-100	040	071	Woodbass
-100	040	072	RubbaBas
-100	040	073	Smooth
-100	040	074	Smoovey
-100	040	075	Zed Bass
-100	040	076	Oizo
-100	040	096	Dog Bass
-100	040	097	Squeaky
-100	040	098	Insomnia
-100	040	099	Stranger
-100	040	100	Hardstep
-100	040	101	Behind
-100	040	102	Rydeen
-100	040	103	Knives
-100	040	104	Knives 2
-100	040	105	Mg Wood
-100	040	106	Mg Frtls
-100	040	107	Logic
-100	051	000	Analog
-100	051	064	So-Lina
-100	051	065	Choclate
-100	051	066	Stringer
-100	052	000	Lush
-100	052	064	Bonn
-100	052	065	PWMStrng
-100	052	066	MultiSaw
-100	052	067	AnaStrng
-100	052	068	StrngPad
-100	052	096	Hi Wedge
-100	055	000	MaMa
-100	055	096	MgVoice
-100	063	000	Fatty
-100	063	064	MajorBrs
-100	063	065	Bronze
-100	063	066	HardBrss
-100	063	096	ObDetune
-100	063	097	ProBrass
-100	064	000	ANSoftBr
-100	064	064	CS80Bras
-100	064	065	ToToHorn
-100	064	066	SlowBras
-100	081	000	Stevie
-100	081	064	Pulsate
-100	081	065	Silence
-100	081	066	Maise
-100	081	067	KnivesLd
-100	081	068	Pulser
-100	081	069	Sliver
-100	081	070	Lucky
-100	081	071	ANPopcrn
-100	081	096	X-mod
-100	081	097	MgSoloLd
-100	081	098	Mg Cat
-100	082	000	Caner
-100	082	064	ANSyncHd
-100	082	065	Chick
-100	082	066	Susy
-100	082	067	EarthLd
-100	082	068	P-5 Saw
-100	082	069	Rock It
-100	082	070	Faaaat
-100	082	071	DirtySaw
-100	082	072	Rhubarb
-100	082	073	J.Hammer
-100	082	074	X-mod 2
-100	082	075	PitchMan
-100	082	076	EarthLd2
-100	082	096	Cosmic
-100	082	097	Q Lead
-100	082	098	MiniTech
-100	083	000	ANCaliop
-100	083	096	AsianTek
-100	084	000	AN Chiff
-100	084	064	Pastel
-100	084	096	Chromes
-100	085	000	ANSyncLd
-100	085	064	Billy
-100	085	065	Dre-full
-100	085	066	Funky
-100	085	096	DistOdsy
-100	086	000	AN VoxLd
-100	086	096	MgVoice2
-100	087	000	Lipstick
-100	087	064	Abacab
-100	087	096	5th Ring
-100	088	000	Squeamer
-100	088	064	Mr.Hook
-100	088	065	SupaSync
-100	090	000	Magic
-100	090	064	Contnent
-100	090	065	Yellow
-100	090	066	5th Pad
-100	090	067	Kelp
-100	090	096	Loom
-100	091	000	SyncBrPd
-100	091	096	ProAtck2
-100	091	097	Pro Sync
-100	092	000	Soar
-100	093	000	AN Bowed
-100	093	096	AN Dawn
-100	094	000	Sync Eko
-100	094	064	Sharpsyn
-100	094	065	SyncEko2
-100	095	000	Vangelzm
-100	095	096	Mars
-100	095	097	WaterPad
-100	096	000	PWMSweep
-100	096	064	HighSwep
-100	096	065	SyncSwep
-100	096	066	Mountain
-100	096	096	Laos
-100	098	000	AN Track
-100	098	096	BPF Pad
-100	099	000	X Bells
-100	099	064	ResoBell
-100	099	065	Triangle
-100	099	066	XmodBell
-100	100	000	Saphire
-100	100	096	ProAtack
-100	100	097	Behind 2
-100	100	098	HarmoSq
-100	100	099	HarmoSq2
-100	101	000	SepaWays
-100	102	000	DeepBlue
-100	102	096	Ice Pad
-100	102	097	Jah
-100	102	098	Polaris
-100	102	099	CyberBag
-100	102	100	SeqWater
-100	103	000	Microdot
-100	103	064	Snowball
-100	103	096	Syncrome
-100	103	097	RhthmCty
-100	103	098	Jack
-100	104	000	Slalom
-100	104	064	SyncSitr
-100	104	096	Fire
-100	104	097	Dragnfly
-100	104	098	Unstable
-100	104	099	DownUndr
-100	104	100	Indosync
-100	104	101	Nz Power
-100	113	000	ANBeltre
-100	113	096	EthTeck
-100	115	000	Woob
-100	115	096	ANCowbel
-100	117	000	TriblTom
-100	117	096	AN Snare
-100	117	097	AnaDrum
-100	119	000	SynthTom
-100	119	064	ULTSound
-100	119	065	AN Toms
-100	119	066	Tranix
-100	119	096	Rimshot
-100	119	097	XstikSnr
-100	119	098	EthnoTom
-100	119	099	SynShake
-100	120	000	AN HiHat
-100	126	000	ANHlcptr
-100	126	064	Siren
-100	126	065	RadioNz
-100	126	066	Fumble
-100	126	067	Invade
-100	126	068	FreeEdge
-100	126	069	Touch
-100	126	070	Chemical
-100	126	071	AnalgAge
-100	126	072	Chemicl2
-100	126	073	PropProp
-100	126	074	WelcomBk
-100	126	075	PlyChord
-100	126	076	AN Cave
-100	126	077	Invade 2
-100	126	078	FM Waves
-100	126	079	Moment
-100	126	080	Contact
-100	126	081	XScreech
-100	127	000	Hardcore
-100	127	064	Kangaroo
-100	127	065	AcidSeq1
-100	127	066	AcidSeq2
-100	127	067	Harmsync
-100	127	068	KickLine
-100	127	069	Free Cut
-100	127	070	ElecGrov
-100	127	071	ANSeqBas
-100	127	072	Cool man
-100	127	073	Uni Bass
-100	127	074	Hrmsync2
-100	127	075	Killer
-100	127	076	CybrClck
-100	127	077	Earth
-100	127	078	FreeRthm
-100	127	079	Quarks
-100	127	080	OldOkt
-100	128	000	BPF Step
-100	128	064	Poptart
-100	128	065	Virtual
-100	128	066	Cactus
-100	128	067	Omega
-100	128	068	Seismic
-100	128	069	JarreSQ
-100	128	070	TechPlck
-100	128	071	Krftwrks
-100	128	072	Filtrflw
-100	128	073	Dist5th
-100	128	074	HardNoiz
-100	128	075	Lightstk
-100	128	076	Lotus
-100	128	077	Xalimba
-100	128	078	Fat Run
-100	128	079	Power
-100	128	080	Metallic
-100	128	081	Zebedee
+100	38	0	ANSynBas
+100	38	64	RealMini
+100	38	65	Chamleon
+100	38	66	Cream
+100	38	67	Maxx
+100	38	68	2001
+100	38	69	BlapMoth
+100	38	70	Ruff
+100	38	71	BiggMac
+100	38	72	Prphtic1
+100	38	73	Prphtic2
+100	38	74	Wonder
+100	38	75	Slum
+100	38	96	X-Bass
+100	39	0	FootBase
+100	39	64	Mini Low
+100	39	65	DuckBass
+100	39	66	10thTone
+100	39	67	DuckBas2
+100	39	68	Cracker
+100	39	69	Monty
+100	39	70	BirdWrld
+100	39	71	Woodbass
+100	39	72	RubbaBas
+100	39	73	Smooth
+100	39	74	Smoovey
+100	39	75	Zed Bass
+100	39	76	Oizo
+100	39	96	Dog Bass
+100	39	97	Squeaky
+100	39	98	Insomnia
+100	39	99	Stranger
+100	39	100	Hardstep
+100	39	101	Behind
+100	39	102	Rydeen
+100	39	103	Knives
+100	39	104	Knives 2
+100	39	105	Mg Wood
+100	39	106	Mg Frtls
+100	39	107	Logic
+100	50	0	Analog
+100	50	64	So-Lina
+100	50	65	Choclate
+100	50	66	Stringer
+100	51	0	Lush
+100	51	64	Bonn
+100	51	65	PWMStrng
+100	51	66	MultiSaw
+100	51	67	AnaStrng
+100	51	68	StrngPad
+100	51	96	Hi Wedge
+100	54	0	MaMa
+100	54	96	MgVoice
+100	62	0	Fatty
+100	62	64	MajorBrs
+100	62	65	Bronze
+100	62	66	HardBrss
+100	62	96	ObDetune
+100	62	97	ProBrass
+100	63	0	ANSoftBr
+100	63	64	CS80Bras
+100	63	65	ToToHorn
+100	63	66	SlowBras
+100	80	0	Stevie
+100	80	64	Pulsate
+100	80	65	Silence
+100	80	66	Maise
+100	80	67	KnivesLd
+100	80	68	Pulser
+100	80	69	Sliver
+100	80	70	Lucky
+100	80	71	ANPopcrn
+100	80	96	X-mod
+100	80	97	MgSoloLd
+100	80	98	Mg Cat
+100	81	0	Caner
+100	81	64	ANSyncHd
+100	81	65	Chick
+100	81	66	Susy
+100	81	67	EarthLd
+100	81	68	P-5 Saw
+100	81	69	Rock It
+100	81	70	Faaaat
+100	81	71	DirtySaw
+100	81	72	Rhubarb
+100	81	73	J.Hammer
+100	81	74	X-mod 2
+100	81	75	PitchMan
+100	81	76	EarthLd2
+100	81	96	Cosmic
+100	81	97	Q Lead
+100	81	98	MiniTech
+100	82	0	ANCaliop
+100	82	96	AsianTek
+100	83	0	AN Chiff
+100	83	64	Pastel
+100	83	96	Chromes
+100	84	0	ANSyncLd
+100	84	64	Billy
+100	84	65	Dre-full
+100	84	66	Funky
+100	84	96	DistOdsy
+100	85	0	AN VoxLd
+100	85	96	MgVoice2
+100	86	0	Lipstick
+100	86	64	Abacab
+100	86	96	5th Ring
+100	87	0	Squeamer
+100	87	64	Mr.Hook
+100	87	65	SupaSync
+100	89	0	Magic
+100	89	64	Contnent
+100	89	65	Yellow
+100	89	66	5th Pad
+100	89	67	Kelp
+100	89	96	Loom
+100	90	0	SyncBrPd
+100	90	96	ProAtck2
+100	90	97	Pro Sync
+100	91	0	Soar
+100	92	0	AN Bowed
+100	92	96	AN Dawn
+100	93	0	Sync Eko
+100	93	64	Sharpsyn
+100	93	65	SyncEko2
+100	94	0	Vangelzm
+100	94	96	Mars
+100	94	97	WaterPad
+100	95	0	PWMSweep
+100	95	64	HighSwep
+100	95	65	SyncSwep
+100	95	66	Mountain
+100	95	96	Laos
+100	97	0	AN Track
+100	97	96	BPF Pad
+100	98	0	X Bells
+100	98	64	ResoBell
+100	98	65	Triangle
+100	98	66	XmodBell
+100	99	0	Saphire
+100	99	96	ProAtack
+100	99	97	Behind 2
+100	99	98	HarmoSq
+100	99	99	HarmoSq2
+100	100	0	SepaWays
+100	101	0	DeepBlue
+100	101	96	Ice Pad
+100	101	97	Jah
+100	101	98	Polaris
+100	101	99	CyberBag
+100	101	100	SeqWater
+100	102	0	Microdot
+100	102	64	Snowball
+100	102	96	Syncrome
+100	102	97	RhthmCty
+100	102	98	Jack
+100	103	0	Slalom
+100	103	64	SyncSitr
+100	103	96	Fire
+100	103	97	Dragnfly
+100	103	98	Unstable
+100	103	99	DownUndr
+100	103	100	Indosync
+100	103	101	Nz Power
+100	112	0	ANBeltre
+100	112	96	EthTeck
+100	114	0	Woob
+100	114	96	ANCowbel
+100	116	0	TriblTom
+100	116	96	AN Snare
+100	116	97	AnaDrum
+100	118	0	SynthTom
+100	118	64	ULTSound
+100	118	65	AN Toms
+100	118	66	Tranix
+100	118	96	Rimshot
+100	118	97	XstikSnr
+100	118	98	EthnoTom
+100	118	99	SynShake
+100	119	0	AN HiHat
+100	125	0	ANHlcptr
+100	125	64	Siren
+100	125	65	RadioNz
+100	125	66	Fumble
+100	125	67	Invade
+100	125	68	FreeEdge
+100	125	69	Touch
+100	125	70	Chemical
+100	125	71	AnalgAge
+100	125	72	Chemicl2
+100	125	73	PropProp
+100	125	74	WelcomBk
+100	125	75	PlyChord
+100	125	76	AN Cave
+100	125	77	Invade 2
+100	125	78	FM Waves
+100	125	79	Moment
+100	125	80	Contact
+100	125	81	XScreech
+100	126	0	Hardcore
+100	126	64	Kangaroo
+100	126	65	AcidSeq1
+100	126	66	AcidSeq2
+100	126	67	Harmsync
+100	126	68	KickLine
+100	126	69	Free Cut
+100	126	70	ElecGrov
+100	126	71	ANSeqBas
+100	126	72	Cool man
+100	126	73	Uni Bass
+100	126	74	Hrmsync2
+100	126	75	Killer
+100	126	76	CybrClck
+100	126	77	Earth
+100	126	78	FreeRthm
+100	126	79	Quarks
+100	126	80	OldOkt
+100	127	0	BPF Step
+100	127	64	Poptart
+100	127	65	Virtual
+100	127	66	Cactus
+100	127	67	Omega
+100	127	68	Seismic
+100	127	69	JarreSQ
+100	127	70	TechPlck
+100	127	71	Krftwrks
+100	127	72	Filtrflw
+100	127	73	Dist5th
+100	127	74	HardNoiz
+100	127	75	Lightstk
+100	127	76	Lotus
+100	127	77	Xalimba
+100	127	78	Fat Run
+100	127	79	Power
+100	127	80	Metallic
+100	127	81	Zebedee
