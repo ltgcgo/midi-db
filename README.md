@@ -251,8 +251,8 @@ All occupy MSB `063`. Listed values are LSB values.
 - [x] `018` _(mapped from `001`)_ Preset 2
 - [x] `019` _(mapped from `002`)_ Preset 3
 - [x] `020` _(mapped from `003`)_ Preset 4
-- [ ] `021` _(mapped from `008`)_ User 1
-- [ ] `022` _(mapped from `009`)_ User 2
+- [x] `021` _(mapped from `008`)_ User 1
+- [x] `022` _(mapped from `009`)_ User 2
 - [x] `023` _(mapped from `032`)_ Preset Drums
-- [ ] `024` _(mapped from `040`)_ User Drums
+- [x] `024` _(mapped from `040`)_ User Drums
 - [x] `025`-`027` _(mapped from `024`-`026`)_ Plug User A/B/C _(reserved)_
