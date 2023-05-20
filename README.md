@@ -221,12 +221,12 @@ Blank names can either mean placeholder or silence.
 
 ### KORG KROSS 2
 #### Bank selection
-**Table**: [ns5r.tsv](/bank/ns5r.tsv)
+**Table**: [kross.tsv](/bank/kross.tsv)
 
 **Importance**: MSB LSB PRG
 
 #### Bank categories
-All occupies MSB `063`. Listed values are LSB values.
+All occupy MSB `063`. Listed values are LSB values.
 - [ ] `000` ProgA
 - [ ] `001` ProgB
 - [ ] `002` ProgC
@@ -238,3 +238,20 @@ All occupies MSB `063`. Listed values are LSB values.
 - [ ] `011` _(mapped from `001`)_ CombB
 - [ ] `012` _(mapped from `002`)_ CombC
 - [x] `013`-`016` _(mapped from `003`-`006`)_ CombUA/B/C/D _(reserved)_
+
+### Yamaha S90 ES
+#### Bank selection
+**Table**: [s90es.tsv](/bank/s90es.tsv)
+
+**Importance**: MSB LSB PRG
+
+#### Bank categories
+All occupy MSB `063`. Listed values are LSB values.
+- [ ] `017` Preset 1
+- [ ] `018` Preset 2
+- [ ] `019` Preset 3
+- [ ] `020` Preset 4
+- [ ] `021` User 1
+- [ ] `022` User 2
+- [ ] `023` Preset Drums
+- [ ] `024` User Drums
