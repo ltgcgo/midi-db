@@ -247,12 +247,12 @@ All occupy MSB `063`. Listed values are LSB values.
 
 #### Bank categories
 All occupy MSB `063`. Listed values are LSB values.
-- [ ] `017` _(mapped from `000`)_ Preset 1
+- [x] `017` _(mapped from `000`)_ Preset 1
 - [ ] `018` _(mapped from `001`)_ Preset 2
 - [ ] `019` _(mapped from `002`)_ Preset 3
 - [ ] `020` _(mapped from `003`)_ Preset 4
 - [ ] `021` _(mapped from `008`)_ User 1
 - [ ] `022` _(mapped from `009`)_ User 2
-- [ ] `023` _(mapped from `032`)_ Preset Drums
+- [x] `023` _(mapped from `032`)_ Preset Drums
 - [ ] `024` _(mapped from `040`)_ User Drums
 - [x] `025`-`027` _(mapped from `024`-`026`)_ Plug User A/B/C _(reserved)_
