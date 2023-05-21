@@ -239,7 +239,7 @@ All occupy MSB `063`. Listed values are LSB values.
 - [ ] `012` _(mapped from `002`)_ CombC
 - [x] `013`-`016` _(mapped from `003`-`006`)_ CombUA/B/C/D _(reserved)_
 
-### Yamaha S90 ES
+### Yamaha S90 ES / Motif ES
 #### Bank selection
 **Table**: [s90es.tsv](/bank/s90es.tsv)
 
@@ -247,12 +247,18 @@ All occupy MSB `063`. Listed values are LSB values.
 
 #### Bank categories
 All occupy MSB `063`. Listed values are LSB values.
-- [x] `017` _(mapped from `000`)_ Preset 1
-- [x] `018` _(mapped from `001`)_ Preset 2
-- [x] `019` _(mapped from `002`)_ Preset 3
-- [x] `020` _(mapped from `003`)_ Preset 4
+- [x] `017` _(mapped from `000`)_ S90 ES Preset 1
+- [x] `018` _(mapped from `001`)_ S90 ES Preset 2
+- [x] `019` _(mapped from `002`)_ S90 ES Preset 3
+- [x] `020` _(mapped from `003`)_ S90 ES Preset 4
 - [x] `021` _(mapped from `008`)_ User 1
 - [x] `022` _(mapped from `009`)_ User 2
 - [x] `023` _(mapped from `032`)_ Preset Drums
 - [x] `024` _(mapped from `040`)_ User Drums
 - [x] `025`-`027` _(mapped from `024`-`026`)_ Plug User A/B/C _(reserved)_
+- [ ] `028` _(mapped from `000`)_ Motif ES Preset 1
+- [ ] `029` _(mapped from `001`)_ Motif ES Preset 2
+- [ ] `030` _(mapped from `002`)_ Motif ES Preset 3
+- [ ] `031` _(mapped from `003`)_ Motif ES Preset 4
+- [ ] `032` _(mapped from `004`)_ Motif ES Preset 5
+- [ ] `033` _(mapped from `005`)_ Motif ES Preset 6
