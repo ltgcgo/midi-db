@@ -43,6 +43,7 @@ Blank names can either mean placeholder or silence.
 - [x] `064`: XG SFX Voices
 - [x] `126`: XG SFX Kits
 - [x] `127`: XG Drum Kits
+- [x] `125` (LSB): (redirected from `127`) MU100 Native
 
 #### Compatibility
 ##### Device
