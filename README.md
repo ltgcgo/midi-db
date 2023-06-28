@@ -130,6 +130,28 @@ Blank names can either mean placeholder or silence.
 ##### Standard
 * General MIDI
 
+### Roland SD
+#### Bank selection
+**Table**: [sd.tsv](/bank/sd.tsv)
+
+**Importance**: **MSB** PRG LSB
+
+#### Bank categories
+- [x] `096`: Classical Set Melodic (GM2 Melodic Voices, redirected to MSB 121 and relies on `gm2.tsv`)
+- [ ] `097`: Contemporary Set Melodic
+- [ ] `098`: Solo Set Melodic
+- [ ] `099`: Enhanced Set Melodic
+- [x] `104`: Classical Set Drums (GM2 Drum Kits, redirected to MSB 120 and relies on `gm2.tsv`)
+- [x] `105`: Contemporary Set Drums
+- [x] `106`: Solo Set Drums
+- [x] `107`: Enhanced Set Drums
+
+#### Compatibility
+##### Devices
+* Roland SD20
+* Roland SD80
+* Roland SD90
+
 ### KAWAI GMega
 #### Bank selection
 **Table**: [gmega.tsv](/bank/gmega.tsv)
