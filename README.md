@@ -137,6 +137,8 @@ Blank names can either mean placeholder or silence.
 **Importance**: **MSB** PRG LSB
 
 #### Bank categories
+- [ ] `080`: Special Set 1
+- [ ] `081`: Special Set 2
 - [x] `096`: Classical Set Melodic (GM2 Melodic Voices, redirected to MSB 121 and relies on `gm2.tsv`)
 - [x] `097`: Contemporary Set Melodic
 - [x] `098`: Solo Set Melodic
@@ -148,9 +150,9 @@ Blank names can either mean placeholder or silence.
 
 #### Compatibility
 ##### Devices
-* Roland SD20
-* Roland SD80
-* Roland SD90
+* Roland SD-20
+* Roland SD-80
+* Roland SD-90
 
 ### KAWAI GMega
 #### Bank selection
