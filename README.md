@@ -79,7 +79,7 @@ Blank names can either mean placeholder or silence.
 - [x] `001`: Roland SC-55 map
 - [x] `002`: Roland SC-88 map
 - [x] `003`: Roland SC-88 Pro map
-- [ ] `004`: Roland SC-8850 map
+- [x] `004`: Roland SC-8850 map
 - [x] `120` (MSB): Roland GS Drum Kits
 - [x] `126`: Roland MT-32 alternate map
 - [x] `127`: Roland MT-32 main map
@@ -138,9 +138,9 @@ Blank names can either mean placeholder or silence.
 
 #### Bank categories
 - [x] `096`: Classical Set Melodic (GM2 Melodic Voices, redirected to MSB 121 and relies on `gm2.tsv`)
-- [ ] `097`: Contemporary Set Melodic
-- [ ] `098`: Solo Set Melodic
-- [ ] `099`: Enhanced Set Melodic
+- [x] `097`: Contemporary Set Melodic
+- [x] `098`: Solo Set Melodic
+- [x] `099`: Enhanced Set Melodic
 - [x] `104`: Classical Set Drums (GM2 Drum Kits, redirected to MSB 120 and relies on `gm2.tsv`)
 - [x] `105`: Contemporary Set Drums
 - [x] `106`: Solo Set Drums
