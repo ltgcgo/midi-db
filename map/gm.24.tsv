@@ -24,8 +24,13 @@ Syn.Str1	Synth Strings 1
 Syn.Str2	Synth Strings 2
 Orch.Hit	Orchestra Hit
 MutedTrp	Muted Trumpet
+BrasSect	Brass Section
 SynBras1	Synth Brass 1
 SynBras2	Synth Brass 2
+SprnoSax	Soprano Saxophone
+Alto Sax	Alto Saxophone
+TenorSax	Tenor Saxophone
+Bari.Sax	Baritone Saxophone
 Saw Lead	Sawtooth Lead
 PolySyPd	Poly Synth Pad
 BowedPad	Bowed Glass Pad
