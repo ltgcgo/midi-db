@@ -70,9 +70,9 @@ MSB	LSB	Name
 21	71	GS 3D Manual
 21	72	GS Lo-Fi
 21	73	GS Lo-Fi 2
-22	00	GS Overdrive+Chorus
-22	01	GS Overdrive+Flanger
-22	02	GS Overdrive+Delay
+22	00	GS OvrDrv+Chorus
+22	01	GS OvrDrv+Flanger
+22	02	GS OvrDrv+Delay
 22	03	GS Distort+Chorus
 22	04	GS Distort+Flanger
 22	05	GS Distort+Delay
@@ -204,7 +204,7 @@ MSB	LSB	Name
 48	08	XG Phaser 2
 49	00	XG Distortion
 49	01	XG Compress+Distort
-49	08	XG Stereo Distortion
+49	08	XG Stereo Distort
 4a	00	XG Overdrive
 4a	08	XG Stereo Overdrive
 4b	00	XG Amp Simulator
@@ -235,9 +235,9 @@ MSB	LSB	Name
 5f	00	XG Delay+Distortion
 5f	01	XG Delay+Overdrive
 60	00	XG Comp+Dist+Delay
-60	01	XG Comp+OvrDrv+Dly
+60	01	XG Comp+Ovdr+Dly
 61	00	XG Wah+Dist+Delay
-61	01	XG Wah+OvrDrv+Delay
+61	01	XG Wah+Ovdr+Delay
 62	00	XG Vin Hard Dist
 62	01	XG Vin Hard Dst+Dly
 62	02	XG Vin Soft Dist
