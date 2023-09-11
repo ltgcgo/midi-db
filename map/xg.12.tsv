@@ -1,78 +1,54 @@
 ID	Name
-AfroCuba	AfroCubanKit
-AfrCuba2	AfroCubanKt2
-Anal.Kt2	Analog Kit 2
-BasClari	BassClarinet
-BrazilKt	BrazillianKt
-BrilTrmb	BrillintTrmb
-Bril Trp	BrilliantTrp
-BriteTrp	BriteTrumpet
-BrtBsTrb	BrtBassTromb
-BrtFrHrn	BrightFrHorn
-BrtTromb	Brt Trombone
-Brush&P.	LvBrush&Perc
-BrushKt2	Brush Kit 2
-CellSect	Cello Sect.
-ClkGspOr	ClikGospelOr
-ContrSec	Contr. Sect.
-Dark Trp	Dark Trumpet
-DarkRoom	Dark Room Kt
 DblConGr	DoublConGrnd
-DetDrwOr	Det.DrawOrgn
-Det.EP 8	Detuned EP 8
-ElectrKt	Electro Kit
-F-Coquet	Fem-Coquette
-FakeAlto	Fake Alto Sx
-FlangrBa	Flanger Bass
-FrHrSolo	Fr.Horn Solo
-FstRotar	FastRotaryOr
-FunkGtr2	Funk Guitar2
-FunkPerc	LvFunkPercKt
-HardPick	HardPickBass
-HipHopKt	Hip Hop Kit
-HollowSq	Hollow Sqr.
-LgtAltSx	Lgt.Alto Sax
-Lv Brush	LiveBrushKit
-Lv StdKt	LiveStdrdKit
-LvFunkKt	LiveFunk Kit
-MelloTrb	Mellow Tromb
-NasalGtr	Nasal Guitar
-NeatBrth	Neat Breathy
-NekRough	NeckRoughcst
-NormlTrp	Normal Trmpt
-Ntrl Kit	Natural Kit
-NtrlFunk	Ntrl Funk Kt
-OctPlate	Octave Plate
-OvdrGtDt	OvrdrvGtrDet
-PerigeKt	Perigee Kit
-PickBas2	Picked Bass2
-PolyPd80	Poly Pad 80
-PopLatin	Pop Latin Kt
-Pwr.Fret	PowerFretles
-RezChase	Reso. Chase
-S. Latin	Small Latin
-SlCelloS	SlowCelloSec
-SlContrS	SlowContrSec
-SlVlaSec	SlowViolaSec
-SlVlnSec	SlowViolnSec
-SmthSynB	SmoothSynBas
-Soft Trp	Soft Trumpet
-StBrsSec	St.BrassSect
-Std&Perc	LiveStd&Perc
-StSlwStr	St.Slow Str.
 SupClavi	Super Clavi.
-SuperTnr	Super Tenor
-SweetTrp	SweetTrumpet
-SwellStr	SwellStrings
-SymphBrs	Symph. Brass
-SymphnKt	Symphony Kit
+DetDrwOr	Det.DrawOrgn
+ClkGspOr	ClikGospelOr
+FstRotar	FastRotaryOr
+OctPlate	Octave Plate
+NekRough	NeckRoughcst
+NasalGtr	Nasal Guitar
+FunkGtr2	Funk Guitar2
+OvdrGtDt	OvrdrvGtrDet
+FlangrBa	Flanger Bass
+RezChase	Reso. Chase
+PickBas2	Picked Bass2
+HardPick	HardPickBass
+Pwr.Fret	PowerFretles
 TalkinBa	Talking Bass
-TechnoHi	Techno Kit H
-TechnoLo	Techno Kit L
-Tenor&Tp	Tenor&Trmpt
-TenrSax2	Tenor Sax 2
-ViolaSec	Viola Sect.
+SmthSynB	SmoothSynBas
 ViolinSc	Violin Sect.
+SlVlnSec	SlowViolnSec
+ViolaSec	Viola Sect.
+SlVlaSec	SlowViolaSec
+CellSect	Cello Sect.
+SlCelloS	SlowCelloSec
+ContrSec	Contr. Sect.
+SlContrS	SlowContrSec
+SwellStr	SwellStrings
+StSlwStr	St.Slow Str.
+BriteTrp	BriteTrumpet
+Dark Trp	Dark Trumpet
+Soft Trp	Soft Trumpet
+SweetTrp	SweetTrumpet
+NormlTrp	Normal Trmpt
+Bril Trp	BrilliantTrp
+BrtTromb	Brt Trombone
+MelloTrb	Mellow Tromb
+BrilTrmb	BrillintTrmb
+BrtBsTrb	BrtBassTromb
+FrHrSolo	Fr.Horn Solo
+BrtFrHrn	BrightFrHorn
+StBrsSec	St.BrassSect
+Tenor&Tp	Tenor&Trmpt
+SymphBrs	Symph. Brass
+LgtAltSx	Lgt.Alto Sax
+FakeAlto	Fake Alto Sx
+TenrSax2	Tenor Sax 2
+SuperTnr	Super Tenor
+BasClari	BassClarinet
+NeatBrth	Neat Breathy
+HollowSq	Hollow Sqr.
+PolyPd80	Poly Pad 80
 CutNoiz2	Cut Noise 2
 DstCutNz	DistCutNoise
 Str Slap	String Slap
@@ -88,3 +64,27 @@ Car Pass	Car Passing
 LaughVox	Laugh Voice
 ScreamVx	Scream Voice
 MchinGun	Machine Gun
+TechnoHi	Techno Kit H
+TechnoLo	Techno Kit L
+S. Latin	Small Latin
+AfroCuba	AfroCubanKit
+AfrCuba2	AfroCubanKt2
+BrazilKt	BrazillianKt
+PopLatin	Pop Latin Kt
+DarkRoom	Dark Room Kt
+ElectrKt	Electro Kit
+Anal.Kt2	Analog Kit 2
+HipHopKt	Hip Hop Kit
+PerigeKt	Perigee Kit
+BrushKt2	Brush Kit 2
+SymphnKt	Symphony Kit
+Ntrl Kit	Natural Kit
+NtrlFunk	Ntrl Funk Kt
+Lv StdKt	LiveStdrdKit
+LvFunkKt	LiveFunk Kit
+Lv Brush	LiveBrushKit
+Std&Perc	LiveStd&Perc
+FunkPerc	LvFunkPercKt
+Brush&P.	LvBrush&Perc
+F-Coquet	Fem-Coquette
+Det.EP 8	Detuned EP 8
