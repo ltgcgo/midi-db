@@ -12,7 +12,7 @@ EPiano1K	Electric Piano 1 KSP
 MellowEP	Mellow Electric Piano
 HardEPno	Hard Electric Piano
 VX E.Pno	VX Electric Piano
-60sElPno	60's Electric Piano
+60sElPno	60s' Electric Piano
 EPiano1#	Electric Piano 1 #
 EPiano2K	Electric Piano 2 KSP
 VX EPno2	VX Electric Piano 2
@@ -28,11 +28,61 @@ SupClavi	Super Clavichord
 VibrafnK	Vibraphone KSP
 HardVibr	Hard Vibraphone
 DetDrwOr	Detuned Drawbar Organ
+60sDrOrg	60s' Drawbar Organ
+60sDrOr2	60s' Drawbar Organ 2
+70sDrOrg	70s' Drawbar Organ
+DrawOrg2	Drawbar Organ 2
+60sDrOr3	60s' Drawbar Organ 3
+70sDrOr2	70s' Drawbar Organ 2
+DrawOrg3	Drawbar Organ 3
 ClkGspOr	Click Gospel Organ
+DrawOrg#	Drawbar Organ #
+70sPcOrg	70s' Percussive Org
+DetPrcOr	Detuned Perc Organ
+PercOrg2	Percussive Organ 2
+PercOrg#	Percussive Organ #
+SlwRotar	Slow Rotary Organ
 FstRotar	Fast Rotary Organ
+ChurOrg3	Church Organ 3
+ChurOrg2	Church Organ 2
+TrmOrgFl	Tremolo Organ Flute
+AccordIt	Italian Accordion
+TngoAcd2	Tango Accordion 2
+NylonGt2	Nylon Guitar 2
+NylonGt3	Nylon Guitar 3
+VelGtHrm	Velo Guitar Harmonics
+NylonGt#	Nylon Guitar #
+SteelGt2	Steel Guitar 2
+12StrGtr	12-string Guitar
+Nyln&Stl	Nylon & Steel Guitar
+Stl&Body	Steel Guitar & Body
+SteelGt#	Steel Guitar #
+MelloGtr	Mellow Guitar
+Jazz Amp	Jazz Guitar Amp
 NekRough	Roughcaster Neck
+JazzGtr#	Jazz Guitar #
+ChorusGt	Chorus Guitar
+MidT.Gtr	Mid-tone Guitar
+MidTGtSt	Mid-tone Guitar Stereo
+FunkGtr1	Funk Guitar 1
+MuteStlG	Muted Steel Guitar
 FunkGtr2	Funk Guitar 2
+Mu.DstGt	Muted Distortion Guitar
+MutedGt#	Muted Guitar #
 OvdrGtDt	Detuned Overdrive Guitar
+Ovrdriv#	Overdriven #
+DstRthmG	Distorted Rhythm Guitar
+DistGtr2	Distortion Guitar 2
+DistGtr3	Distortion Guitar 3
+PowerGt2	Power Guitar 2
+PowerGtr	Power Guitar
+Dst.5ths	Distorted Fifths
+FeedbkGt	Feedback Guitar
+FeedbkG2	Feedback Guitar 2
+RckRthm2	Rock Rhythm 2
+Dist.Gt#	Distortion Guitar #
+GtFeedbk	Guitar Feedback
+GtrHrmo2	Guitar Harmonics 2
 RezChase	Resonant Chase
 PickBas2	Picked Bass 2
 HardPick	Hard Picked Bass
