@@ -1,10 +1,8 @@
 ID	Name
-Det.EP 8	Det. EP 8
 Dream	DreamPiano
 LayerCP1	LayeredCP1
 GrndPnoK	GrndPianoK
 MelloGrP	MelloGrPno
-PianoStr	PianoStrng
 DblConGr	DblConGrnd
 GrandP #	GrndPiano#
 BritPnoK	BritPianoK
@@ -43,7 +41,6 @@ HardVibr	HardVibrfn
 MarimbaK	Marimba K
 SMarimba	SineMrimba
 Balafone	Balaphone
-Log Drum	Log Drums
 ChrchBel	ChurchBell
 Dulcmer2	Dulcimer 2
 DetDrwOr	DetDrawOrg
@@ -147,7 +144,6 @@ S. Latin	SmallLatin
 ChinaKit	China Kit
 AfroCuba	AfroCubaKt
 AfrCuba2	AfrCubaKt2
-BrazilKt	Brazil Kit
 PopLatin	PopLatinKt
 BrightKt	Bright Kit
 RogueKit	Rogue Kit
@@ -176,4 +172,8 @@ Std&Perc	LvStd&Perc
 FunkPerc	LvFunkPerc
 Brush&P.	LvBrush&P.
 RockKit3	Rock Kit 3
+BrazilKt	Brazil Kit
+PianoStr	PianoStrng
 F-Coquet	Fem-Coquet
+Det.EP 8	Det. EP 8
+Log Drum	Log Drums
