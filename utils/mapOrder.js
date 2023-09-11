@@ -10,9 +10,11 @@ for (let i = 0; i < Deno.args.length; i ++) {
 		(await Deno.readTextFile(e)).split("\n").forEach((text, line) => {
 			if (line && text?.length) {
 				let id = text.split("\t")[3];
-				orderMap[id] = orderIndex;
-				//console.debug(`${id}: ${orderIndex}`);
-				orderIndex ++;
+				if (!orderMap[id]) {
+					orderMap[id] = orderIndex;
+					//console.debug(`${id}: ${orderIndex}`);
+					orderIndex ++;
+				};
 			};
 		});
 		console.error(`Imported ${orderIndex} entries from the order file.`);
