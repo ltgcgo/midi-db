@@ -1,152 +1,20 @@
 ID	Name
-AfrCuba2	AfrCubaKt2
-AfroCuba	AfroCubaKt
-AmberKit	Amber Kit
-Anal.Kt2	AnalogKit2
-ApogeeKt	Apogee Kit
-Applauz2	Applause 2
-BasClari	BassClari.
-BrazilKt	Brazil Kit
-BrightKt	Bright Kit
-Bril Trp	Brill. Trp
-BrilTrmb	Brill.Trmb
-BriteTrp	Bright Trp
-BrtBsTrb	BrtBasTrmb
-BrtFrHrn	BriteFrHrn
-BrtTromb	BrtTrombon
-Brush&P.	LvBrush&P.
-BrushKit	Brush Kit
-BrushKt2	BrushKit 2
-CellSect	Cello Sect
-ChinaKit	China Kit
-ClkGspOr	ClikGospOr
-CoffinKt	Coffin Kit
-ContrSec	ContrbSect
-DanceKit	Dance Kit
-Dark Trp	Dark Trmpt
-DarkRoom	DarkRoomKt
-DblConGr	DblConGrnd
-DetDrwOr	DetDrawOrg
 Det.EP 8	Det. EP 8
-ElectrKt	ElectroKit
-Eufonium	Euphonium
-F-Coquet	Fem-Coquet
-FakeAlto	Fake Alto
-FlangrBa	Flanger Ba
-FrHorn 2	Fr. Horn 2
-FrHrSolo	FrHornSolo
-FstRotar	FastRotary
-FunkGtr2	Funk Gtr 2
-FunkPerc	LvFunkPerc
-HardPick	Hard Pick
-HipHopKt	Hip Hop Kt
-HollowSq	Hollow Sqr
-HyprAlto	Hyper Alto
-JazzKit2	Jazz Kit 2
-JungleKt	Jungle Kit
-LgtAltSx	LgtAltoSax
-LightPad	Light Pad
-Lv Brush	LvBrushKit
-Lv StdKt	LiveStdKit
-LvFunkKt	LiveFunkKt
-MelloTrb	MelloTromb
-MellowEP	Mellow EP.
-NasalGtr	Nasal Gtr.
-NeatBrth	NeatBreath
-NekRough	Neck.Rough
-NormlTrp	Normal Trp
-Ntrl Kit	NaturalKit
-NtrlFunk	NtrlFunkKt
-OctPlate	Oct. Plate
-OvdrGtDt	OvdrGtrDet
-Pastoral	Pastorale
-PerigeKt	PerigeeKit
-PickBas2	PickedBas2
-PolyPd80	PolyPad 80
-PopLatin	PopLatinKt
-Prcesion	Precession
-Pwr.Fret	PwrFretles
-RezChase	Reso.Chase
-RockKit2	Rock Kit 2
-RockKit3	Rock Kit 3
-RogueKit	Rogue Kit
-S. Latin	SmallLatin
-SakuraKt	Sakura Kit
-SFX Kt 2	SFX Kit 2
-SlCelloS	SlCelloSec
-SlContrS	SlContrSec
-SlowTuba	Slow Tuba
-SlVlaSec	SlowVlaSec
-SlVlnSec	SlowVlnSec
-SmthSynB	SmthSynBas
-Soft Trp	Soft Trmpt
-StBrsSec	StBrasSect
-Std&Perc	LvStd&Perc
-StereoAh	Stereo Aah
-StereoOh	Stereo Ooh
-StSlwStr	St.SlowStr
-SupClavi	SuperClavi
-SuperTnr	SuperTenor
-SweetTrp	SweetTrmpt
-SwellStr	Swell Str.
-SymphBrs	SymphBrass
-SymphnKt	SymphonyKt
-TalkinBa	TalkinBass
-TechnoHi	TechnoKtHi
-TechnoKt	Techno Kit
-TechnoLo	TechnoKtLo
-Tenor&Tp	Tenor&Trp
-TenrSax2	TenorSax 2
-TrampKit	Tramp Kit
-Turntabl	Turntable
-ViolaSec	Viola Sect
-ViolinSc	ViolinSect
-WindChim	Windchimes
-CutNoise	Cut Noise
-CutNoiz2	CutNoise 2
-DstCutNz	DstCutNoiz
-Str Slap	StringSlap
-B.Slide	Bass Slide
-P.Scrape	PickScrape
-Fl.KClik	FltKyClick
-HorseGlp	HorseGalop
-BirdTwit	Bird Tweet
-PhonCall	Phone Call
-DoorSqek	DoorSqueak
-DoorSlam	Door Slam
-ScratchC	ScratchCut
-Scratch2	ScratchSpl
-TeleFon2	Telephone2
-Scratch3	Scratch 3
-Turntabl	Turn Table
-CarStart	Car Start
-CarTyreS	CarTyreSq.
-Car Pass	CarPassing
-CarCrash	Car Crash
-JetPlane	Jet Plane
-Submarin	Submarine
-LaughVox	Laugh Vox
-ScreamVx	Scream Vox
-Heart	Heartbeat
-Footstep	Footsteps
-Applauz2	Applause 2
-MchinGun	MachineGun
-LaserGun	Laser Gun
-Xplosion	Explosion
-Firework	Fireworks
+Dream	DreamPiano
+LayerCP1	LayeredCP1
 GrndPnoK	GrndPianoK
 MelloGrP	MelloGrPno
 PianoStr	PianoStrng
-Dream	DreamPiano
+DblConGr	DblConGrnd
 GrandP #	GrndPiano#
 BritPnoK	BritPianoK
 BriteP #	BritPiano#
 EGndPnoK	ElGrndPnoK
 Det.CP80	DetuneCP80
-LayerCP1	LayeredCP1
 LayerCP2	LayeredCP2
 HnkyTnkK	HonkyTonkK
 EPiano1K	ElPiano 1K
+MellowEP	Mellow EP.
 ChorusEP	Chorus EP.
 HardEPno	Hard ElPno
 VX E.Pno	VX ElPiano
@@ -166,6 +34,7 @@ ClvchrdK	ClvichordK
 ClaviWah	ClvchrdWah
 PulseClv	PulseClavi
 Perc Clv	Perc Clavi
+SupClavi	SuperClavi
 Clavi. #	Clavichrd#
 FM Celst	FM Celesta
 S. Orgel	SmallOrgel
@@ -177,3 +46,134 @@ Balafone	Balaphone
 Log Drum	Log Drums
 ChrchBel	ChurchBell
 Dulcmer2	Dulcimer 2
+DetDrwOr	DetDrawOrg
+ClkGspOr	ClikGospOr
+FstRotar	FastRotary
+OctPlate	Oct. Plate
+NekRough	Neck.Rough
+NasalGtr	Nasal Gtr.
+FunkGtr2	Funk Gtr 2
+OvdrGtDt	OvdrGtrDet
+FlangrBa	Flanger Ba
+RezChase	Reso.Chase
+PickBas2	PickedBas2
+HardPick	Hard Pick
+Pwr.Fret	PwrFretles
+TalkinBa	TalkinBass
+SmthSynB	SmthSynBas
+ViolinSc	ViolinSect
+SlVlnSec	SlowVlnSec
+ViolaSec	Viola Sect
+SlVlaSec	SlowVlaSec
+CellSect	Cello Sect
+SlCelloS	SlCelloSec
+ContrSec	ContrbSect
+SlContrS	SlContrSec
+SwellStr	Swell Str.
+StSlwStr	St.SlowStr
+StereoAh	Stereo Aah
+StereoOh	Stereo Ooh
+BriteTrp	Bright Trp
+Dark Trp	Dark Trmpt
+Soft Trp	Soft Trmpt
+SweetTrp	SweetTrmpt
+NormlTrp	Normal Trp
+Bril Trp	Brill. Trp
+BrtTromb	BrtTrombon
+MelloTrb	MelloTromb
+BrilTrmb	Brill.Trmb
+BrtBsTrb	BrtBasTrmb
+SlowTuba	Slow Tuba
+Eufonium	Euphonium
+FrHrSolo	FrHornSolo
+FrHorn 2	Fr. Horn 2
+BrtFrHrn	BriteFrHrn
+StBrsSec	StBrasSect
+Tenor&Tp	Tenor&Trp
+SymphBrs	SymphBrass
+LgtAltSx	LgtAltoSax
+HyprAlto	Hyper Alto
+FakeAlto	Fake Alto
+TenrSax2	TenorSax 2
+SuperTnr	SuperTenor
+BasClari	BassClari.
+NeatBrth	NeatBreath
+Pastoral	Pastorale
+HollowSq	Hollow Sqr
+LightPad	Light Pad
+PolyPd80	PolyPad 80
+Prcesion	Precession
+CutNoise	Cut Noise
+CutNoiz2	CutNoise 2
+DstCutNz	DstCutNoiz
+Str Slap	StringSlap
+B.Slide	Bass Slide
+P.Scrape	PickScrape
+Fl.KClik	FltKyClick
+HorseGlp	HorseGalop
+BirdTwit	Bird Tweet
+PhonCall	Phone Call
+DoorSqek	DoorSqueak
+DoorSlam	Door Slam
+ScratchC	ScratchCut
+Scratch2	ScratchSpl
+WindChim	Windchimes
+TeleFon2	Telephone2
+Scratch3	Scratch 3
+Turntabl	Turn Table
+Turntabl	Turn Table
+CarStart	Car Start
+CarTyreS	CarTyreSq.
+Car Pass	CarPassing
+CarCrash	Car Crash
+JetPlane	Jet Plane
+Submarin	Submarine
+LaughVox	Laugh Vox
+ScreamVx	Scream Vox
+Heart	Heartbeat
+Footstep	Footsteps
+Applauz2	Applause 2
+Applauz2	Applause 2
+MchinGun	MachineGun
+LaserGun	Laser Gun
+Xplosion	Explosion
+Firework	Fireworks
+SFX Kt 2	SFX Kit 2
+TechnoKt	Techno Kit
+TechnoHi	TechnoKtHi
+TechnoLo	TechnoKtLo
+SakuraKt	Sakura Kit
+S. Latin	SmallLatin
+ChinaKit	China Kit
+AfroCuba	AfroCubaKt
+AfrCuba2	AfrCubaKt2
+BrazilKt	Brazil Kit
+PopLatin	PopLatinKt
+BrightKt	Bright Kit
+RogueKit	Rogue Kit
+DarkRoom	DarkRoomKt
+RockKit2	Rock Kit 2
+ElectrKt	ElectroKit
+Anal.Kt2	AnalogKit2
+DanceKit	Dance Kit
+HipHopKt	Hip Hop Kt
+JungleKt	Jungle Kit
+ApogeeKt	Apogee Kit
+PerigeKt	PerigeeKit
+JazzKit2	Jazz Kit 2
+BrushKit	Brush Kit
+BrushKt2	BrushKit 2
+SymphnKt	SymphonyKt
+Ntrl Kit	NaturalKit
+NtrlFunk	NtrlFunkKt
+TrampKit	Tramp Kit
+AmberKit	Amber Kit
+CoffinKt	Coffin Kit
+Lv StdKt	LiveStdKit
+LvFunkKt	LiveFunkKt
+Lv Brush	LvBrushKit
+Std&Perc	LvStd&Perc
+FunkPerc	LvFunkPerc
+Brush&P.	LvBrush&P.
+RockKit3	Rock Kit 3
+F-Coquet	Fem-Coquet
