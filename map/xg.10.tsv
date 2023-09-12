@@ -116,21 +116,87 @@ RockRthm	RockRhythm
 Dist.Gt#	Dist. Gt.#
 GtFeedbk	GtFeedback
 GtrHrmo2	GtrHarmo 2
+JazzRthm	JazzRhythm
+VXUprght	VX Upright
+Acou.Ba#	Acou.Bass#
+FingrDrk	FingerBsDk
 FlangrBa	Flanger Ba
+Ba&DstEG	Ba&DstEGtr
+FngrSlap	FingerSlap
+FngrBas2	FingerBas2
+Jazzy Ba	Jazzy Bass
+Mod Bass	Modul.Bass
 RezChase	Reso.Chase
+FW EBass	FgrW EBass
+FingrBa#	FingerBas#
 PickBas2	PickedBas2
+M.PkBass	MutePkBass
 HardPick	Hard Pick
+Fretles2	FretlesBs2
+Fretles3	FretlesBs3
+Fretles4	FretlesBs4
 Pwr.Fret	PwrFretles
 TalkinBa	TalkinBass
+SynFretl	SynFretles
+SmthFrtl	SmthFrtles
+Fretles#	FretlesBs#
+ResoSlap	Reson.Slap
+PunchThm	PunchThmBs
+Thum&Slp	Thumb&Slap
+SlapBas#	Slap Bass#
+VeloSlap	VeloSwSlap
+SlapBa2#	SlapBass2#
+SynBs1Dk	SynBass1Dk
+FastResB	FastResoBs
+AcidBass	Acid Bass
+ResoBass	Reson.Bass
+Clv.Bass	Clavi Bass
+TechnoBa	TechnoBass
+Sqr.Bass	SquareBass
+RubberBa	RubberBass
+Fish	Fish Bass
+HardReso	HardReson.
+AnalogBa	AnalogBass
+RezoBass	Rezzo Bass
+MelloSBa	MelloSynBs
+Seq.Bass	SequenceBs
+ClkSynBa	ClickSynBs
+SynBs2Dk	SynBass2Dk
 SmthSynB	SmthSynBas
+ModulrBa	ModularBas
+X WireBa	X WireBass
+AtkPulse	AttakPulse
+MetlBass	Metal Bass
+SmoothBa	SmoothBass
+Oct.Bass	OctaveBass
+PowerBas	Power Bass
+SlwVioln	SlowViolin
+CadenzDk	DarkCadnza
 ViolinSc	ViolinSect
+HdVlnSec	HardVlnSec
 SlVlnSec	SlowVlnSec
+DblViola	DoublViola
 ViolaSec	Viola Sect
+HdVlaSec	HardVlaSec
 SlVlaSec	SlowVlaSec
 CellSect	Cello Sect
+HdCelloS	HdCelloSec
 SlCelloS	SlCelloSec
 ContrSec	ContrbSect
+HdContrS	HdContrSec
 SlContrS	SlContrSec
+SlwTrStr	SlowTrmStr
+Susp.Str	Susp. Str.
+Det.Fear	DetuneFear
+Apoclyps	Apocalypse
+BrTrmStr	BrtTremStr
+TremStr#	Trem.Str #
+PizzOcta	PizzOctave
+YangChin	Yang Chin
+ElecHarp	Elec. Harp
+VlinHarp	ViolinHarp
+DtVliHrp	DtViolnHrp
+Roll&Hit	Roll & Hit
 SwellStr	Swell Str.
 StSlwStr	St.SlowStr
 StereoAh	Stereo Aah
