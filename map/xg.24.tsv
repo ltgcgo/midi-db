@@ -83,19 +83,54 @@ RckRthm2	Rock Rhythm 2
 Dist.Gt#	Distortion Guitar #
 GtFeedbk	Guitar Feedback
 GtrHrmo2	Guitar Harmonics 2
+VXUprght	VX Upright Bass
+Acou.Ba#	Acoustic Bass #
+FingrDrk	Dark Fingered Bass
 RezChase	Resonant Chase
+FW EBass	Finger W Electric Bass
+FingrBa#	Fingered Bass #
 PickBas2	Picked Bass 2
+M.PkBass	Muted Picked Bass
 HardPick	Hard Picked Bass
+Fretles2	Fretless Bass 2
+Fretles3	Fretless Bass 3
+Fretles4	Fretless Bass 4
 Pwr.Fret	Powered Fretless Bass
+SynFretl	Synth Fretless Bass
+SmthFrtl	Smooth Fretless Bass
+Fretles#	Fretless Bass #
+ResoSlap	Resonant Slap Bass
+PunchThm	Punch Thumb Bass
+VeloSlap	Velo Switch Slap
+SlapBa2#	Slap Bass 2 #
+SynBs1Dk	Dark Synth Bass 1
+FastResB	Fast Resonant Bass
+ResoBass	Resonant Bass
+HardReso	Hard Resonant Bass
+MelloSBa	Mellow Synth Bass
+Seq.Bass	Sequenced Bass
+ClkSynBa	Click Synth Bass
+SynBs2Dk	Dark Synth Bass 2
 SmthSynB	Smooth Synth Bass
 ViolinSc	Violin Section
+HdVlnSec	Hard Violin Section
 SlVlnSec	Slow Violin Section
 ViolaSec	Viola Section
+HdVlaSec	Hard Viola Section
 SlVlaSec	Slow Viola Section
 CellSect	Cello Section
+HdCelloS	Hard Cello Section
 SlCelloS	Slow Cello Section
 ContrSec	Contrabass Section
+HdContrS	Hard Contrabass Section
 SlContrS	Slow Contrabass Section
+SlwTrStr	Slow Tremolo Strings
+Susp.Str	Suspense Strings
+BrTrmStr	Bright Tremolo Strings
+TremStr#	Tremolo Strings #
+PizzOcta	Pizzcato Octave
+ElecHarp	Electric Harp
+DtVliHrp	Detuned Violin Harp
 SwellStr	Swell Strings
 StSlwStr	Stereo Slow Strings
 BriteTrp	Bright Trumpet

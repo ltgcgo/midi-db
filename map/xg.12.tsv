@@ -20,6 +20,9 @@ VX E.Pno	VX El. Piano
 EPiano1#	El. Piano 1#
 EPiano2K	El.Piano 2 K
 Chor.EP2	Chorus EP 2
+DXLegend	DX Legend EP
+DX Phase	DX Phase EP
+DXAnalog	DX Analog EP
 VX EPno2	VX El.Piano2
 EPiano2#	El. Piano 2#
 HpschrdK	HarpsichordK
@@ -107,6 +110,7 @@ JazzRthm	Jazz Rhythm
 VXUprght	VX UprightBa
 Acou.Ba#	Acou. Bass #
 FingrDrk	DarkFingerBs
+FlangrBa	Flanger Bass
 RezChase	Reso. Chase
 FW EBass	FingrW EBass
 FingrBa#	FingerBass #
@@ -150,7 +154,7 @@ CadenzDk	Dark Cadenza
 ViolinSc	Violin Sect.
 HdVlnSec	HardViolnSec
 SlVlnSec	SlowViolnSec
-DoublViola	Double Viola
+DblViola	Double Viola
 ViolaSec	Viola Sect.
 HdVlaSec	HardViolaSec
 SlVlaSec	SlowViolaSec
