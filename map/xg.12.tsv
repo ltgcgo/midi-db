@@ -237,6 +237,8 @@ Tp&TbSec	Trp&Trb Sect
 TpTbSec2	Trp&TrbSect2
 BrsSect2	Brass Sect 2
 MelloBrs	Mellow Brass
+Tenor&Tp	Tenor&Trmpt
+SymphBrs	Symph. Brass
 QuackBrs	Quack Brass
 RezSynBr	ResoSynthBrs
 SynBras3	SynthBrass 3
@@ -248,8 +250,6 @@ ChoirBrs	Choir Brass
 Ana.Horn	Analog Horn
 AnVelBr2	AnalVeloBrs2
 AnalBrs2	AnalogBrass2
-Tenor&Tp	Tenor&Trmpt
-SymphBrs	Symph. Brass
 LgtAltSx	Lgt.Alto Sax
 FakeAlto	Fake Alto Sx
 TenrSax2	Tenor Sax 2

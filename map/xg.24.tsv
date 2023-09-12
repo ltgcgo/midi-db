@@ -131,20 +131,60 @@ TremStr#	Tremolo Strings #
 PizzOcta	Pizzcato Octave
 ElecHarp	Electric Harp
 DtVliHrp	Detuned Violin Harp
+StStrngs	Stereo Strings
+SforzStr	Sforzando Strings
+OrcheStr	Orchestral Strings
+OrchStr2	Orchestral Strings 2
+TremOrch	Tremolo Orch Strings
+Velo.Str	Velocity Strings
 SwellStr	Swell Strings
 StSlwStr	Stereo Slow Strings
+LegatoSt	Legato Strings
+ChmbrStr	Chamber Strings
+Reso Str	Resonant Strings
+Syn.Str3	Synth Strings 3
+GrandPad	Grand Strings Pad
+SweepStr	Sweep Strings
+Syn.Str4	Synth Strings 4
+Syn.Str5	Synth Strings 5
+MelChoir	Mellow Choir
+ChoirStr	Choir Strings
+SynVoix2	Synth Voice 2
+OrchHit2	Orchestra Hit 2
 BriteTrp	Bright Trumpet
+SoftDTrp	Soft Dark Trumpet
 SweetTrp	Sweet Trumpet
+MlSwtTrp	Mellow Sweet Trumpet
 NormlTrp	Normal Trumpet
 Bril Trp	Brilliant Trumpet
 BrtTromb	Bright Trombone
 MelloTrb	Mellow Trombone
 BrilTrmb	Brilliant Trombone
+HardTrmb	Hard Trombone
 BrtBsTrb	Bright Bass Trombone
+HrdBsTrb	Hard Bass Trombone
+TromSect	Trombone Section
+MuteTrp2	Muted Trumpet 2
+MutedTp#	Muted Trumpet #
 FrHrSolo	French Horn Solo
 FrHorn 2	French Horn 2
+HornOrch	Horn Orchestra
+Syn.Horn	Synth French Horn
+HrnOrch2	Horn Orchestra 2
 BrtFrHrn	Bright French Horn
+HardFrHr	Hard French Horn
 StBrsSec	Stereo Brass Section
+SforzBrs	Sforzando Brass
+Tp&TbSec	Trumpet & Tromb. Section
+TpTbSec2	Trumpet & Tromb. Sect. 2
+BrsSect2	Brass Section 2
+RezSynBr	Resonant Synth Brass
+SynBras3	Synth Brass 3
+SyBrsSub	Synth Brass Sub-oscillator
+AnVelBrs	Analog Velocity Brass
+SynBras4	Synth Brass 4
+AnVelBr2	Analog Velocity Brass 2
+AnalBrs2	Analog Brass 2
 Tenor&Tp	Tenor Sax & Trumpet
 SymphBrs	Symphonic Brass
 LgtAltSx	Legato Alto Saxophone
