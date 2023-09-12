@@ -173,21 +173,81 @@ PizzOcta	Pizz. Octave
 ElecHarp	ElectricHarp
 VlinHarp	Violin Harp
 DtVliHrp	DetViolinHrp
+StStrngs	St. Strings
+Slow Str	Slow Strings
+SforzStr	SforzStrings
+Arco Str	Arco Strings
+60sStrng	60s' Strings
+OrcheStr	OrcheStrings
+OrchStr2	OrchStrings2
+TremOrch	Tremolo Orch
+Velo.Str	Velo Strings
 SwellStr	SwellStrings
+Strngs1#	Strings 1 #
 StSlwStr	St.Slow Str.
+LegatoSt	Legato Str.
+Warm Str	Warm Strings
+70s Str	70s' Strings
+ChmbrStr	Chamber Str.
+Strngs2#	Strings 2 #
+Reso Str	Resonant Str
+Syn.Str3	Synth Str. 3
+GrandPad	GrandStrsPad
+SweepStr	SweepStrings
+Syn.Str4	Synth Str. 4
+Syn.Str5	Synth Str. 5
+SolPlexs	Solar Plexus
+St.Choir	Stereo Choir
+ChoirAh2	Choir Aah 2
+MelChoir	Mellow Choir
+ChoirStr	Choir Strngs
+SynVoix2	SynthVoice 2
+AnalVoix	Analog Voice
+OrchHit2	Orch. Hit 2
+6th Hit+	Sixth Hit +
 BriteTrp	BriteTrumpet
+Warm Trp	Warm Trumpet
 Dark Trp	Dark Trumpet
+SoftDTrp	SoftDarkTrp.
 Soft Trp	Soft Trumpet
 SweetTrp	SweetTrumpet
+MlSwtTrp	Mel.SweetTrp
 NormlTrp	Normal Trmpt
 Bril Trp	BrilliantTrp
+FlugelHr	Flugel Horn
 BrtTromb	Brt Trombone
 MelloTrb	Mellow Tromb
 BrilTrmb	BrillintTrmb
+HardTrmb	HardTrombone
 BrtBsTrb	BrtBassTromb
+HrdBsTrb	HardBassTrmb
+TromSect	TromboneSect
+MuteTrp2	MutedTrmpt 2
+MutedTp#	MutedTrmpt #
 FrHrSolo	Fr.Horn Solo
+FrHorn 2	FrenchHorn 2
+HornOrch	HrnOrchestra
+Syn.Horn	SynthFr.Horn
+HrnOrch2	Horn Orch. 2
 BrtFrHrn	BrightFrHorn
+HardFrHr	Hard Fr.Horn
 StBrsSec	St.BrassSect
+SforzBrs	Sforz. Brass
+Tp&TbSec	Trp&Trb Sect
+TpTbSec2	Trp&TrbSect2
+BrsSect2	Brass Sect 2
+MelloBrs	Mellow Brass
+QuackBrs	Quack Brass
+RezSynBr	ResoSynthBrs
+SynBras3	SynthBrass 3
+SyBrsSub	SynthBrasSub
+AnVelBrs	Anal.VeloBrs
+Anal.Brs	Analog Brass
+SynBras4	SynthBrass 4
+ChoirBrs	Choir Brass
+Ana.Horn	Analog Horn
+AnVelBr2	AnalVeloBrs2
+AnalBrs2	AnalogBrass2
 Tenor&Tp	Tenor&Trmpt
 SymphBrs	Symph. Brass
 LgtAltSx	Lgt.Alto Sax

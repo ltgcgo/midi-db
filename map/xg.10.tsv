@@ -280,6 +280,8 @@ BrasFall	Brass Fall
 BrsSect2	BrassSect2
 Hi Brass	High Brass
 MelloBrs	MelloBrass
+Tenor&Tp	Tenor&Trp
+SymphBrs	SymphBrass
 QuackBrs	QuackBrass
 RezSynBr	ResoSynBrs
 PolyBras	Poly Brass
@@ -294,8 +296,6 @@ ChoirBrs	ChoirBrass
 Ana.Horn	AnalogHorn
 AnVelBr2	AnVeloBrs2
 AnalBrs2	AnalogBrs2
-Tenor&Tp	Tenor&Trp
-SymphBrs	SymphBrass
 LgtAltSx	LgtAltoSax
 HyprAlto	Hyper Alto
 FakeAlto	Fake Alto
