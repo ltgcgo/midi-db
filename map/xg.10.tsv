@@ -198,26 +198,102 @@ ElecHarp	Elec. Harp
 VlinHarp	ViolinHarp
 DtVliHrp	DtViolnHrp
 Roll&Hit	Roll & Hit
+StStrngs	St.Strings
+Slow Str	SlowString
+SforzStr	SfzStrings
+Arco Str	ArcoString
+60sStrng	60s'String
+OrcheStr	OrcheStrng
+OrchStr2	OrchStrng2
+TremOrch	Trem.Orch.
+Velo.Str	VeloString
 SwellStr	Swell Str.
+Strngs1#	Strings 1#
 StSlwStr	St.SlowStr
+LegatoSt	Legato Str
+Warm Str	WarmString
+70s Str	70s'String
+Strings3	Strings 3
+ChmbrStr	ChamberStr
+Strngs2#	Strings 2#
+Reso Str	Reso. Str.
+Syn.Str3	SynthStr.3
+GrandPad	Grand Pad
+SweepStr	SweepStrng
+Syn.Str4	SynthStr.4
+Syn.Str5	SynthStr.5
+TradeWnd	Trade Wind
+WormHole	Worm Hole
+SolPlexs	SolrPlexus
+St.Choir	Ste. Choir
+ChoirAh2	Choir Ah 2
+MelChoir	MelloChoir
+ChoirStr	Choir Str.
 StereoAh	Stereo Aah
+VoiceDoo	Voice Doo
 StereoOh	Stereo Ooh
+SynVoix2	Syn.Voice2
+AnalVoix	AnalgVoice
+OrchHit2	Orch. Hit2
+6th Hit	Sixth Hit
+6th Hit+	6th Hit +
+EuroHit+	Euro Hit +
+Trumpet2	Trumpet 2
 BriteTrp	Bright Trp
+Warm Trp	Warm Trmpt
 Dark Trp	Dark Trmpt
+SoftDTrp	SoftDrkTrp
 Soft Trp	Soft Trmpt
 SweetTrp	SweetTrmpt
+MlSwtTrp	Mel.SwtTrp
 NormlTrp	Normal Trp
 Bril Trp	Brill. Trp
+FlugelHr	FlugelHorn
+Trumpet#	Trumpet #
+Trombon2	Trombone 2
 BrtTromb	BrtTrombon
 MelloTrb	MelloTromb
 BrilTrmb	Brill.Trmb
-BrtBsTrb	BrtBasTrmb
+HardTrmb	HardTrombn
+BrtBsTrb	BriteBsTrb
+HrdBsTrb	HardBsTrmb
+TromSect	TrombnSect
+Trombon#	Trombone #
+HardTuba	Hard Tuba
 SlowTuba	Slow Tuba
 Eufonium	Euphonium
+MuteTrp2	MutedTrp 2
+MutedTp#	MutedTrp #
 FrHrSolo	FrHornSolo
 FrHorn 2	Fr. Horn 2
+HornOrch	Horn Orch.
+Syn.Horn	SynthFrHrn
+HrnOrch2	Horn Orch2
 BrtFrHrn	BriteFrHrn
+HardFrHr	HardFrHorn
 StBrsSec	StBrasSect
+SforzBrs	SforzBrass
+MildBras	Mild Brass
+Tp&TbSec	Trp&TrbSec
+TpTbSec2	Trp&TbSec2
+BrasFall	Brass Fall
+BrsSect2	BrassSect2
+Hi Brass	High Brass
+MelloBrs	MelloBrass
+QuackBrs	QuackBrass
+RezSynBr	ResoSynBrs
+PolyBras	Poly Brass
+SynBras3	SynthBras3
+JumpBras	Jump Brass
+SyBrsSub	SynBrasSub
+AnVelBrs	An.VeloBrs
+Anal.Brs	AnalogBras
+SoftBras	Soft Brass
+SynBras4	SynthBras4
+ChoirBrs	ChoirBrass
+Ana.Horn	AnalogHorn
+AnVelBr2	AnVeloBrs2
+AnalBrs2	AnalogBrs2
 Tenor&Tp	Tenor&Trp
 SymphBrs	SymphBrass
 LgtAltSx	LgtAltoSax
