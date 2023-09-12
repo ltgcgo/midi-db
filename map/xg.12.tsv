@@ -102,22 +102,73 @@ RckRthm2	RockRhythm 2
 RockRthm	Rock Rhythm
 Dist.Gt#	Dist. Gtt. #
 GtFeedbk	Gtr.Feedback
-GtrHrmo2	Gtr.Harmo 2
-FlangrBa	Flanger Bass
+GtrHrmo2	Gtr. Harmo 2
+JazzRthm	Jazz Rhythm
+VXUprght	VX UprightBa
+Acou.Ba#	Acou. Bass #
+FingrDrk	DarkFingerBs
 RezChase	Reso. Chase
+FW EBass	FingrW EBass
+FingrBa#	FingerBass #
 PickBas2	Picked Bass2
+M.PkBass	MutedPikBass
 HardPick	HardPickBass
+Fretles2	FretlessBas2
+Fretles3	FretlessBas3
+Fretles4	FretlessBas4
 Pwr.Fret	PowerFretles
 TalkinBa	Talking Bass
+SynFretl	SynthFretles
+SmthFrtl	SmoothFrtles
+Fretles#	FretlesBass#
+ResoSlap	ResonantSlap
+PunchThm	PunchThumbBs
+Thum&Slp	Thumb & Slap
+SlapBas#	Slap Bass #
+VeloSlap	VeloSwchSlap
+SlapBa2#	Slap Bass 2#
+SynBs1Dk	DarkSynBass1
+FastResB	FastReso.Bas
+ResoBass	ResonantBass
+TechnoBa	Techno Bass
+Sqr.Bass	Square Bass
+RubberBa	Rubber Bass
+HardReso	HardResonant
+AnalogBa	Analog Bass
+MelloSBa	MelloSynBass
+Seq.Bass	SequencedBas
+ClkSynBa	ClickSynthBs
+SynBs2Dk	DarkSynBass2
 SmthSynB	SmoothSynBas
+ModulrBa	Modular Bass
+X WireBa	X Wire Bass
+AtkPulse	Attack Pulse
+SmoothBa	Smooth Bass
+Oct.Bass	Octave Bass
+SlwVioln	Slow Violin
+CadenzDk	Dark Cadenza
 ViolinSc	Violin Sect.
+HdVlnSec	HardViolnSec
 SlVlnSec	SlowViolnSec
+DoublViola	Double Viola
 ViolaSec	Viola Sect.
+HdVlaSec	HardViolaSec
 SlVlaSec	SlowViolaSec
 CellSect	Cello Sect.
+HdCelloS	HardCelloSec
 SlCelloS	SlowCelloSec
 ContrSec	Contr. Sect.
+HdContrS	HardContrSec
 SlContrS	SlowContrSec
+SlwTrStr	SlowTremStr.
+Susp.Str	Suspense Str
+Det.Fear	Detuned Fear
+BrTrmStr	BriteTremStr
+TremStr#	Tremolo Str#
+PizzOcta	Pizz. Octave
+ElecHarp	ElectricHarp
+VlinHarp	Violin Harp
+DtVliHrp	DetViolinHrp
 SwellStr	SwellStrings
 StSlwStr	St.Slow Str.
 BriteTrp	BriteTrumpet
