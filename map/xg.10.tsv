@@ -63,6 +63,7 @@ DrawOrg#	DrawOrgan#
 DetPrcOr	DetPercOrg
 LightOrg	LightOrgan
 PercOrg2	PercOrgan2
+WarmJazz	WarmJazzOr
 PercOrg#	PercOrgan#
 RotaryOr	RotaryOrgn
 SlwRotar	SlowRotary
@@ -96,6 +97,7 @@ ChorusGt	Chorus Gt.
 MidT.Gtr	MidToneGt.
 MidTGtSt	MidTnGtrSt
 NasalGtr	Nasal Gtr.
+Dbl Hamr	Dbl Hammer
 Funk Gtr	Funk Gtr 1
 MuteStlG	MuteSteelG
 FunkGtr2	Funk Gtr 2
@@ -103,6 +105,7 @@ Mu.DstGt	MuteDistGt
 MutedGt#	Muted Gt.#
 OvdrGtDt	OvdrGtrDet
 Gt.Pinch	Gtr. Pinch
+BriMnhtn	BriteMnhtn
 Ovrdriv#	Overdrive#
 DstRthmG	DistRthmGt
 DistGtr2	Dist.Gtr 2
@@ -133,6 +136,7 @@ FingrBa#	FingerBas#
 PickBas2	PickedBas2
 M.PkBass	MutePkBass
 HardPick	Hard Pick
+RzHardPk	ResoHardPk
 Fretles2	FretlesBs2
 Fretles3	FretlesBs3
 Fretles4	FretlesBs4
@@ -235,6 +239,7 @@ StereoOh	Stereo Ooh
 SynVoix2	Syn.Voice2
 AnalVoix	AnalgVoice
 OrchHit2	Orch. Hit2
+BrsStb80	BrasStab80
 6th Hit	Sixth Hit
 6th Hit+	6th Hit +
 EuroHit+	Euro Hit +
@@ -280,6 +285,7 @@ BrasFall	Brass Fall
 BrsSect2	BrassSect2
 Hi Brass	High Brass
 MelloBrs	MelloBrass
+SuperBrs	SuperBrass
 Tenor&Tp	Tenor&Trp
 SymphBrs	SymphBrass
 QuackBrs	QuackBrass
@@ -334,6 +340,7 @@ SoloSine	Solo Sine
 SineLead	Sine Lead
 Pulse Ld	Pulse Lead
 SyncLead	Sync Lead
+Curse Ld	Curse Lead
 SawLead2	Saw Lead 2
 ThickSaw	Thick Saw
 Dyna.Saw	DynamicSaw
@@ -452,6 +459,9 @@ RConBaDr	RvConBaDrm
 Rev. Tom	ReverseTom
 Rev.Tom2	Rev. Tom 2
 Prcesion	Precession
+RndmWalk	RandomWalk
+RandmRun	Random Run
+Malfnctn	Malfnction
 CutNoise	Cut Noise
 CutNoiz2	CutNoise 2
 DstCutNz	DstCutNoiz
@@ -525,35 +535,25 @@ Std&Perc	LvStd&Perc
 FunkPerc	LvFunkPerc
 Brush&P.	LvBrush&P.
 RockKit3	Rock Kit 3
-F-Coquet	Fem-Coquet
-Det.EP 8	Det. EP 8
-F-NMusic	Fem-NMusic
-Fretles!	Fretless!
-SweetAlt	Sweet Alto
-JazzGtr!	JazzGuitr!
-Trumpt!2	Trumpet! 2
-WarmJazz	WarmJazzOr
+BobPiano	Bob Piano
 PnoStPad	PianoStPad
 StRichSt	StRichSt
-PhaseClv	PhaseClavi
 Treme.CP	Tremolo CP
-60's EP	60's EP.
 Hnkytnk1	Honkytonk1
-BobPiano	Bob Piano
-Curse Ld	Curse Lead
-RzHardPk	ResoHardPk
-Dbl Hamr	Dbl Hammer
-BriMnhtn	BriteMnhtn
-Malfnctn	Malfnction
-RandmRun	Random Run
-MM-Clsta	MM-Celesta
-MM-Vce 4	MM-Voice 4
-MM-Clav3	MM-Clavi.3
+60's EP	60's EP.
+PhaseClv	PhaseClavi
+Fretles!	Fretless!
+JazzGtr!	JazzGuitr!
+Trumpt!2	Trumpet! 2
+SweetAlt	Sweet Alto
+F-NMusic	Fem-NMusic
+F-Coquet	Fem-Coquet
 MM-Pno 2	MM-Piano 2
-SuperBrs	SuperBrass
-DX-SLd 9	DX-SqrLd 9
+Det.EP 8	Det. EP 8
+MM-Clav3	MM-Clavi.3
+MM-Clsta	MM-Celesta
 MM-Vibe2	MM-Vibra.2
-RndmWalk	RandomWalk
+MM-Vce 4	MM-Voice 4
+DX-SLd 9	DX-SqrLd 9
 DirtySaw	Dirty Saw
 ANCowbel	AN Cowbell
-BrsStb80	BrasStab80
