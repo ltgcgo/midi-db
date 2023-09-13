@@ -187,13 +187,30 @@ AnVelBrs	Analog Velocity Brass
 SynBras4	Synth Brass 4
 AnVelBr2	Analog Velocity Brass 2
 AnalBrs2	Analog Brass 2
-LgtAltSx	Legato Alto Saxophone
+SwtSprno	Sweet Soprano Sax
+LgtAltSx	Legato Alto Sax
 HyprAlto	Hyper Alto Sax
+Sax Sect	Saxophone Section
+PwrAltSx	Power Alto Sax
 FakeAlto	Fake Alto Sax
+FakeAlt+	Fake Alto Sax +
+DFakeAlt	Dark Fake Alto Sax
+AltoSax#	Alto Saxophone #
+BrthTnSx	Breathy Tenor Sax
+SoftTenr	Soft Tenor Sax
 TenrSax2	Tenor Saxophone 2
-SuperTnr	Super Tenor Saxophone
+SuperTnr	Super Tenor Sax
+SuprTnr+	Super Tenor Sax +
+SupTnrSt	Super Tenor Stereo
+Tenr&Alt	Tenor & Alto Sax
+BrthTnr2	Breathy Tenor Sax 2
+SwtTenor	Sweet Tenor Sax
+Exp.Oboe	Expressive Oboe
 BasClari	Bass Clarinet
 NeatBrth	Neat Breathy Flute
+BthBoehm	Breathy Boehm
+SwtPanFl	Sweet Pan Flute
+BotlLgto	Bottle Legato
 HollowSq	Hollow Square
 CutNoise	Cutting Noise
 CutNoiz2	Cutting Noise 2
