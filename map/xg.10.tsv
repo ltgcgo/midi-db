@@ -296,14 +296,35 @@ ChoirBrs	ChoirBrass
 Ana.Horn	AnalogHorn
 AnVelBr2	AnVeloBrs2
 AnalBrs2	AnalogBrs2
+SwtSprno	SwtSoprano
 LgtAltSx	LgtAltoSax
+Sax Sect	Sax Sect.
 HyprAlto	Hyper Alto
+PwrAltSx	PowerAltSx
 FakeAlto	Fake Alto
+FakeAlt+	Fake Alto+
+DFakeAlt	DrkFakeAlt
+AltoSax#	Alto Sax #
+BrthTnSx	BrthyTnrSx
+SoftTenr	SoftTenrSx
 TenrSax2	TenorSax 2
 SuperTnr	SuperTenor
+SuprTnr+	SuperTenr+
+SupTnrSt	SuprTnrSt.
+Tenr&Alt	Tenor&Alto
+BrthTnr2	BrthyTenr2
+SwtTenor	SweetTenor
+HeinzUni	HeinzUnisn
+Exp.Oboe	Expr. Oboe
 BasClari	BassClari.
 NeatBrth	NeatBreath
+BthBoehm	BrthyBoehm
 Pastoral	Pastorale
+SwtFlute	SweetFlute
+PanFlut2	PanFlute 2
+SwtPanFl	SwtPanFlut
+PanFlut#	Pan Flute#
+BotlLgto	BotlLegato
 HollowSq	Hollow Sqr
 LightPad	Light Pad
 PolyPd80	PolyPad 80
