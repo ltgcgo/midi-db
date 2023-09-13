@@ -18,6 +18,7 @@ ChorusEP	Chorus EP.
 HardEPno	Hard ElPno
 VX E.Pno	VX ElPiano
 60sElPno	60's ElPno
+Easy EP	Easy EP.
 EPiano1#	El.Piano1#
 EPiano2K	ElPiano 2K
 Chor.EP2	ChorusEP.2
@@ -58,6 +59,7 @@ Organ Ba	Organ Bass
 CheezOrg	CheeseOrgn
 DrawOrg3	DrawOrgan3
 ClkGspOr	ClikGospOr
+Mood Org	Mood Organ
 DrawOrg#	DrawOrgan#
 70sPcOrg	70sPercOrg
 DetPrcOr	DetPercOrg
@@ -97,10 +99,12 @@ ChorusGt	Chorus Gt.
 MidT.Gtr	MidToneGt.
 MidTGtSt	MidTnGtrSt
 NasalGtr	Nasal Gtr.
+BridHamr	BridgeHamr
 Dbl Hamr	Dbl Hammer
 Funk Gtr	Funk Gtr 1
 MuteStlG	MuteSteelG
 FunkGtr2	Funk Gtr 2
+GrvyMtGt	GroovyMtGt
 Mu.DstGt	MuteDistGt
 MutedGt#	Muted Gt.#
 OvdrGtDt	OvdrGtrDet
@@ -172,6 +176,7 @@ ModulrBa	ModularBas
 X WireBa	X WireBass
 AtkPulse	AttakPulse
 MetlBass	Metal Bass
+SynthAtk	SynthAttak
 SmoothBs	SmoothBass
 Oct.Bass	OctaveBass
 PowerBas	Power Bass
@@ -212,6 +217,7 @@ OrchStr2	OrchStrng2
 TremOrch	Trem.Orch.
 Velo.Str	VeloString
 SwellStr	Swell Str.
+3 OctStr	3 Oct.Str.
 Strngs1#	Strings 1#
 StSlwStr	St.SlowStr
 LegatoSt	Legato Str
@@ -292,6 +298,7 @@ QuackBrs	QuackBrass
 RezSynBr	ResoSynBrs
 PolyBras	Poly Brass
 SynBras3	SynthBras3
+AnlSforz	Anal.Sforz
 JumpBras	Jump Brass
 SyBrsSub	SynBrasSub
 AnVelBrs	An.VeloBrs
@@ -353,6 +360,7 @@ Dim Saw	Dim Saw Ld
 PulseSaw	Pulse Saw
 Dr. Lead	DoctorLead
 VeloLead	Velo. Lead
+SimplSaw	Simple Saw
 NoviceLd	NoviceLead
 VentSyn.	Vent Synth
 PureLead	Pure Lead
@@ -557,11 +565,3 @@ MM-Vce 4	MM-Voice 4
 DX-SLd 9	DX-SqrLd 9
 DirtySaw	Dirty Saw
 ANCowbel	AN Cowbell
-AnlSforz	Anal.Sforz
-BridHamr	BridgeHamr
-Easy EP	Easy EP.
-SynthAtk	SynthAttak
-GrvyMtGt	GroovyMtGt
-3 OctStr	3 Oct.Str.
-SimplSaw	Simple Saw
-Mood Org	Mood Organ
