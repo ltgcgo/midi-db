@@ -178,6 +178,8 @@ SforzBrs	Sforzando Brass
 Tp&TbSec	Trumpet & Tromb. Section
 TpTbSec2	Trumpet & Tromb. Sect. 2
 BrsSect2	Brass Section 2
+Tenor&Tp	Tenor Sax & Trumpet
+SymphBrs	Symphonic Brass
 RezSynBr	Resonant Synth Brass
 SynBras3	Synth Brass 3
 SyBrsSub	Synth Brass Sub-oscillator
@@ -185,8 +187,6 @@ AnVelBrs	Analog Velocity Brass
 SynBras4	Synth Brass 4
 AnVelBr2	Analog Velocity Brass 2
 AnalBrs2	Analog Brass 2
-Tenor&Tp	Tenor Sax & Trumpet
-SymphBrs	Symphonic Brass
 LgtAltSx	Legato Alto Saxophone
 HyprAlto	Hyper Alto Sax
 FakeAlto	Fake Alto Sax
