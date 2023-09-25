@@ -108,13 +108,27 @@ TngoAcd2	Bandoneon 2
 Bndoneon	Bandoneon 3
 12StrGtr	12Str Guitar
 ClnHalfG	Clean Half G
+OpnHrdGt	Open Hard Gt
+OpnHrdG2	Open Hard G2
+JC ClnGt	JC Clean Gt.
+TCFrntPk	TCFront Pick
+TCRearPk	TC Rear Pick
 LPRearPk	LP Rear Pick
 MidT.Gtr	Mid Tone Gtr
+TCMuteGt	TCMuted Gtr.
 Funk Gtr	Funk Guitar
+OvrDrGt2	OvrDrvGtr. 2
+OvrDrGt3	OvrDrvGtr. 3
 MoDrvGtr	MoreDrive Gt
 LPOvrDr2	LPOverdrive2
+WildAcBa	Wild Ac.Bass
 AtkAcoBa	AtkAcou.Bass
+JazzyBa2	Jazzy Bass 2
+F.Ba/Hrm	F.Bass/Harm.
+PickBas3	Picked Bass3
+PickBas4	Picked Bass4
 DblPikBa	Dbl.PickBass
+WoodFrtl	Wood+Fretles
 SlapBass	Slap Bass 1
 ResoSlap	Reso Slap Ba
 SynBa101	SynthBass101
@@ -127,7 +141,14 @@ JungleBa	Jungle Bass
 303SqDs2	303 SqDstBa2
 303SqDs3	303 SqDstBa3
 303SqrRv	303 Sqr. Rev
+SynBa201	Syn.Bass 201
+MGOctBa2	MGOctaveBas2
+BeefFMBa	Beef FM Bass
+ViolnAtk	Violin Atk.
+ViolaAtk	Viola Attack
+CelloAtk	Cello Attack
 SlwTrStr	Slow Tremolo
+VcCbPizz	Vc/Cb Pizz.
 St. Pizz	Stereo Pizz.
 StrsSpic	Strings Spic
 UileanHp	Uillean Harp
@@ -136,6 +157,7 @@ Mild Str	Mild Strings
 OrchStr2	Orchestra 2
 OrchStr3	Orch. Str 3
 Syn.Str3	SynthString3
+Air Str.	Air Strings
 MltChoir	Melted Choir
 OohsMaj7	Oohs (maj7)
 OohsSus4	Oohs (sus4)
@@ -144,26 +166,44 @@ FemChoLu	FemaleCh.Luh
 FemChLan	FemaleCh.Lan
 F.La&Lan	FemaleLa&Lan
 MalChoWa	Male Cho.Wah
+SyVoice2	Syn.Voice 2
 Trp&Noiz	Trumpt&Noise
 BassTrom	Bass Trmbone
 CMuteTrp	Cup MutedTrp
+SlwFrHrn	Slow Fr.Horn
 RipFrHrn	Rip Fr. Horn
 BoneSect	Bone Section
+Trp Fall	Trumpet Fall
 OrchBras	Orch. Brass
 OrchBrs2	Orch.Brass 2
 StOrBrs2	St.Orch.Brs2
 StOrBrs3	St.Orch.Brs3
 SynBras3	SynthBrass 3
 SynBras4	SynthBrass 4
+Exp.Alto	Express Alto
 Sax Sect	Sax Section
 BsClari.	BassClarinet
 TinWhsNm	TinWhistleNm
 TinWhsOr	TinWhistleOr
+MGSquare	MG Square Ld
+HolwMini	Hollow Mini
+CC Solo	CC Solo Lead
 JP-8 Sqr	JP-8 Square
 DsSquare	Dist. Square
+MGRezPls	MG Rez.Pulse
+GR-300	GR-300 Lead
+D-50 Fat	D-50 FatLead
+CS SawLd	CS Saw Lead
+OB Saw 2	OB SawLead 2
+P5 SawLd	P5 Saw Lead
+Seq.Saw.	SequencedSaw
 Reso Saw	Resonant Saw
 FatGR Ld	Fat GR Lead
+JP8BaLd1	JP8BassLead1
+ThickMtx	Thick Matrix
+OBSoftPd	OB Soft Pad
 SynMalet	Synth Mallet
+Altrnate	Alternative
 Reso Pan	Resonant Pan
 UillPpNm	UileanPipeNm
 UillPpOr	UileanPipeOr
@@ -173,6 +213,7 @@ RideBel!	Ride Bells!!
 HandClp!	Hand Clap!!!
 Kick3 !!	Kick 3 Menu
 Kick4 !!	Kick 4 Menu
+MeloTom2	Melod. Tom 2
 ElecPerc	Elec Perc 1
 Str.Slap	String Slap
 CutNoiz2	Cut Noise 2
@@ -195,6 +236,8 @@ HorseGlp	Horse Gallop
 DoorSqek	Door Squeak
 ScratchC	Scratch Cut
 Scratch2	ScratchSplit
+ScrachKy	Scratch Key
+TapeRwnd	Tape Rewind
 PhonNoiz	Phono Noise
 MC500 Bp	MC-500 Beep
 CarTyreS	Car Tyre Scr
@@ -249,46 +292,3 @@ RyFX Kit	Rhy.FX Kit
 RyFX2 Kt	Rhy.FX Kit 2
 RyFX3 Kt	Rhy.FX Kit 3
 CymblKt2	Cymbal Kit 2
-OBSoftPd	OB Soft Pad
-JC ClnGt	JC Clean Gt.
-F.Ba/Hrm	F.Bass/Harm.
-TCRearPk	TC Rear Pick
-OpnHrdGt	Open Hard Gt
-OpnHrdG2	Open Hard G2
-OvrDrGt2	OvrDrvGtr. 2
-OvrDrGt3	OvrDrvGtr. 3
-TCMuteGt	TCMuted Gtr.
-TCFrntPk	TCFront Pick
-PickBas3	Picked Bass3
-PickBas4	Picked Bass4
-WildAcBa	Wild Ac.Bass
-ThickMtx	Thick Matrix
-SyVoice2	Syn.Voice 2
-VcCbPizz	Vc/Cb Pizz.
-CelloAtk	Cello Attack
-ViolnAtk	Violin Atk.
-ViolaAtk	Viola Attack
-SlwFrHrn	Slow Fr.Horn
-Exp.Alto	Express Alto
-JazzyBa2	Jazzy Bass 2
-Trp Fall	Trumpt Fall
-Air Str.	Air Strings
-ScrachKy	Scratch Key
-Altrnate	Alternative
-TapeRwnd	Tape Rewind
-CS SawLd	CS Saw Lead
-MGRezPls	MG Rez.Pulse
-OB Saw 2	OB SawLead 2
-P5 SawLd	P5 Saw Lead
-HolwMini	Hollow Mini
-Seq.Saw.	SequencedSaw
-D-50 Fat	D-50 FatLead
-MGOctBa2	MGOctaveBas2
-BeefFMBa	Beef FM Bass
-CC Solo	CC Solo Lead
-JP8BaLd1	JP8BassLead1
-WoodFrtl	Wood+Fretles
-SynBa201	Syn.Bass 201
-GR-300	GR-300 Lead
-MeloTom2	Melod. Tom 2
-MGSquare	MG Square Ld

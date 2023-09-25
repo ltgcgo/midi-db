@@ -135,15 +135,30 @@ TngoAcd2	Bandoneon2
 Bndoneon	Bandoneon3
 12StrGtr	12 Str Gtr
 ClnHalfG	CleanHalfG
+OpnHrdGt	OpenHardGt
+OpnHrdG2	OpenHardG2
+JC ClnGt	JC CleanGt
+TCFrntPk	TCFrontPk.
+TCRearPk	TCRearPick
 LPRearPk	LPRearPick
 MidT.Gtr	MidToneGtr
+TCMuteGt	TCMutedGt.
 Funk Gtr	FunkGuitar
+OvrDrGt2	OvrDrvGt.2
+OvrDrGt3	OvrDrvGt.3
 MoDrvGtr	Mo.DriveGt
 LPOvrDr2	LPOverDrv2
+Rokabily	Rockabilly
+WildAcBa	WildAcBass
 AtkAcoBa	AtkAcou.Ba
+JazzyBa2	Jazzy Ba.2
 HeartBas	Heart Bass
+F.Ba/Hrm	F.Ba/Harm.
+PickBas3	PickedBas3
+PickBas4	PickedBas4
 DblPikBa	DblPickBas
 Fretles2	Fretless 2
+WoodFrtl	Wood+Frtls
 ResoSlap	ResoSlapBa
 SynBa101	SynthBs101
 SynBass3	Syn Bass 3
@@ -157,22 +172,37 @@ JungleBa	JungleBass
 303SqDs2	303SqDsBa2
 303SqDs3	303SqDsBa3
 303SqrRv	303Sqr.Rev
+SynBa201	SynBass201
+MGOctBa2	MGOctavBa2
 MGBlipBa	MG Blip Bs
 SynBass4	Syn Bass 4
+BeefFMBa	Beef FM Ba
+SyncBass	Sync Bass
+ViolnAtk	Violin Atk
+ViolaAtk	Viola Atk.
+CelloAtk	Cello Atk.
 SlwTrStr	SlowTrmStr
+VcCbPizz	VcCb Pizz.
 St. Pizz	Ste. Pizz.
+SoloPizz	Solo Pizz.
 StrsSpic	Str. Spic.
 UileanHp	UileanHarp
 Slow Str	SlowString
 Mild Str	Mild Str.
 OrchStr2	Orchestra2
 OrchStr3	Orch.Str 3
+OB Str.	OB Strings
+JP Str.	JP Strings
 Syn.Str3	SynthStr.3
+Air Str.	Air String
 MltChoir	Melt Choir
 BoyChoir	Boy Choir
+ChoirHah	Choir Hahs
+ChoirLah	Choir Lahs
 OohsMaj7	Oohs maj7
 OohsSus4	Oohs sus4
 JazzScat	Jazz Scat
+VoiceDah	Voice Dah
 JazzThum	Jazz Thum
 Fem. Lah	Female Lah
 FemChoLa	Fem.Ch.Lah
@@ -181,37 +211,62 @@ FemChoLu	Fem.Ch.Luh
 FemChLan	Fem.Ch.Lan
 F.La&Lan	Fem.La&Lan
 MalChoWa	MaleCh.Wah
+SyVoice2	SynVoice 2
 LoFiRave	Lo-Fi Rave
 StackHit	Stack Hit
 Trumpet2	Trumpet 2
+Trumpet3	Trumpet 3
 Trp&Noiz	Trpt&Noise
+Twinbone	Twinbones
 BassTrom	Bass Trmb.
 CMuteTrp	CupMuteTrp
 FrHorn 2	Fr. Horn 2
+SlwFrHrn	Slow FrHrn
 RipFrHrn	Rip FrHorn
 BoneSect	Bone Sect.
 QuadBras	Quad Brass
 BrasFall	Brass Fall
+Trp Fall	TrumptFall
 OrchBras	Orch.Brass
 OrchBrs2	Orch.Brs 2
 StOrBrs2	StOrchBrs2
 StOrBrs3	StOrchBrs3
 SynBras3	SynBrass 3
 SynBras4	SynBrass 4
+Exp.Alto	Expr. Alto
 Sax Sect	Sax Sect.
 BsClari.	BassClari.
 Piccolo2	Piccolo 2
 TinWhsNm	TinWhis.Nm
 TinWhsOr	TinWhis.Or
 Whistle2	Whistle 2
+MGSquare	MG Square
+HolwMini	HollowMini
+CC Solo	CC Solo Ld
 SineWave	Sine Wave
 2600Sine	2600 Sine
 JP-8 Sqr	JP-8 Sqr.
 DsSquare	DistSquare
+MGRezPls	MGRezPulse
+GR-300	GR-300 Ld
+D-50 Fat	D-50 FatLd
+CS SawLd	CS Saw Ld
+OB Saw 2	OB SawLd 2
+P5 SawLd	P5 Saw Ld
+MGUnison	MG Unison
+Seq.Saw.	Seq. Saw.
 Reso Saw	Reso. Saw
 FatGR Ld	Fat GR Ld
+LFO Vox	LFO Voice
+JP8BaLd1	JP8BassLd1
+ThickMtx	ThickMatrx
+OBSoftPd	OB Soft Pd
+VoicePad	Voice Pad
 SynMalet	Syn Mallet
 DigiBell	Digi Bells
+Org Bell	Organ Bell
+LFO Horr	LFO Horror
+Altrnate	Alternate
 EchoBell	Echo Bell
 Reso Pan	Reso. Pan
 UillPpNm	UillPipeNm
@@ -225,6 +280,7 @@ JungleBD	Jungle BD
 TechnoBD	Techno BD
 Kick3 !!	Kick 3 !!
 Kick4 !!	Kick 4 !!
+MeloTom2	Melod.Tom2
 JungleSD	Jungle SD
 ElecPerc	ElecPerc 1
 CutNoise	Cut Noise
@@ -255,6 +311,8 @@ DoorSlam	Door Slam
 ScratchC	ScratchCut
 WindChim	Windchimes
 Scratch2	ScratchSpl
+ScrachKy	ScratchKey
+TapeRwnd	TapeRewind
 PhonNoiz	PhonoNoise
 MC500 Bp	MC500 Beep
 Scratch3	Scratch 3
@@ -356,64 +414,3 @@ SFX Kt 2	SFX Kit 2
 VoiceKit	Voice Kit
 CymblKt2	CymbalKit2
 MT-32 Kt	MT-32 Kit
-OBSoftPd	OB Soft Pd
-Rokabily	Rockabilly
-JC ClnGt	JC CleanGt
-F.Ba/Hrm	F.Ba/Harm.
-OB Str.	OB Strings
-TCRearPk	TCRearPick
-OpnHrdGt	OpenHardGt
-OpnHrdG2	OpenHardG2
-OvrDrGt2	OvrDrvGt.2
-OvrDrGt3	OvrDrvGt.3
-TCMuteGt	TCMutedGt.
-TCFrntPk	TCFrontPk.
-PickBas3	PickedBas3
-PickBas4	PickedBas4
-WildAcBa	WildAcBass
-ThickMtx	ThickMatrx
-VoiceDah	Voice Dah
-SyVoice2	SynVoice 2
-ChoirHah	Choir Hahs
-ChoirLah	Choir Lahs
-VcCbPizz	VcCb Pizz.
-CelloAtk	Cello Atk.
-SoloPizz	Solo Pizz.
-ViolnAtk	Violin Atk
-ViolaAtk	Viola Atk.
-SlwFrHrn	Slow FrHrn
-VoicePad	Voice Pad
-Exp.Alto	Expr. Alto
-Trumpet3	Trumpet 3
-JazzyBa2	Jazzy Ba.2
-Trp Fall	TrumptFall
-Twinbone	Twinbones
-MGUnison	MG Unison
-SyncBass	Sync Bass
-Air Str.	Air String
-ScrachKy	ScratchKey
-Altrnate	Alternate
-TapeRwnd	TapeRewind
-CS SawLd	CS Saw Ld
-MGRezPls	MGRezPulse
-LFO Vox	LFO Voice
-OB Saw 2	OB SawLd 2
-LFO Horr	LFO Horror
-P5 SawLd	P5 Saw Ld
-HolwMini	HollowMini
-Seq.Saw.	Seq. Saw.
-JP Str.	JP Strings
-D-50 Fat	D-50 FatLd
-Piano 1w	GrandPno w
-Piano 2w	BritePno w
-Piano 3w	EGrndPno w
-MGOctBa2	MGOctavBa2
-BeefFMBa	Beef FM Ba
-CC Solo	CC Solo Ld
-Org Bell	Organ Bell
-JP8BaLd1	JP8BassLd1
-WoodFrtl	Wood+Frtls
-SynBa201	SynBass201
-GR-300	GR-300 Ld
-MeloTom2	Melod.Tom2
-MGSquare	MG Square

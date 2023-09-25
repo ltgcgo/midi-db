@@ -1,12 +1,15 @@
 ID	Name
 Uprt.Pno	Upright Piano
+Piano 1w	Grand Piano w
 UprtP. w	Upright Piano w
 EuropePf	European Piano
 PianoStr	Piano + Strings 1
 Pno+Str2	Piano + Strings 2
 DreamP.2	Dream Piano 2
+Piano 2w	Bright Piano w
 EGRhode1	EG + Rhodes 1
 EGRhode2	EG + Rhodes 2
+Piano 3w	Electric Grand Piano w
 Old Uprt	Old Upright Piano
 StSoftEP	Stereo Soft EP
 ChorusEP	Chorus E. Piano
@@ -69,12 +72,24 @@ TngoAcd2	Bandoneon 2
 Bndoneon	Bandoneon
 12StrGtr	12 String Guitar
 ClnHalfG	Clean Half Guitar
+OpnHrdGt	Open Hard Guitar
+OpnHrdG2	Open Hard Guitar 2
+JC ClnGt	JC Clean Guitar
+TCFrntPk	TC Front Pick
 MidT.Gtr	Mid Tone Guitar
+TCMuteGt	TC Muted Gtr.
+OvrDrGt2	Overdriven Guitar 2
+OvrDrGt3	Overdriven Guitar 3
 MoDrvGtr	More Drive Guitar
 LPOvrDr2	LP Overdrive 2
+WildAcBa	Wild Acoustic Bass
 AtkAcoBa	Attack Acoustic Bass
+F.Ba/Hrm	Fingered Bass/Harmonics
+PickBas3	Picked Bass 3
+PickBas4	Picked Bass 4
 DblPikBa	Double Picked Bass
 Fretles2	Fretless Bass 2
+WoodFrtl	Wood + Fretless Bass
 ResoSlap	Reso Slap Bass
 SynBa101	Synth Bass 101
 SynBass3	Synth Bass 3
@@ -86,10 +101,15 @@ Reso 303	Reso 303 Bass
 303SqDs2	303 Square Dist. Bass 2
 303SqDs3	303 Square Dist. Bass 3
 303SqrRv	303 Square Reversed
+SynBa201	Synth Bass 201
+MGOctBa2	MG Octave Bass 2
 MGBlipBa	MG Blip Bass
 SynBass4	Synth Bass 4
+ViolnAtk	Violin Attack
 SlwTrStr	Slow Tremolo Strings
+VcCbPizz	Vcs/Cbs Pizzicato
 St. Pizz	Stereo Pizzicato
+SoloPizz	Solo Pizzicato
 StrsSpic	String Spiccato
 OrchStr2	Orchestra Strings 2
 OrchStr3	Orchestral Strings 3
@@ -99,9 +119,11 @@ FemChoLu	Female Chorus Luh
 FemChLan	Female Chorus Lan
 F.La&Lan	Female La & Lan
 MalChoWa	Male Chorus Wah
+SyVoice2	Synth Voice 2
 Trp&Noiz	Trumpet & Noise
 BassTrom	Bass Trombone
 CMuteTrp	Cup Muted Trumpet
+SlwFrHrn	Slow French Horn
 RipFrHrn	Rip French Horn
 BoneSect	Trombone Section
 OrchBras	Orchestral Brass
@@ -110,12 +132,19 @@ StOrBrs2	Stereo Orch. Brass 2
 StOrBrs3	Stereo Orch. Brass 3
 SynBras3	Synth Brass 3
 SynBras4	Synth Brass 4
+Exp.Alto	Expressive Alto
 BsClari.	Bass Clarinet
 TinWhsNm	Tin Whistle Normal
 TinWhsOr	Tin Whistle Oral
+MGSquare	MG Square Lead
 JP-8 Sqr	JP-8 Square Lead
 DsSquare	Distorted Square
+MGRezPls	MG Resonant Pulse
+D-50 Fat	D-50 Fat Lead
+OB Saw 2	OB Saw Lead 2
+Seq.Saw.	Sequenced Sawtooth
 Reso Saw	Resonant Sawtooth
+JP8BaLd1	JP8 Bass Lead 1
 DigiBell	Digital Bells
 UillPpNm	Uillean Pipe Normal
 UillPpOr	Uillean Pipe Oral
@@ -126,6 +155,7 @@ HandClp!	Hand Clap Menu
 ConcrtBD	Concert Bass Drums
 JungleBD	Jungle Bass Drums
 TechnoBD	Techno Bass Drums
+MeloTom2	Melodic Tom 2
 JungleSD	Jungle Snare Drums
 ElecPerc	Electric Perc 1
 CutNoise	Cutting Noise
