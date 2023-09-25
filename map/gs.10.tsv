@@ -134,35 +134,88 @@ SplBHrmo	SupplBHrmo
 TngoAcd2	Bandoneon2
 Bndoneon	Bandoneon3
 12StrGtr	12 Str Gtr
+ClnHalfG	CleanHalfG
+LPRearPk	LPRearPick
 MidT.Gtr	MidToneGtr
 Funk Gtr	FunkGuitar
+MoDrvGtr	Mo.DriveGt
 LPOvrDr2	LPOverDrv2
+AtkAcoBa	AtkAcou.Ba
 HeartBas	Heart Bass
+DblPikBa	DblPickBas
 Fretles2	Fretless 2
+ResoSlap	ResoSlapBa
 SynBa101	SynthBs101
 SynBass3	Syn Bass 3
-303SqDs2	303SqrDst2
+Reso 303	Reso 303Ba
+ResoSHBa	Reso SH Ba
+303SqrBa	303 Sqr.Ba
+303DstBa	303 DistBa
+JungleBa	JungleBass
+303SqDst	303SqDstBa
+303SqDs2	303SqDsBa2
+303SqDs2	303SqDsBa2
+303SqDs3	303SqDsBa3
+303SqrRv	303Sqr.Rev
 MGBlipBa	MG Blip Bs
 SynBass4	Syn Bass 4
 SlwTrStr	SlowTrmStr
+St. Pizz	Ste. Pizz.
+UileanHp	UileanHarp
 Slow Str	SlowString
 OrchStr2	Orchestra2
+OrchStr3	Orch.Str 3
 Syn.Str3	SynthStr.3
 MltChoir	Melt Choir
+BoyChoir	Boy Choir
+OohsMaj7	Oohs maj7
+OohsSus4	Oohs sus4
+JazzScat	Jazz Scat
+JazzThum	Jazz Thum
+Fem. Lah	Female Lah
+FemChoLa	Fem.Ch.Lah
+Fem. Luh	Female Luh
+FemChoLu	Fem.Ch.Luh
+FemChLan	Fem.Ch.Lan
+F.La&Lan	Fem.La&Lan
+MalChoWa	MaleCh.Wah
 LoFiRave	Lo-Fi Rave
+StackHit	Stack Hit
 Trumpet2	Trumpet 2
+Trp&Noiz	Trpt&Noise
+CMuteTrp	CupMuteTrp
 FrHorn 2	Fr. Horn 2
 BrasFall	Brass Fall
 SynBras3	SynBrass 3
 SynBras4	SynBrass 4
 Sax Sect	Sax Sect.
+BsClari.	BassClari.
 Piccolo2	Piccolo 2
+TinWhsNm	TinWhis.Nm
+TinWhsOr	TinWhis.Or
 Whistle2	Whistle 2
 SineWave	Sine Wave
 2600Sine	2600 Sine
+JP-8 Sqr	JP-8 Sqr.
+DsSquare	DistSquare
+Reso Saw	Reso. Saw
+FatGR Ld	Fat GR Ld
 SynMalet	Syn Mallet
 DigiBell	Digi Bells
 EchoBell	Echo Bell
+Reso Pan	Reso. Pan
+UillPpNm	UillPipeNm
+UillPpOr	UillPipeOr
+RideCym!	Ride Cym!!
+RideBel!	Ride Bell!
+909 Clap	909 H.Clap
+HandClp!	Hand Clap!
+ConcrtBD	Concert BD
+JungleBD	Jungle BD
+TechnoBD	Techno BD
+Kick3 !!	Kick 3 !!
+Kick4 !!	Kick 4 !!
+JungleSD	Jungle SD
 ElecPerc	ElecPerc 1
 CutNoise	Cut Noise
 Str.Slap	StringSlap
@@ -180,6 +233,8 @@ GtStrk!!	GtStroke!!
 GtSlide!	GtSlide!!!
 Fl.KClik	FltKyClick
 BrthNz!!	BreathNz!!
+VoxBrth2	VoxBreath2
+TrumptNz	Trumpet Nz
 PinkNoiz	Pink Noise
 White Nz	WhiteNoise
 HorseGlp	HorseGalop
@@ -290,58 +345,3 @@ SFX Kt 2	SFX Kit 2
 VoiceKit	Voice Kit
 CymblKt2	CymbalKit2
 MT-32 Kt	MT-32 Kit
-Trp&Noiz	Trpt&Noise
-AtkAcoBa	AtkAcou.Ba
-CMuteTrp	CupMuteTrp
-VoxBrth2	VoxBreath2
-BsClari.	BassClari.
-JazzScat	Jazz Scat
-JazzThum	Jazz Thum.
-TrumptNz	Trumpet Nz
-TechnoBD	Techno BD
-Kick3 !!	Kick 3 !!
-Kick4 !!	Kick 4 !!
-OrchStr3	Orch.Str 3
-St. Pizz	Ste. Pizz.
-ConcrtBD	Concert BD
-303DstBa	303 DistBa
-303SqrBa	303 Sqr.Ba
-303SqDst	303SqDstBa
-303SqDs2	303SqDsBa2
-303SqDs3	303SqDsBa3
-303SqrRv	303Sqr.Rev
-ResoSlap	ResoSlapBa
-Reso 303	Reso 303Ba
-ResoSHBa	Reso SH Ba
-Reso Saw	Reso. Saw
-Reso Pan	Reso. Pan
-RideCym!	Ride Cym!!
-RideBel!	Ride Bell!
-909 Clap	909 H.Clap
-HandClp!	Hand Clap!
-DsSquare	DistSquare
-StackHit	Stack Hit
-JungleBD	Jungle BD
-JungleSD	Jungle SD
-FatGR Ld	Fat GR Ld
-MoDrvGtr	Mo.DriveGt
-JungleBa	JungleBass
-JP-8 Sqr	JP-8 Sqr.
-LPRearPk	LPRearPick
-DblPikBa	DblPickBas
-ClnHalfG	CleanHalfG
-FemChoLu	Fem.Ch.Luh
-Fem. Luh	Female Luh
-Fem. Lah	Female Lah
-F.La&Lan	Fem.La&Lan
-FemChLan	Fem.Ch.Lan
-FemChoLa	Fem.Ch.Lah
-MalChoWa	MaleCh.Wah
-UileanHp	UileanHarp
-TinWhsNm	TinWhis.Nm
-TinWhsOr	TinWhis.Or
-UillPpNm	UillPipeNm
-UillPpOr	UillPipeOr
-BoyChoir	Boy Choir
-OohsMaj7	Oohs maj7
-OohsSus4	Oohs sus4
