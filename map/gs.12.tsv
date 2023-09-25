@@ -1,6 +1,58 @@
 ID	Name
+Uprt.Pno	Upright Pno.
+UprtP. w	Uprt Piano w
+MildP. w	Mild Piano w
+EuropePf	European Pf
+PianoStr	Piano+Str. 1
+Pno+Str2	Piano+Str. 2
+DreamPno	Dream Piano
+DreamP.2	Dream Piano2
+PopPno w	Pop Piano w
+RockP. w	Rock Piano w
+DancePno	Dance Piano
+EGRhode1	EG+Rhodes 1
+EGRhode2	EG+Rhodes 2
+HnkyTk w	Honky Tonk w
+Old Uprt	Old Upright
+HnkyTnk2	Honky Tonk 2
 Det.EP 1	Detuned EP 1
+StSoftEP	Ste. Soft EP
+SilntRho	SilentRhodes
+Dst.EPno	Dist. EPiano
+60sElPno	60s' E.Piano
+HrdRhode	Hard Rhodes
+MelRhode	Mellow Rhode
 ElPiano3	Elec.Piano 3
+Det.EP 2	Detuned EP 2
+Det.EP 3	Detuned EP 3
+ElPno 2v	El. Piano 2v
+St.FM EP	Stereo FM EP
+HardFMEP	Hard FM EP
+CplHapsi	CoupledHapsi
+SynHapsi	Synth Harpsi
+AtkClavi	Attack Clavi
+AtkClv.2	Atk. Clavi 2
+Comp Clv	Comp Clavi.
+Reso Clv	Reso Clavi.
+PhaseClv	Phase Clavi.
+AnaClavi	Analog Clav.
+JP8 Clv1	JP8 Clav. 1
+JP8 Clv2	JP8 Clav. 2
+SyRngClv	Syn.Ring Clv
+SyDstClv	Syn.Dist Clv
+JP8k Clv	JP8000 Clav.
+PulseClv	Pulse Clavi.
+PopCelst	Pop Celesta
+MusicBx2	Music Box 2
+St.MusBx	St.Music Box
+HardVibr	Hard Vibra.
+Vib. w	Vibes. w
+Vibra. w	Vibraphone w
+Vibrafns	Vibraphones
+Xylofn.w	Xylophone w
+ChrchBel	Church Bell
+ChchBel2	Church Bell2
+TubBel w	TubularBel w
 12StrGtr	12Str Guitar
 MidT.Gtr	Mid Tone Gtr
 Funk Gtr	Funk Guitar
@@ -12,7 +64,7 @@ SlwTrStr	Slow Tremolo
 Slow Str	Slow Strings
 OrchStr2	Orchestra 2
 Syn.Str3	SynthString3
-MelChoir	Mellow Choir
+MltChoir	Melted Choir
 SynBras3	SynthBrass 3
 SynBras4	SynthBrass 4
 Sax Sect	Sax Section
