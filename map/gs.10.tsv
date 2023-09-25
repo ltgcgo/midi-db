@@ -1,7 +1,71 @@
 ID	Name
+Uprt.Pno	UprightPno
+Mild Pno	Mild Piano
+UprtP. w	UprtPno. w
+MildP. w	MildPno. w
+EuropePf	Europe Pno
+PianoStr	Piano+Str.
+Pno+Str2	Piano+Str2
+DreamPno	DreamPiano
+DreamP.2	DreamPno.2
+PopPiano	Pop Piano
+Rock Pno	Rock Piano
+PopPno w	Pop Pno. w
+RockP. w	RockPno. w
+DancePno	DancePiano
+EGRhode1	EG+Rhodes1
+EGRhode2	EG+Rhodes2
+HnkyTk w	HonkyTnk w
+Old Uprt	OldUpright
+HnkyTnk2	HonkyTonk2
+Det.EP 1	Det. EP 1
+StSoftEP	St.Soft EP
+ChorusEP	Chorus EP.
+SilntRho	SilentRho.
+EPiano1v	E.Piano 1v
+Dst.EPno	Dist.ElPno
+60sElPno	60s' E.Pno
+HrdRhode	Hard Rhode
+MelRhode	MellwRhode
 ElPiano3	El.Piano 3
+Det.EP 2	Det. EP 2
+Det.EP 3	Det. EP 3
+DXLegend	DX Legend
+ElPno 2v	E.Piano 2v
+St.FM EP	Ste. FM EP
+HardFMEP	Hard FM EP
 Hpschrd2	Harpsi. 2
 Hpschrd3	Harpsi. 3
+CplHapsi	CoupleHpsi
+Harpsi.w	Harpsi. w
+Harpsi.o	Harpsi. o
+SynHapsi	Syn.Harpsi
+Clvchrd2	Clavi. 2
+AtkClavi	Atk Clavi.
+AtkClv.2	AtkClavi 2
+Comp Clv	Comp Clav.
+Reso Clv	Reso Clav.
+PhaseClv	Phase Clv.
+AnaClavi	Analog Clv
+JP8 Clv1	JP8 Clav.1
+JP8 Clv2	JP8 Clav.2
+SyRngClv	SynRingClv
+SyDstClv	SynDistClv
+JP8k Clv	JP8000 Clv
+PulseClv	Pulse Clv.
+PopCelst	Pop Celest
+MusicBx2	MusicBox 2
+St.MusBx	StMusicBox
+HardVibr	Hard Vibra
+Pop Vibr	Pop Vibra.
+Vibrafns	Vibrafones
+Marmba w	Marimba w
+Barafon2	Barafon 2
+Log Drum	Log Drums
+Xylofn.w	Xylofon. w
+ChrchBel	ChurchBell
+ChchBel2	ChurchBel2
+TubBel w	TubulBel w
 12StrGtr	12 Str Gtr
 MidT.Gtr	MidToneGtr
 Funk Gtr	FunkGuitar
