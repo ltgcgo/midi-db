@@ -39,6 +39,34 @@ HardVibr	Hard Vibraphone
 Pop Vibr	Pop Vibraphone
 ChchBel2	Church Bell 2
 TubBel w	Tubular Bell w
+DetDrwOr	Detuned Organ
+TremDrOr	Tremolo Organ
+Organ. o	Drawbar Organ o
+60sDrOrg	60s' Drawbar Organ 1
+60sDrOr2	60s' Drawbar Organ 2
+60sDrOr3	60s' Drawbar Organ 3
+EChrchOr	Electric Church Organ
+DrawOrg2	Drawbar Organ 2
+70sDrOrg	70s' Drawbar Organ
+EOrg16+2	Electric Organ 16+2
+DetPrcOr	Detuned Percussive Organ
+SlwRotar	Slow Rotary Organ
+RockOrg2	Rock Organ 2
+RockOrg3	Rock Organ 3
+FstRotar	Fast Rotary Organ
+ChurOrg2	Church Organ 2
+ChurOrg3	Church Organ 3
+TrmOrgFl	Tremolo Organ Flute
+ThtreOrg	Theatre Organ
+AccordIt	Italian Accordion
+DstAcord	Distorted Accordion
+ChoAcord	Chorus Accordion
+HrdAcord	Hard Accordion
+SftAcord	Soft Accordion
+BscBHrmo	Basic Blues Harmonica
+SplBHrmo	Suppl. Blues Harmonica
+TngoAcd2	Bandoneon 2
+Bndoneon	Bandoneon
 12StrGtr	12 String Guitar
 MidT.Gtr	Mid Tone Guitar
 LPOvrDr2	LP Overdrive 2
@@ -60,7 +88,10 @@ CutNoiz2	Cutting Noise 2
 DstCutNz	Distorted Cutting Noise
 Gtr.Fx!!	Guitar FX Menu
 BartkPiz	Bartok Pizzicato
+GtStrk!!	Guitar Stroke Menu
+GtSlide!	Guitar Slide Menu
 Fl.KClik	Flute Key Click
+BrthNz!!	Breath Noise Menu
 Scratch2	Scratch Split
 CarTyreS	Car Tyre Squeal
 PercBang	Percussion Bang
@@ -84,3 +115,10 @@ ElecBass	Electric Bass 1
 ElecBas2	Electric Bass 2
 BrasSec2	Brass Section 2
 El.Perc2	Electric Perc 2
+Standrd3	Standard Kit 3
+StdrdL/R	Standard Kit L/R
+Anal.Kt2	Analog Kit 2
+GamlnKt2	Gamelan Kit 2
+RyFX Kit	Rhythm FX Kit
+RyFX2 Kt	Rhythm FX Kit 2
+RyFX3 Kt	Rhythm FX Kit 3
