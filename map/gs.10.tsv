@@ -67,6 +67,72 @@ Xylofn.w	Xylofon. w
 ChrchBel	ChurchBell
 ChchBel2	ChurchBel2
 TubBel w	TubulBel w
+Organ101	Organ 101
+FullOrgn	Full Organ
+FullOrg2	Full Or. 2
+FullOrg3	Full Or. 3
+FullOrg4	Full Or. 4
+FullOrg5	Full Or. 5
+FullOrg6	Full Or. 6
+DetDrwOr	Detuned Or
+TremDrOr	Tremolo Or
+Organ109	Organ 109
+FullOrg7	Full Or. 7
+FullOrg8	Full Or. 8
+FullOrg9	Full Or. 9
+60sDrOrg	60s Org. 1
+60sDrOr2	60s Org. 2
+60sDrOr3	60s Org. 3
+FarfOrgn	Farf Organ
+CheezOrg	Cheese Or.
+D-50 Org	D-50 Organ
+JUNO Org	JUNO Organ
+HybridOr	Hybrid Or.
+EChrchOr	DigiChurch
+JX-8P Or	JX-8P Org.
+DrawOrg2	Organ 4
+70sDrOrg	70s' Organ
+EvenBar	Even Bar
+Organ Ba	Organ Bass
+5thOrgan	5th Organ
+Organ201	Organ 201
+JazzOrgn	Jazz Organ
+EOrg16+2	E.Org.16+2
+JazzOrg2	Jazz Org.2
+JazzOrg3	Jazz Org.3
+JazzOrg4	Jazz Org.4
+JazzOrg5	Jazz Org.5
+JazzOrg6	Jazz Org.6
+DetPrcOr	Det.Organ2
+ChorusOr	Chorus Or.
+OctaveOr	Octave Or.
+PercOrg2	Perc Organ
+PercOrg3	Perc Org.2
+PercOrg4	Perc Org.3
+PercOrg5	Perc Org.4
+PercOrg6	Perc Org.5
+RotaryOr	Rotary Or.
+SlwRotar	SlowRotary
+RockOrg2	Rock Organ
+RockOrg3	Rock Org.3
+FstRotar	FastRotary
+ChurOrg2	Church Or2
+ChurOrg3	Church Or3
+OrgFlute	Org. Flute
+TrmOrgFl	TrmOrgnFlu
+ThtreOrg	TheatreOrg
+WindOrgn	Wind Organ
+PuffOrgn	Puff Organ
+AccordIt	Accord. It
+DstAcord	Dist.Acord
+ChoAcord	Cho.Accord
+HrdAcord	HardAccord
+SftAcord	SoftAccord
+Harmo. 2	Harmonica2
+BscBHrmo	BasicBHrmo
+SplBHrmo	SupplBHrmo
+TngoAcd2	Bandoneon2
+Bndoneon	Bandoneon3
 12StrGtr	12 Str Gtr
 MidT.Gtr	MidToneGtr
 Funk Gtr	FunkGuitar
@@ -110,7 +176,10 @@ Gtr.Slap	Gtr. Slap
 ChrdStrk	Chord Strk
 BiwaStrk	Biwa Strk.
 BiwaTrem	Biwa Trem.
+GtStrk!!	GtStroke!!
+GtSlide!	GtSlide!!!
 Fl.KClik	FltKyClick
+BrthNz!!	BreathNz!!
 PinkNoiz	Pink Noise
 White Nz	WhiteNoise
 HorseGlp	HorseGalop
