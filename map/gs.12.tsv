@@ -54,6 +54,58 @@ Xylofn.w	Xylophone w
 ChrchBel	Church Bell
 ChchBel2	Church Bell2
 TubBel w	TubularBel w
+FullOrgn	Full Organ
+FullOrg2	Full Organ 2
+FullOrg3	Full Organ 3
+FullOrg4	Full Organ 4
+FullOrg5	Full Organ 5
+FullOrg6	Full Organ 6
+DetDrwOr	Detuned Org.
+TremDrOr	Tremolo Org.
+FullOrg7	Full Organ 7
+FullOrg8	Full Organ 8
+FullOrg9	Full Organ 9
+60sDrOrg	60s' Organ 1
+60sDrOr2	60s' Organ 2
+60sDrOr3	60s' Organ 3
+CheezOrg	Cheese Organ
+HybridOr	Hybrid Organ
+EChrchOr	Digi. Church
+JX-8P Or	JX-8P Organ
+5thOrgan	Fifth Organ
+EOrg16+2	E.Organ 16+2
+JazzOrg2	Jazz Organ 2
+JazzOrg3	Jazz Organ 3
+JazzOrg4	Jazz Organ 4
+JazzOrg5	Jazz Organ 5
+JazzOrg6	Jazz Organ 6
+DetPrcOr	Detuned Or.2
+ChorusOr	Chorus Organ
+OctaveOr	Octave Organ
+PercOrg3	Perc Organ 2
+PercOrg4	Perc Organ 3
+PercOrg5	Perc Organ 4
+PercOrg6	Perc Organ 5
+RotaryOr	Rotary Organ
+SlwRotar	Slow Rotary
+RockOrg2	Rock Organ
+RockOrg3	Rock Organ 2
+FstRotar	Fast Rotary
+ChurOrg2	Church Or. 2
+ChurOrg3	Church Or. 3
+OrgFlute	Organ Flute
+TrmOrgFl	TrmOrgnFlute
+ThtreOrg	Theatre Org.
+AccordIt	Accordion It
+DstAcord	Dist. Accord
+ChoAcord	Chorus Acc.
+HrdAcord	Hard Accord.
+SftAcord	Soft Accord.
+Harmo. 2	Harmonica 2
+BscBHrmo	BasicB.Harmo
+SplBHrmo	SupplB.Harmo
+TngoAcd2	Bandoneon 2
+Bndoneon	Bandoneon 3
 12StrGtr	12Str Guitar
 MidT.Gtr	Mid Tone Gtr
 Funk Gtr	Funk Guitar
@@ -81,7 +133,10 @@ Gtr.Slap	Guitar Slap
 ChrdStrk	Chord Stroke
 BiwaStrk	Biwa Stroke
 BiwaTrem	Biwa Tremolo
+GtStrk!!	Gtr.Stroke!!
+GtSlide!	Gtr.Slide!!!
 Fl.KClik	FluteKyClick
+BrthNz!!	Breath Nz!!!
 White Nz	White Noise
 HorseGlp	Horse Gallop
 DoorSqek	Door Squeak
