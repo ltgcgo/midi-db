@@ -107,21 +107,63 @@ SplBHrmo	SupplB.Harmo
 TngoAcd2	Bandoneon 2
 Bndoneon	Bandoneon 3
 12StrGtr	12Str Guitar
+ClnHalfG	Clean Half G
+LPRearPk	LP Rear Pick
 MidT.Gtr	Mid Tone Gtr
 Funk Gtr	Funk Guitar
+MoDrvGtr	MoreDrive Gt
 LPOvrDr2	LPOverdrive2
+AtkAcoBa	AtkAcou.Bass
+DblPikBa	Dbl.PickBass
 SlapBass	Slap Bass 1
+ResoSlap	Reso Slap Ba
 SynBa101	SynthBass101
-303SqDs2	303 SqrDst.2
+Reso 303	Reso 303Bass
+ResoSHBa	Reso SH Bass
+303SqrBa	303 Sqr. Ba.
+303DstBa	303 Dist Ba.
+JungleBa	Jungle Bass
+303SqDst	303 SqDistBa
+303SqDs2	303 SqDstBa2
+303SqDs3	303 SqDstBa3
+303SqrRv	303 Sqr. Rev
 SlwTrStr	Slow Tremolo
+St. Pizz	Stereo Pizz.
+UileanHp	Uillean Harp
 Slow Str	Slow Strings
 OrchStr2	Orchestra 2
+OrchStr3	Orch. Str 3
 Syn.Str3	SynthString3
 MltChoir	Melted Choir
+OohsMaj7	Oohs (maj7)
+OohsSus4	Oohs (sus4)
+FemChoLa	FemaleCh.Lah
+FemChoLu	FemaleCh.Luh
+FemChLan	FemaleCh.Lan
+F.La&Lan	FemaleLa&Lan
+MalChoWa	Male Cho.Wah
+Trp&Noiz	Trumpt&Noise
+CMuteTrp	Cup MutedTrp
 SynBras3	SynthBrass 3
 SynBras4	SynthBrass 4
 Sax Sect	Sax Section
+BsClari.	BassClarinet
+TinWhsNm	TinWhistleNm
+TinWhsOr	TinWhistleOr
+JP-8 Sqr	JP-8 Square
+DsSquare	Dist. Square
+Reso Saw	Resonant Saw
+FatGR Ld	Fat GR Lead
 SynMalet	Synth Mallet
+Reso Pan	Resonant Pan
+UillPpNm	UileanPipeNm
+UillPpOr	UileanPipeOr
+RideCym!	Ride Cymb.!!
+RideBel!	Ride Bells!!
+909 Clap	909 HandClap
+HandClp!	Hand Clap!!!
+Kick3 !!	Kick 3 Menu
+Kick4 !!	Kick 4 Menu
 ElecPerc	Elec Perc 1
 Str.Slap	String Slap
 CutNoiz2	Cut Noise 2
@@ -137,6 +179,8 @@ GtStrk!!	Gtr.Stroke!!
 GtSlide!	Gtr.Slide!!!
 Fl.KClik	FluteKyClick
 BrthNz!!	Breath Nz!!!
+VoxBrth2	VoiceBreath2
+TrumptNz	Trumpet Nz.
 White Nz	White Noise
 HorseGlp	Horse Gallop
 DoorSqek	Door Squeak
@@ -196,48 +240,3 @@ RyFX Kit	Rhy.FX Kit
 RyFX2 Kt	Rhy.FX Kit 2
 RyFX3 Kt	Rhy.FX Kit 3
 CymblKt2	Cymbal Kit 2
-Trp&Noiz	Trumpt&Noise
-AtkAcoBa	AtkAcou.Bass
-CMuteTrp	Cup MutedTrp
-VoxBrth2	VoiceBreath2
-BsClari.	BassClarinet
-TrumptNz	Trumpet Nz.
-Kick3 !!	Kick 3 Menu
-Kick4 !!	Kick 4 Menu
-OrchStr3	Orch. Str 3
-St. Pizz	Stereo Pizz.
-303DstBa	303 Dist Ba.
-303SqrBa	303 Sqr. Ba.
-303SqDst	303 SqDistBa
-303SqDs2	303 SqDstBa2
-303SqDs3	303 SqDstBa3
-303SqrRv	303 Sqr. Rev
-ResoSlap	Reso Slap Ba
-Reso 303	Reso 303Bass
-ResoSHBa	Reso SH Bass
-Reso Saw	Resonant Saw
-Reso Pan	Resonant Pan
-RideCym!	Ride Cymb.!!
-RideBel!	Ride Bells!!
-909 Clap	909 HandClap
-HandClp!	Hand Clap!!!
-DsSquare	Dist. Square
-FatGR Ld	Fat GR Lead
-MoDrvGtr	MoreDrive Gt
-JungleBa	Jungle Bass
-JP-8 Sqr	JP-8 Square
-LPRearPk	LP Rear Pick
-DblPikBa	Dbl.PickBass
-ClnHalfG	Clean Half G
-FemChoLu	FemaleCh.Luh
-F.La&Lan	FemaleLa&Lan
-FemChLan	FemaleCh.Lan
-FemChoLa	FemaleCh.Lah
-MalChoWa	Male Cho.Wah
-UileanHp	Uilean Harp
-TinWhsNm	TinWhistleNm
-TinWhsOr	TinWhistleOr
-UillPpNm	UileanPipeNm
-UillPpOr	UileanPipeOr
-OohsMaj7	Oohs (maj7)
-OohsSus4	Oohs (sus4)

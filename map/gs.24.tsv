@@ -68,20 +68,57 @@ SplBHrmo	Suppl. Blues Harmonica
 TngoAcd2	Bandoneon 2
 Bndoneon	Bandoneon
 12StrGtr	12 String Guitar
+ClnHalfG	Clean Half Guitar
 MidT.Gtr	Mid Tone Guitar
+MoDrvGtr	More Drive Guitar
 LPOvrDr2	LP Overdrive 2
+AtkAcoBa	Attack Acoustic Bass
+DblPikBa	Double Picked Bass
 Fretles2	Fretless Bass 2
+ResoSlap	Reso Slap Bass
 SynBa101	Synth Bass 101
 SynBass3	Synth Bass 3
-303SqDs2	303 Square Distorted 2
+Reso 303	Reso 303 Bass
+303SqrBa	303 Square Bass
+303DstBa	303 Distorted Bass
+303SqDst	303 Square Dist. Bass
+303SqDs2	303 Square Dist. Bass 2
+303SqDs2	303 Square Dist. Bass 2
+303SqDs3	303 Square Dist. Bass 3
+303SqrRv	303 Square Reversed
 MGBlipBa	MG Blip Bass
 SynBass4	Synth Bass 4
 SlwTrStr	Slow Tremolo Strings
+St. Pizz	Stereo Pizzicato
 OrchStr2	Orchestra Strings 2
+OrchStr3	Orchestral Strings 3
 Syn.Str3	Synth Strings 3
+FemChoLa	Female Chorus Lah
+FemChoLu	Female Chorus Luh
+FemChLan	Female Chorus Lan
+F.La&Lan	Female La & Lan
+MalChoWa	Male Chorus Wah
+Trp&Noiz	Trumpet & Noise
+CMuteTrp	Cup Muted Trumpet
 SynBras3	Synth Brass 3
 SynBras4	Synth Brass 4
+BsClari.	Bass Clarinet
+TinWhsNm	Tin Whistle Normal
+TinWhsOr	Tin Whistle Oral
+JP-8 Sqr	JP-8 Square Lead
+DsSquare	Distorted Square
+Reso Saw	Resonant Sawtooth
 DigiBell	Digital Bells
+UillPpNm	Uillean Pipe Normal
+UillPpOr	Uillean Pipe Oral
+RideCym!	Ride Cymbal Menu
+RideBel!	Ride Bell Menu
+909 Clap	909 Hand Clap
+HandClp!	Hand Clap Menu
+ConcrtBD	Concert Bass Drums
+JungleBD	Jungle Bass Drums
+TechnoBD	Techno Bass Drums
+JungleSD	Jungle Snare Drums
 ElecPerc	Electric Perc 1
 CutNoise	Cutting Noise
 CutNoiz2	Cutting Noise 2
@@ -92,6 +129,8 @@ GtStrk!!	Guitar Stroke Menu
 GtSlide!	Guitar Slide Menu
 Fl.KClik	Flute Key Click
 BrthNz!!	Breath Noise Menu
+VoxBrth2	Voice Breath 2
+TrumptNz	Trumpet Noise
 Scratch2	Scratch Split
 CarTyreS	Car Tyre Squeal
 PercBang	Percussion Bang
