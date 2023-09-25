@@ -90,6 +90,7 @@ MGBlipBa	MG Blip Bass
 SynBass4	Synth Bass 4
 SlwTrStr	Slow Tremolo Strings
 St. Pizz	Stereo Pizzicato
+StrsSpic	String Spiccato
 OrchStr2	Orchestra Strings 2
 OrchStr3	Orchestral Strings 3
 Syn.Str3	Synth Strings 3
@@ -99,7 +100,14 @@ FemChLan	Female Chorus Lan
 F.La&Lan	Female La & Lan
 MalChoWa	Male Chorus Wah
 Trp&Noiz	Trumpet & Noise
+BassTrom	Bass Trombone
 CMuteTrp	Cup Muted Trumpet
+RipFrHrn	Rip French Horn
+BoneSect	Trombone Section
+OrchBras	Orchestral Brass
+OrchBrs2	Orchestral Brass 2
+StOrBrs2	Stereo Orch. Brass 2
+StOrBrs3	Stereo Orch. Brass 3
 SynBras3	Synth Brass 3
 SynBras4	Synth Brass 4
 BsClari.	Bass Clarinet

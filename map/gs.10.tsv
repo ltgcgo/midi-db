@@ -161,8 +161,10 @@ MGBlipBa	MG Blip Bs
 SynBass4	Syn Bass 4
 SlwTrStr	SlowTrmStr
 St. Pizz	Ste. Pizz.
+StrsSpic	Str. Spic.
 UileanHp	UileanHarp
 Slow Str	SlowString
+Mild Str	Mild Str.
 OrchStr2	Orchestra2
 OrchStr3	Orch.Str 3
 Syn.Str3	SynthStr.3
@@ -183,9 +185,17 @@ LoFiRave	Lo-Fi Rave
 StackHit	Stack Hit
 Trumpet2	Trumpet 2
 Trp&Noiz	Trpt&Noise
+BassTrom	Bass Trmb.
 CMuteTrp	CupMuteTrp
 FrHorn 2	Fr. Horn 2
+RipFrHrn	Rip FrHorn
+BoneSect	Bone Sect.
+QuadBras	Quad Brass
 BrasFall	Brass Fall
+OrchBras	Orch.Brass
+OrchBrs2	Orch.Brs 2
+StOrBrs2	StOrchBrs2
+StOrBrs3	StOrchBrs3
 SynBras3	SynBrass 3
 SynBras4	SynBrass 4
 Sax Sect	Sax Sect.
@@ -273,6 +283,7 @@ Voice 3	VoiceThree
 VoiceTah	Voice Tah
 VoiceWey	Voice Whey
 VxComeOn	Vx Come On
+VoiceWoo	Voice Woo
 MchinGun	MachineGun
 LaserGun	Laser Gun
 Xplosion	Explosion
