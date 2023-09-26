@@ -247,6 +247,8 @@ SineWave	Sine Wave
 2600Sine	2600 Sine
 JP-8 Sqr	JP-8 Sqr.
 DsSquare	DistSquare
+JP8Pulse	JP8 Pulse
+JP8Puls2	JP8 Pulse2
 MGRezPls	MGRezPulse
 GR-300	GR-300 Ld
 D-50 Fat	D-50 FatLd
@@ -257,6 +259,7 @@ MGUnison	MG Unison
 Seq.Saw.	Seq. Saw.
 Reso Saw	Reso. Saw
 FatGR Ld	Fat GR Ld
+DirtySnc	Dirty Sync
 LFO Vox	LFO Voice
 JP8BaLd1	JP8BassLd1
 ThickMtx	ThickMatrx
@@ -266,6 +269,7 @@ SynMalet	Syn Mallet
 DigiBell	Digi Bells
 Org Bell	Organ Bell
 LFO Horr	LFO Horror
+LFO Tech	LFO Techno
 Altrnate	Alternate
 EchoBell	Echo Bell
 Reso Pan	Reso. Pan
@@ -414,5 +418,3 @@ SFX Kt 2	SFX Kit 2
 VoiceKit	Voice Kit
 CymblKt2	CymbalKit2
 MT-32 Kt	MT-32 Kit
-DirtySnc	Dirty Sync
-LFO Tech	LFO Techno

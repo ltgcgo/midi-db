@@ -107,7 +107,7 @@ MGBlipBa	MG Blip Bass
 SynBass4	Synth Bass 4
 ViolnAtk	Violin Attack
 SlwTrStr	Slow Tremolo Strings
-VcCbPizz	Vcs/Cbs Pizzicato
+VcCbPizz	Cellos/Cbasses Pizzicato
 St. Pizz	Stereo Pizzicato
 SoloPizz	Solo Pizzicato
 StrsSpic	String Spiccato
@@ -139,6 +139,8 @@ TinWhsOr	Tin Whistle Oral
 MGSquare	MG Square Lead
 JP-8 Sqr	JP-8 Square Lead
 DsSquare	Distorted Square
+JP8Pulse	JP8 Pulse Lead
+JP8Puls2	JP8 Pulse Lead 2
 MGRezPls	MG Resonant Pulse
 D-50 Fat	D-50 Fat Lead
 OB Saw 2	OB Saw Lead 2
