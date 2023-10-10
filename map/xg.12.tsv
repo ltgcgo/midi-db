@@ -1,5 +1,4 @@
 ID	Name
-Seq.Anal	Seq. Analog
 LayerCP1	Layered CP 1
 GrndPnoK	GrandPiano K
 MelloGrP	MellowGrdPno
@@ -108,6 +107,7 @@ PowerGtr	Power Gtr.
 Dst.5ths	Dist. Fifths
 FeedbkGt	Feedback Gt.
 FeedbkG2	Feedback Gt2
+TwinDist	Twin Dist.Gt
 RckRthm2	RockRhythm 2
 RockRthm	Rock Rhythm
 Dist.Gt#	Dist. Gtt. #
@@ -311,6 +311,7 @@ PulseSaw	Pulse Saw Ld
 Dr. Lead	Doctor Lead
 VeloLead	VelocityLead
 SimplSaw	Simple Saw.
+SeqAnal.	Seq. Analog
 NoviceLd	Novice Lead
 ElecPrim	ElecPrimtive
 DistLead	Distort.Lead

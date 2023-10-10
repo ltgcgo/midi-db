@@ -1,5 +1,4 @@
 ID	Name
-Seq.Anal	Sequenced Analog Lead
 GrndPnoK	Grand Piano KSP
 MelloGrP	Mellow Grand Piano
 PianoStr	Piano + Strings
@@ -86,6 +85,7 @@ PowerGtr	Power Guitar
 Dst.5ths	Distorted Fifths
 FeedbkGt	Feedback Guitar
 FeedbkG2	Feedback Guitar 2
+TwinDist	Twin Distortion Guitar
 RckRthm2	Rock Rhythm 2
 Dist.Gt#	Distortion Guitar #
 GtFeedbk	Guitar Feedback
@@ -240,6 +240,7 @@ Dim Saw	Dim Sawtooth Lead
 PulseSaw	Pulse Sawtooth Ld
 VeloLead	Velocity Lead
 SimplSaw	Simple Sawtooth
+SeqAnal.	Sequenced Analog Lead
 ElecPrim	Electric Primtive
 DistLead	Distortion Lead
 DaSyncLd	The Sync Lead
