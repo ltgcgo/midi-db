@@ -1,5 +1,4 @@
 ID	Name
-LPRearAr	LPRearAtak
 Uprt.Pno	UprightPno
 Mild Pno	Mild Piano
 UprtP. w	UprtPno. w
@@ -161,6 +160,7 @@ TC Clean	TC Clean f
 TC Cln 2	TC Clean 2
 LPRearPk	LPRearPick
 LPRearP2	LP Rear 2
+LPRearAt	LPRearAtak
 MidT.Gtr	MidToneGtr
 ChngRuan	Chung Ruan
 ChgRuan2	ChungRuan2
@@ -186,7 +186,7 @@ AtkDstGt	AttackDist
 FeedbkGt	Feedbk Gt.
 FeedbkG2	Feedbk Gt2
 PowerGtr	Power Gtr.
-PowerGt2	Power Gtr2
+PowerGt2	Power Gt.2
 5thDist.	5th Dist.
 RockRthm	RockRhythm
 RckRthm2	Rock Rthm2

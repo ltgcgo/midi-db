@@ -106,21 +106,56 @@ BscBHrmo	BasicB.Harmo
 SplBHrmo	SupplB.Harmo
 TngoAcd2	Bandoneon 2
 Bndoneon	Bandoneon 3
+VelGtHrm	Velo Harmnix
+LequintG	Lequint Gt.
 12StrGtr	12Str Guitar
+Nyln&Stl	Nylon+Steel
+AtkSteel	Atk Steel Gt
+MandoTrm	MandolinTrem
+Stl&Body	Steel + Body
+HawaiiGt	Hawaiian Gt
+PedalStl	Pedal Steel
 ClnHalfG	Clean Half G
 OpnHrdGt	Open Hard Gt
 OpnHrdG2	Open Hard G2
 JC ClnGt	JC Clean Gt.
-TCFrntPk	TCFront Pick
+AtkClnGt	Atk CleanGt.
+JC ChoGt	JC Chorus Gt
+TCFrntPk	TC FrontPick
 TCRearPk	TC Rear Pick
+TC Clean	TC Clean ff
+TC Cln 2	TC Clean 2:
 LPRearPk	LP Rear Pick
+LPRearAt	LP RearAtack
 MidT.Gtr	Mid Tone Gtr
+ChgRuan2	Chung Ruan 2
+Mu.DstGt	Muted Dis.Gt
 TCMuteGt	TCMuted Gtr.
 Funk Gtr	Funk Guitar
 OvrDrGt2	Overdriven 2
 OvrDrGt3	Overdriven 3
 MoDrvGtr	More Drive G
-LPOvrDr2	LPOverdrive2
+Gt.Pinch	Guitar Pinch
+AtkDrvGt	Attack Drive
+LPOvrDrv	LP OverDrvGt
+LPOvrDr2	LP OvrDrv:
+LP HfDrv	LP Half Drv
+LPHfDrv2	LP Half Drv2
+DistGtr2	Dist. Gt2 :
+DazedGtr	Dazed Guitar
+DistGtr3	Distortion:
+FstDstGt	Dist.Fast :
+AtkDstGt	Attack Dist
+FeedbkGt	Feedback Gt.
+FeedbkG2	Feedback Gt2
+PowerGtr	Power Guitar
+RockRthm	Rock Rhythm
+RckRthm2	Rock Rhythm2
+DsRthmGt	DistRhythmGt
+GtFeedbk	Gt. Feedback
+GtrFdbk2	Gt.Feedback2
+AcGtrHmo	Ac.Gt.Harmnx
+ElBaHrmo	E.Bass Hrmnx
 WildAcBa	Wild Ac.Bass
 AtkAcoBa	AtkAcou.Bass
 JazzyBa2	Jazzy Bass 2
