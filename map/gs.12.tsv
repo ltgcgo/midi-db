@@ -214,13 +214,21 @@ SH101Ba3	SH101 Bass 3
 RandomBa	Random Bass
 BubbleBa	Bubble Bass
 ViolnAtk	Violin Atk.
+SlwVioln	Slow Violin
 ViolaAtk	Viola Attack
 CelloAtk	Cello Attack
+TrmStrSt	Trem Str.St.
 SlwTrStr	Slow Tremolo
+Susp.Str	Suspense Str
+SuspStr2	SuspenseStr2
 VcCbPizz	Vc/Cb Pizz.
+ChmbrPiz	Chamber Pizz
 St. Pizz	Stereo Pizz.
 StrsSpic	Strings Spic
+Harp&Str	Harp&Strings
+Harp St.	Harp Stereo
 UileanHp	Uillean Harp
+SynYanQn	SynthYangQin
 Slow Str	Slow Strings
 Mild Str	Mild Strings
 OrchStr2	Orchestra 2

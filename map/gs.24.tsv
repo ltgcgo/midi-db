@@ -165,11 +165,18 @@ WreStrBa	Wire String Bass
 RubbrBa2	Rubber Bass 2
 SynBelBa	Synth Bell Bass
 ViolnAtk	Violin Attack
+TrmStrSt	Tremolo Strings Stereo
 SlwTrStr	Slow Tremolo Strings
+Susp.Str	Suspense Strings
+SuspStr2	Suspense Strings 2
 VcCbPizz	Cellos/Cbasses Pizzicato
+ChmbrPiz	Chamber Pizzicato
 St. Pizz	Stereo Pizzicato
 SoloPizz	Solo Pizzicato
+SoloSpic	Solo Spiccato
 StrsSpic	String Spiccato
+Harp&Str	Harp & Strings
+SynYanQn	Synth Yang Qin
 OrchStr2	Orchestra Strings 2
 OrchStr3	Orchestral Strings 3
 Syn.Str3	Synth Strings 3
