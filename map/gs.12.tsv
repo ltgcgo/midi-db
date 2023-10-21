@@ -54,7 +54,7 @@ Xylofn.w	Xylophone w
 ChrchBel	Church Bell
 ChchBel2	Church Bell2
 TubBel w	TubularBel w
-FullOrgn	Full Organ
+FullOrgn	Full Organ 1
 FullOrg2	Full Organ 2
 FullOrg3	Full Organ 3
 FullOrg4	Full Organ 4
@@ -144,6 +144,7 @@ JungleBa	Jungle Bass
 SynBa201	Syn.Bass 201
 MGOctBa2	MGOctaveBas2
 BeefFMBa	Beef FM Bass
+BubbleBa	Bubble Bass
 ViolnAtk	Violin Atk.
 ViolaAtk	Viola Attack
 CelloAtk	Cello Attack
