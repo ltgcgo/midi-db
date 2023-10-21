@@ -158,27 +158,60 @@ AcGtrHmo	Ac.Gt.Harmnx
 ElBaHrmo	E.Bass Hrmnx
 WildAcBa	Wild Ac.Bass
 AtkAcoBa	AtkAcou.Bass
+FngrBas2	Fingered Bs2
 JazzyBa2	Jazzy Bass 2
+AtkFngr.	Attak.Finger
+FngrSlap	Finger Slap
+ChorJzBa	ChorusJazzBs
 F.Ba/Hrm	F.Bass/Harm.
+PickBas2	PickedBass 2
 PickBas3	Picked Bass3
 PickBas4	Picked Bass4
 DblPikBa	Dbl.PickBass
+M.PkBass	Muted PickBs
+PkBa/Hrm	PkBass/Harm/
+SynFretl	SynthFretles
+SmthFrtl	SmoothFrtles
 WoodFrtl	Wood+Fretles
 SlapBass	Slap Bass 1
+Pop Slap	Pop SlapBass
 ResoSlap	Reso Slap Ba
+UnisnSlp	Unison Slap
+SlpBass3	Slap Bass 3
+FM Slap	FM Slap Bass
 SynBa101	SynthBass101
+SynBass3	Synth Bass 3
+TechnoBa	Techno Bass
+TB303Ba2	TB303 Bass 2
+TB303Kik	TB303 KickBs
+TB303Saw	TB303 Saw Bs
+Rubbr303	Rubber 303Bs
 Reso 303	Reso 303Bass
 ResoSHBa	Reso SH Bass
 303SqrBa	303 Sqr. Ba.
 303DstBa	303 Dist Ba.
 JungleBa	Jungle Bass
+ArpgioBa	ArpeggioBass
 303SqDst	303 SqDistBa
 303SqDs2	303 SqDstBa2
 303SqDs3	303 SqDstBa3
 303SqrRv	303 Sqr. Rev
 SynBa201	Syn.Bass 201
+ModulrBs	Modular Bass
+Seq.Bass	Sequenced Bs
+MGOctBas	MGOctaveBas1
 MGOctBa2	MGOctaveBas2
 BeefFMBa	Beef FM Bass
+X WireBa	X Wire Bass
+WreStrBa	WireStr Bass
+RubbrBa2	Rubber Bass2
+SynBelBa	SynthBellBas
+RubberBa	Rubber Bass
+SH101Ba1	SH101 Bass 1
+SH101Ba2	SH101 Bass 2
+SmoothBa	Smooth Bass
+SH101Ba3	SH101 Bass 3
+RandomBa	Random Bass
 BubbleBa	Bubble Bass
 ViolnAtk	Violin Atk.
 ViolaAtk	Viola Attack
