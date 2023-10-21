@@ -124,27 +124,46 @@ AcGtrHmo	Ac. Guitar Harmonics
 ElBaHrmo	E. Bass Harmonics
 WildAcBa	Wild Acoustic Bass
 AtkAcoBa	Attack Acoustic Bass
+FngrBas2	Fingered Bass 2
+AtkFngr.	Attack Finger
+FngrSlap	Fingered Slap
+ChorJzBa	Chorus Jazzy Bass
 F.Ba/Hrm	Fingered Bass/Harmonics
+PickBas2	Picked Bass 2
 PickBas3	Picked Bass 3
 PickBas4	Picked Bass 4
 DblPikBa	Double Picked Bass
+M.PkBass	Muted Picked Bass
+PkBa/Hrm	Picked Bass / Harmonics
 Fretles2	Fretless Bass 2
+SynFretl	Synth Fretless Bass
+SmthFrtl	Smooth Fretless Bass
 WoodFrtl	Wood + Fretless Bass
+Pop Slap	Pop Slap Bass
 ResoSlap	Reso Slap Bass
 SynBa101	Synth Bass 101
 SynBass3	Synth Bass 3
+TB303Kik	TB303 Kick Bass
+TB303Saw	TB303 Saw Bass
+Rubbr303	Rubber 303 Bass
 Reso 303	Reso 303 Bass
 303SqrBa	303 Square Bass
 303DstBa	303 Distorted Bass
+ArpgioBa	Arpeggio Bass
 303SqDst	303 Square Dist. Bass
 303SqDs2	303 Square Dist. Bass 2
 303SqDs2	303 Square Dist. Bass 2
 303SqDs3	303 Square Dist. Bass 3
 303SqrRv	303 Square Reversed
 SynBa201	Synth Bass 201
+Seq.Bass	Sequenced Bass
+MGOctBas	MG Octave Bass 1
 MGOctBa2	MG Octave Bass 2
 MGBlipBa	MG Blip Bass
 SynBass4	Synth Bass 4
+WreStrBa	Wire String Bass
+RubbrBa2	Rubber Bass 2
+SynBelBa	Synth Bell Bass
 ViolnAtk	Violin Attack
 SlwTrStr	Slow Tremolo Strings
 VcCbPizz	Cellos/Cbasses Pizzicato
