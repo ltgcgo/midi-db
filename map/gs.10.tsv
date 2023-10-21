@@ -275,14 +275,26 @@ RandomBa	RandomBass
 WowMG Ba	WowMG Bass
 BubbleBa	BubbleBass
 ViolnAtk	Violin Atk
+SlwVioln	SlowViolin
 ViolaAtk	Viola Atk.
 CelloAtk	Cello Atk.
+TrmStrSt	TremStrSt.
 SlwTrStr	SlowTrmStr
+Susp.Str	Susp. Str.
+SuspStr2	Susp.Str.2
 VcCbPizz	VcCb Pizz.
+ChmbrPiz	ChamberPiz
 St. Pizz	Ste. Pizz.
 SoloPizz	Solo Pizz.
+SoloSpic	Solo Spic.
 StrsSpic	Str. Spic.
+Harp&Str	Harp&Strng
+Harp St.	HarpStereo
 UileanHp	UileanHarp
+Syn.Harp	Synth Harp
+YangChin	Yang Qin
+YangQin2	Yang Qin 2
+SynYanQn	SynYangQin
 Slow Str	SlowString
 Mild Str	Mild Str.
 OrchStr2	Orchestra2
