@@ -1,4 +1,5 @@
 ID	Name
+LPRearAr	LPRearAtak
 Uprt.Pno	UprightPno
 Mild Pno	Mild Piano
 UprtP. w	UprtPno. w
@@ -133,21 +134,67 @@ BscBHrmo	BasicBHrmo
 SplBHrmo	SupplBHrmo
 TngoAcd2	Bandoneon2
 Bndoneon	Bandoneon3
+NylonGt3	Nylon Gt.o
+VelGtHrm	VeloHarmnx
+NylonGt2	Nylon Gt.2
+LequintG	Lequint Gt
 12StrGtr	12 Str Gtr
+Nyln&Stl	Nyln+Steel
+AtkSteel	AtkSteelGt
+Mandoln2	Mandolin 2
+MandoTrm	MandolnTrm
+SteelGt2	Steel Gt.2
+Stl&Body	Steel+Body
+MellowGt	Mellow Gt.
+HawaiiGt	HawaiianGt
+PedalStl	PedalSteel
 ClnHalfG	CleanHalfG
 OpnHrdGt	OpenHardGt
 OpnHrdG2	OpenHardG2
 JC ClnGt	JC CleanGt
+AtkClnGt	AtkCleanGt
+ChorusGt	Chorus Gt.
+JC ChoGt	JC ChorusG
 TCFrntPk	TCFrontPk.
 TCRearPk	TCRearPick
+TC Clean	TC Clean f
+TC Cln 2	TC Clean 2
 LPRearPk	LPRearPick
+LPRearP2	LP Rear 2
 MidT.Gtr	MidToneGtr
+ChngRuan	Chung Ruan
+ChgRuan2	ChungRuan2
+Mu.DstGt	MuteDis.Gt
 TCMuteGt	TCMutedGt.
 Funk Gtr	FunkGuitar
+FunkGtr2	Funk Gt.2
 OvrDrGt2	Overdrv. 2
 OvrDrGt3	Overdrv. 3
 MoDrvGtr	More Drive
+Gt.Pinch	Gtr. Pinch
+AtkDrvGt	AttakDrive
+LPOvrDrv	LP OverDrv
 LPOvrDr2	LPOverDrv2
+LP HfDrv	LP HalfDrv
+LPHfDrv2	LPHalfDrv2
+LPChorus	LP Chorus
+DistGtr2	Dist. Gt2:
+DazedGtr	Dazed Gtr.
+DistGtr3	Distorshn:
+FstDstGt	Dist.Fast:
+AtkDstGt	AttackDist
+FeedbkGt	Feedbk Gt.
+FeedbkG2	Feedbk Gt2
+PowerGtr	Power Gtr.
+PowerGt2	Power Gtr2
+5thDist.	5th Dist.
+RockRthm	RockRhythm
+RckRthm2	Rock Rthm2
+DsRthmGt	DistRhythm
+GtFeedbk	Gt. Feedbk
+GtrFdbk2	Gt.Feedbk2
+AcGtrHmo	AcGt.Hrmnx
+ElBaHrmo	EBassHrmnx
 Rokabily	Rockabilly
 WildAcBa	WildAcBass
 AtkAcoBa	AtkAcou.Ba
