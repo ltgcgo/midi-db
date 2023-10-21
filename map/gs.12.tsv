@@ -257,9 +257,25 @@ StOrBrs2	St.Orch.Brs2
 StOrBrs3	St.Orch.Brs3
 SynBras3	SynthBrass 3
 SynBras4	SynthBrass 4
+ExpSprno	Expr.Soprano
 Exp.Alto	Express Alto
+Alto+Trp	Alto Sax+Trp
 Sax Sect	Sax Section
+TenrSax2	Tenor Sax 2
+BrthTnSx	BreathyTenor
+St.TnrSx	St.Tenor Sax
+BariSax2	Bari. Sax 2
+Bari&Tnr	Bari & Tenor
+Exp.Oboe	Express Oboe
 BsClari.	BassClarinet
+NayTrem.	Nay Tremolo
+ExpFlute	ExpressFlute
+TrvFlute	Travelso Flt
+FluteVln	Flute+Violin
+PipeReed	Pipe & Reed
+IndiaFlu	Indian Flute
+ZmpnaAtk	Zampona Atk.
+TinWhist	Tin Whistle
 TinWhsNm	TinWhistleNm
 TinWhsOr	TinWhistleOr
 MGSquare	MG Square Ld
