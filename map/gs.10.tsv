@@ -341,10 +341,31 @@ StOrBrs2	StOrchBrs2
 StOrBrs3	StOrchBrs3
 SynBras3	SynBrass 3
 SynBras4	SynBrass 4
+ExpSprno	ExpSoprano
+HyprAlto	Hyper Alto
 Exp.Alto	Expr. Alto
+Alto+Trp	AltoSx+Trp
 Sax Sect	Sax Sect.
+TenrSax2	TenorSax 2
+BrthTnSx	BrthyTenor
+St.TnrSx	St.TenorSx
+BariSax2	Bari.Sax 2
+Bari&Tnr	Bari&Tenor
+Exp.Oboe	Expr. Oboe
+Mul.Reed	Multi Reed
 BsClari.	BassClari.
+MultiWnd	Multi Wind
+QuadWind	Quad Wind
 Piccolo2	Piccolo 2
+NayTrem.	NayTremolo
+ExpFlute	Expr.Flute
+TrvFlute	TrvlsFlute
+FluteVln	Flute+Vln
+PipeReed	Pipe&Reed
+TrnFlute	Tron Flute
+IndiaFlu	IndiaFlute
+ZmpnaAtk	ZamponaAtk
+TinWhist	TinWhistle
 TinWhsNm	TinWhis.Nm
 TinWhsOr	TinWhis.Or
 Whistle2	Whistle 2
