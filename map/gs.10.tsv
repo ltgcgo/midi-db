@@ -295,21 +295,49 @@ Syn.Harp	Synth Harp
 YangChin	Yang Qin
 YangQin2	Yang Qin 2
 SynYanQn	SynYangQin
-Slow Str	SlowString
+Slow Str	Strings 2
+BriteStr	Bright Str
+ChmbrStr	ChamberStr
+CellSect	Cello Sect
 Mild Str	Mild Str.
+Orch.Str	Orchestra
 OrchStr2	Orchestra2
-OrchStr3	Orch.Str 3
+TremOrch	Trem.Orch.
+ChoirStr	Choir Str.
+Str&FrHr	Strng+Horn
+StStrngs	St.Strings
+OrchStr3	Orchestra3
+Velo.Str	VeloStrngs
+OctavStr	Oct Str. 1
+OctStr.2	Oct Str. 2
+SlowStr2	SlowStrng2
+LegatoSt	Legato Str
+Warm Str	Warm Str.
+StSlwStr	StSlow Str
 OB Str.	OB Strings
+StackStr	Stack Str.
 JP Str.	JP Strings
 Syn.Str3	SynthStr.3
+Syn.Str4	SynthStr.4
+High Str	HighString
+HybrdStr	Hybrid Str
+Tron Str	TronString
+NoizyStr	NoizString
+Syn.Str5	SynthStr.5
+JUNO Str	JUNOString
 Air Str.	Air String
+St.Choir	St. Choir
 MltChoir	Melt Choir
+ChurchCh	Church Ch.
 BoyChoir	Boy Choir
 ChoirHah	Choir Hahs
 ChoirLah	Choir Lahs
+ChoirAh2	ChoirAahs2
+MaleC.Ah	MaleAah+St
 OohsMaj7	Oohs maj7
 OohsSus4	Oohs sus4
 JazzScat	Jazz Scat
+VoiceDah	Voice Dah
 VoiceDah	Voice Dah
 JazzThum	Jazz Thum
 Fem. Lah	Female Lah
@@ -320,7 +348,19 @@ FemChLan	Fem.Ch.Lan
 F.La&Lan	Fem.La&Lan
 MalChoWa	MaleCh.Wah
 SyVoice2	SynVoice 2
+SlntNght	SilntNight
+VP330	VP330Choir
+VnlChoir	VinylChoir
+ImpactHt	Impact Hit
+PhillyHt	Philly Hit
+DoublHit	Double Hit
+Perc.Hit	Perc. Hit
+ShockWav	Shock Wave
 LoFiRave	Lo-Fi Rave
+TechnoHt	Techno Hit
+Dist.Hit	Dist. Hit
+Tkng Hit	TeknorgHit
+Str. Hit	StringsHit
 StackHit	Stack Hit
 Trumpet2	Trumpet 2
 Trumpet3	Trumpet 3
