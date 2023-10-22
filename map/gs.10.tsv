@@ -1,4 +1,5 @@
 ID	Name
+Castanet	Castanets
 Uprt.Pno	UprightPno
 Mild Pno	Mild Piano
 UprtP. w	UprtPno. w
@@ -569,10 +570,18 @@ Didgrdoo	Didgeridoo
 UillPipe	UilleanPpe
 UillPpNm	UillPipeNm
 UillPpOr	UillPipeOr
+GmlnGong	GamlanGong
+StGameln	St.Gamelan
+RAMACymb	RAMACymbal
 RideCym!	Ride Cym!!
 RideBel!	Ride Bell!
+Atargane	Atarigane
+Tmbourin	Tambourine
+AngkRthm	AngkRhythm
+FngrSnap	FingerSnap
 909 Clap	909 H.Clap
 HandClp!	Hand Clap!
+SmallTko	SmallTaiko
 ConcrtBD	Concert BD
 JungleBD	Jungle BD
 TechnoBD	Techno BD
@@ -581,6 +590,16 @@ Kick4 !!	Kick 4 !!
 MeloTom2	Melod.Tom2
 JungleSD	Jungle SD
 ElecPerc	ElecPerc 1
+SinePerc	Sine Perc.
+RvCymbl2	Rev.Cymbl2
+RvCymbl3	Rev.Cymbl3
+RvCymbl4	Rev.Cymbl4
+RevSnare	Rev.Snare1
+RvSnare2	Rev.Snare2
+Rev Kick	Rev.Kick 1
+RevConBD	Rev.Con BD
+Rev.Tom	Rev.Tom 1
+Rev.Tom2	Rev.Tom 2
 CutNoise	Cut Noise
 Str.Slap	StringSlap
 CutNoiz2	CutNoise 2
