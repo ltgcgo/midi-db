@@ -336,14 +336,28 @@ JP8Pulse	JP8 Pulse Ld
 JP8Puls2	JP8 Pulse 2
 MGRezPls	MG Rez.Pulse
 GR-300	GR-300 Lead
+Dr. Lead	Doctor Solo
+ThickSaw	Fat Saw Lead
 D-50 Fat	D-50 FatLead
+WaspySyn	Waspy Synth
 CS SawLd	CS Saw Lead
 OB Saw 2	OB SawLead 2
 P5 SawLd	P5 Saw Lead
 Seq.Saw.	SequencedSaw
 Reso Saw	Resonant Saw
+Pure Pan	Pure PanLead
 FatGR Ld	Fat GR Lead
-JP8BaLd1	JP8BassLead1
+Acid Gtr	Acid Guitar
+AcidGtr2	Acid Guitar2
+P5Snc.Ld	P5 Sync Lead
+FatSncLd	FatSync Lead
+5thDcySn	5thDecaySync
+JUNOSbOs	JUNO Sub Osc
+5thAnClv	5th Ana.Clav
+Fat&Prky	Fat & Perky
+JP8BaLd1	JP8 Bs Lead1
+JP8BaLd2	JP8 Bs Lead2
+SH-5BaLd	SH-5 Bs.Lead
 BelHeavn	Bell Heaven
 ThickMtx	Thick Matrix
 RotarStr	RotaryString
