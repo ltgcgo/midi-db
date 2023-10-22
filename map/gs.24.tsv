@@ -211,17 +211,33 @@ SyVoice2	Synth Voice 2
 Perc.Hit	Percussive Hit
 Dist.Hit	Distortion Hit
 Trp&Noiz	Trumpet & Noise
+BriteTrp	Bright Trumpet
+Warm Trp	Warm Trumpet
+Syn Trp	Synth Trumpet
+Twinbone	Twin Bones
 BassTrom	Bass Trombone
 CMuteTrp	Cup Muted Trumpet
+MutedHrn	Muted French Horn
+FrHorn 2	French Horn 2
+Hrn+Orch	Horn + Orchestra
+WideFrHr	Wide French Horn
+FrHrSolo	Solo French Horn
 SlwFrHrn	Slow French Horn
 RipFrHrn	Rip French Horn
 BoneSect	Trombone Section
+BrsSect2	Brass Section 2
+BrsSect3	Brass Section 3
+SforzBrs	Sforzando Brass
 OrchBras	Orchestral Brass
 OrchBrs2	Orchestral Brass 2
 StOrBrs2	Stereo Orch. Brass 2
 StOrBrs3	Stereo Orch. Brass 3
 SynBras3	Synth Brass 3
+OctSynBr	Octave Synth Brass
 SynBras4	Synth Brass 4
+SynSfzBr	Sforzando Synth Brass
+RezBrass	Resonant Brass
+Ana.Brs2	Analog Brass 2
 ExpSprno	Expressive Soprano Sax
 Exp.Alto	Expressive Alto
 Alto+Trp	Alto Sax + Trumpet

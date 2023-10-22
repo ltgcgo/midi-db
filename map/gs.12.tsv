@@ -273,18 +273,39 @@ VnlChoir	Vinyl Choir
 Tkng Hit	Technorg Hit
 Str. Hit	Strings Hit
 Trp&Noiz	Trumpt&Noise
-BassTrom	Bass Trmbone
+FlugelHr	Flugel Horn
+4th Trp	4th Trumpets
+Syn Trp	Syn. Trumpet
+BassTrom	Bs. Trombone
 CMuteTrp	Cup MutedTrp
+MutedHrn	Muted Horns
+Hrn+Orch	Horn + Orche
+WideFrHr	Wide FreHrns
+FrHrSolo	Fr.Horn Solo
 SlwFrHrn	Slow Fr.Horn
+DualFrHr	Dual Horns
+HornOrch	Horn Orch.
 RipFrHrn	Rip Fr. Horn
-BoneSect	Bone Section
+BoneSect	Bones Sect.
 Trp Fall	Trumpet Fall
+OctBrass	Octave Brass
+Brs+Reed	Brass + Reed
 OrchBras	Orch. Brass
 OrchBrs2	Orch.Brass 2
 StOrBrs2	St.Orch.Brs2
 StOrBrs3	St.Orch.Brs3
+StackBrs	Stack Brass
 SynBras3	SynthBrass 3
+QuackBrs	Quack Brass
+Anal.Brs	Analog Brass
+Octa.Brs	OctaveBrass2
+OctSynBr	Oct SynBrass
+HybridBr	Hybrid Brass
 SynBras4	SynthBrass 4
+SynSfzBr	SynBrass sfz
+Ana.Brs2	AnalogBrass2
+VeloBras	Velo Brass 1
+VeloBrs2	Velo Brass 2
 ExpSprno	Expr.Soprano
 Exp.Alto	Express Alto
 Alto+Trp	Alto Sax+Trp
