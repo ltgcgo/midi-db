@@ -344,8 +344,23 @@ Seq.Saw.	SequencedSaw
 Reso Saw	Resonant Saw
 FatGR Ld	Fat GR Lead
 JP8BaLd1	JP8BassLead1
+BelHeavn	Bell Heaven
 ThickMtx	Thick Matrix
+RotarStr	RotaryString
 OBSoftPd	OB Soft Pad
+80sPlySy	80's PolySyn
+PlySyPd2	Polysynth 2
+PwrStack	Power Stack
+OctStack	Octave Stack
+TekStack	Techno Stack
+CosmicVx	Cosmis Voice
+Vocorder	Vocorderman
+SftBelPd	SoftBellPad
+JP8SqrPd	JP8 Sqr Pad
+7thBelPd	7thBelPad
+VoicePad	Vox Pad
+VoxSweep	Vox Sweep
+Celstial	Celestial Pd
 SynMalet	Synth Mallet
 Altrnate	Alternative
 Reso Pan	Resonant Pan
@@ -456,6 +471,7 @@ PipeOrg3	Pipe Organ 3
 Clavi. 2	Clavichord 2
 Clavi. 3	Clavichord 3
 Syn.Bass	Synth Bass 1
+Fantasy	New Age Pad
 HarmoPan	Harmonic Pan
 FunnyVox	Funny Voices
 Dr. Solo	Doctor Solo
