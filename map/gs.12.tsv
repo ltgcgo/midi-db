@@ -229,13 +229,36 @@ Harp&Str	Harp&Strings
 Harp St.	Harp Stereo
 UileanHp	Uillean Harp
 SynYanQn	SynthYangQin
-Slow Str	Slow Strings
+BriteStr	Bright Str:
+ChmbrStr	Chamber Str:
+CellSect	Cello sect.
 Mild Str	Mild Strings
 OrchStr2	Orchestra 2
-OrchStr3	Orch. Str 3
-Syn.Str3	SynthString3
+TremOrch	Tremolo Orch
+Str&FrHr	Strings+Horn
+StStrngs	St. Strings
+OrchStr3	Orchestra 3
+Velo.Str	Velo Strings
+OctavStr	Oct Strings1
+OctStr.2	Oct Strings2
+SlowStr2	SlowStrings2
+LegatoSt	Legato Str.
+Warm Str	Warm Strings
+StSlwStr	StSlow Str.
+StackStr	StackStrings
+Syn.Str3	Syn.Strings3
+Syn.Str4	Syn.Strings4
+High Str	High Strings
+HybrdStr	Hybrid Str.
+Tron Str	Tron Strings
+NoizyStr	Noiz Strings
+Syn.Str5	Syn.Strings5
+JUNO Str	JUNO Strings
 Air Str.	Air Strings
 MltChoir	Melted Choir
+ChurchCh	Church Choir
+ChoirAh2	Choir Aahs 2
+MaleC.Ah	Male Aah+Str
 OohsMaj7	Oohs (maj7)
 OohsSus4	Oohs (sus4)
 FemChoLa	FemaleCh.Lah
@@ -244,6 +267,11 @@ FemChLan	FemaleCh.Lan
 F.La&Lan	FemaleLa&Lan
 MalChoWa	Male Cho.Wah
 SyVoice2	Syn.Voice 2
+SlntNght	Silent Night
+VP330	VP330 Choir
+VnlChoir	Vinyl Choir
+Tkng Hit	Technorg Hit
+Str. Hit	Strings Hit
 Trp&Noiz	Trumpt&Noise
 BassTrom	Bass Trmbone
 CMuteTrp	Cup MutedTrp
