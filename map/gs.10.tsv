@@ -364,22 +364,59 @@ StackHit	Stack Hit
 Trumpet2	Trumpet 2
 Trumpet3	Trumpet 3
 Trp&Noiz	Trpt&Noise
-Twinbone	Twinbones
+FlugelHr	FlugelHorn
+4th Trp	4thTrumpet
+BriteTrp	Bright Tp.
+Warm Trp	Warm Tp.
+Syn Trp	SynTrumpet
+Trombon2	Trombone 2
+Twinbone	Twin bones
 BassTrom	Bass Trmb.
 CMuteTrp	CupMuteTrp
+MutedHrn	Muted Horn
 FrHorn 2	Fr. Horn 2
+Hrn+Orch	Horn+Orche
+WideFrHr	Wide FrHrn
+FrHrSolo	Solo FrHrn
 SlwFrHrn	Slow FrHrn
+DualFrHr	Dual FrHrn
+HornOrch	Horn Orch.
+Syn.Horn	Synth Horn
 RipFrHrn	Rip FrHorn
 BoneSect	Bone Sect.
 QuadBras	Quad Brass
+BrsSect2	Brass 2
+BrsSect3	Brass 3
+SforzBrs	Brass sfx
 BrasFall	Brass Fall
 Trp Fall	TrumptFall
+OctBrass	OctavBrass
+Brs+Reed	Brass+Reed
 OrchBras	Orch.Brass
 OrchBrs2	Orch.Brs 2
 StOrBrs2	StOrchBrs2
 StOrBrs3	StOrchBrs3
+PolyBras	Poly Brass
+JUNO Brs	JUNO Brass
+StackBrs	StackBrass
+SH-5 Brs	SH-5 Brass
+MKS Bras	MKS Brass
 SynBras3	SynBrass 3
+ProBrass	Pro Brass
+QuackBrs	QuackBrass
+Anal.Brs	AnalgBrass
+Octa.Brs	OctavBrass
+OctSynBr	Oct SynBrs
+HybridBr	Hybrid Brs
+SoftBras	Soft Brass
+WarmBras	Warm Brass
 SynBras4	SynBrass 4
+SynSfzBr	SynBrs sfz
+RezBrass	Reso Brass
+Ana.Brs2	AnalogBrs2
+VeloBras	VeloBrass1
+VeloBrs2	VeloBrass2
+TransBrs	Transbrass
 ExpSprno	ExpSoprano
 HyprAlto	Hyper Alto
 Exp.Alto	Expr. Alto
