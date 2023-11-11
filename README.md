@@ -19,7 +19,7 @@ ID maps are TSV files.
   * When set to `16`, the voice is treated as a drum kit.
   * When set to `17`, the voice is treated as a voice menu.
   * Any value above is not defined.
-* `DRM` defines the drum map ID used.
+* `DRM` defines the drum map ID used. Can also be used by voice menus.
 
 ### Drum maps
 Drum maps are custom script files.
