@@ -6,6 +6,17 @@
 * [XG System](/bitmaps/xg/system.tsv)
 * [XG Voices](/bitmaps/xg/voices.tsv)
 
+## Fields
+### ID maps
+* `MSB` defines the cc0 (bank MSB) value of the voice.
+* `PRG` defines the PC (program change) value of the voice.
+* `LSB` defines the cc32 (bank LSB) value of the voice.
+* `NME` defines the 8-character ID of the voice.
+* `ELC` defines the element count (minus one) of the voice.
+  * When set to `0`, the voice takes up one element. `1` for two, `2` for three, the same goes on.
+  * When set to `16`, the voice is treated as a drum kit.
+  * Any value above `16` is not defined.
+
 ## Voice Maps
 See all of the [correct names](/bank/en.tsv).
 
