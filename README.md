@@ -26,12 +26,14 @@ Drum maps are custom script files.
 
 * `drm` defines the current drum map ID to write to.
   * e.g. `drm xgStdKit` switches to `xgStdKit`.
-* `nno` defines the current drum note number to write to.
-  * e.g. `nno 39` switches to `39`.
-* `deg` sets the exclusive group (aka. alternate assign) of the current note number. Defaults to `0` (disabled).
-* `nec` sets the note element count of the current note number. Defaults to `1`.
 * `dcp` copies parameters from a set drum kit.
   * e.g. `dcp xgStdKit` copies parameters from `xgStdKit` to the current drum kit.
+* `nno` defines the current drum note number to write to.
+  * e.g. `nno 39` switches to `39`.
+* `npw` writes multiple parameters to a single drum note.
+  * `npw <note> <exclusiveGroup> <elementCount>`
+* `neg` sets the exclusive group (aka. alternate assign) of the current note number. Defaults to `0` (disabled).
+* `nec` sets the note element count of the current note number. Defaults to `1`.
 
 ## Voice Maps
 See all of the [correct names](/bank/en.tsv).
