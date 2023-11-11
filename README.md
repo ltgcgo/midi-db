@@ -8,6 +8,8 @@
 
 ## Fields
 ### ID maps
+ID maps are TSV files.
+
 * `MSB` defines the cc0 (bank MSB) value of the voice.
 * `PRG` defines the PC (program change) value of the voice.
 * `LSB` defines the cc32 (bank LSB) value of the voice.
@@ -15,7 +17,21 @@
 * `ELC` defines the element count (minus one) of the voice.
   * When set to `0`, the voice takes up one element. `1` for two, `2` for three, the same goes on.
   * When set to `16`, the voice is treated as a drum kit.
-  * Any value above `16` is not defined.
+  * When set to `17`, the voice is treated as a voice menu.
+  * Any value above is not defined.
+* `DRM` defines the drum map ID used.
+
+### Drum maps
+Drum maps are custom script files.
+
+* `drm` defines the current drum map ID to write to.
+  * e.g. `drm xgStdKit` switches to `xgStdKit`.
+* `nno` defines the current drum note number to write to.
+  * e.g. `nno 39` switches to `39`.
+* `deg` sets the exclusive group (aka. alternate assign) of the current note number. Defaults to `0` (disabled).
+* `nec` sets the note element count of the current note number. Defaults to `1`.
+* `dcp` copies parameters from a set drum kit.
+  * e.g. `dcp xgStdKit` copies parameters from `xgStdKit` to the current drum kit.
 
 ## Voice Maps
 See all of the [correct names](/bank/en.tsv).
