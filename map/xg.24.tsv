@@ -99,6 +99,7 @@ PkAcouBa	Picked Acoustic Bass
 VXUprght	VX Upright Bass
 Acou.Ba#	Acoustic Bass #
 FingrDrk	Dark Fingered Bass
+FngrSlap	Fingered Slap Bass
 FngrBas2	Fingered Bass 2
 Mod Bass	Modulation Bass
 RezChase	Resonant Chase
@@ -153,6 +154,7 @@ OrcheStr	Orchestral Strings
 OrchStr2	Orchestral Strings 2
 TremOrch	Tremolo Orch Strings
 Velo.Str	Velocity Strings
+Triste	Triste Strings
 SwellStr	Swell Strings
 3 OctStr	3 Octave Strings
 StSlwStr	Stereo Slow Strings
@@ -330,6 +332,7 @@ PhaseClv	Phaser Clavichord
 Fretles!	Fretless Bass!
 YamSteel	Mountain Steel Drums
 DinoPerc	Dino Percussion
+EspaGtr!	Spanish Guitar!
 WetPluck	Wet Pluck Guitar
 Destiny	Destiny Guitar
 LiteAlto	Light Alto Sax
