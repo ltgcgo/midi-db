@@ -4,6 +4,7 @@ GrndPnoK	GrandPiano K
 MelloGrP	MellowGrdPno
 PianoStr	PianoStrings
 DreamPno	Dream Piano
+ConGrand	ConcertGrand
 DblConGr	DoublConGrnd
 GrandP #	Grand Piano#
 BritPnoK	BrightPianoK
@@ -72,6 +73,7 @@ TngoAcd2	TangoAccord2
 NylonGt2	Nylon Gtr. 2
 NylonGt3	Nylon Gtr. 3
 VelGtHrm	VelGtHrmonix
+DecayEsG	DecayEspaGtr
 NylonGt#	Nylon Gtr. #
 SteelGt2	Steel Gtr. 2
 12StrGtr	12-Str Gtr.
@@ -90,9 +92,11 @@ MidTGtSt	MidToneGtrSt
 NasalGtr	Nasal Guitar
 BridHamr	BridgeHammer
 Dbl Hamr	Doubl Hammer
+St. Hamr	StereoHammer
 Funk Gtr	Funk Gtr. 1
 MuteStlG	MutedSteelGt
 FunkGtr2	Funk Guitar2
+Heavy Wr	Heavy Wrench
 GrvyMtGt	Groovy Mt Gt
 Mu.DstGt	MutedDistGtr
 MutedGt#	Muted Gtr. #
@@ -112,9 +116,11 @@ TwinDist	Twin Dist.Gt
 RckRthm2	RockRhythm 2
 RockRthm	Rock Rhythm
 Dist.Gt#	Dist. Gtt. #
+AcouHarm	Acou.Hrmonix
 GtFeedbk	Gtr.Feedback
 GtrHrmo2	Gtr. Harmo 2
 JazzRthm	Jazz Rhythm
+PkAcouBa	Pick A. Bass
 VXUprght	VX UprightBa
 Acou.Ba#	Acou. Bass #
 FingrDrk	DarkFingerBs
@@ -224,6 +230,7 @@ Warm Trp	Warm Trumpet
 Dark Trp	Dark Trumpet
 SoftDTrp	SoftDarkTrp.
 Soft Trp	Soft Trumpet
+Dbl Blow	Double Blow
 SweetTrp	SweetTrumpet
 MlSwtTrp	Mel.SweetTrp
 NormlTrp	Normal Trmpt
@@ -252,6 +259,7 @@ TpTbSec2	Trp&TrbSect2
 BrsSect2	Brass Sect 2
 MelloBrs	Mellow Brass
 SuperBrs	Super Brass
+CutBrass	SuprBrassCut
 Tenor&Tp	Tenor&Trmpt
 SymphBrs	Symph. Brass
 QuackBrs	Quack Brass
@@ -299,6 +307,7 @@ HollowSq	Hollow Sqr.
 DblOsci.	DoubleOscil.
 MellowSq	Mellow Sqr.
 SoloSine	Solo Sine Ld
+FMSlwSwp	FM SlowSweep
 SawLead2	Saw. Lead 2
 ThickSaw	Thick Saw Ld
 Dyna.Saw	Dynamic Saw
@@ -434,10 +443,14 @@ PhaseClv	PhaserClavi.
 AnaSquid	Analog Squid
 Fretles!	FretlessBas!
 Q. Klav	Q. Klavinet
+India	Indian Sitar
 YamSteel	YamaStlDrums
+SpcHorse	Space Horse
+EspaGtr!	Spanish Gtr!
 JazzGtr!	Jazz Guitar!
 WetPluck	WetPluckdGtr
 Thin Gtr	Thin Guitar
+Destiny	Destiny Gtr.
 Shakuha!	Shakuhachi!
 LipClari	Lip Clarinet
 SprnoSx!	Soprano Sax!
@@ -445,7 +458,9 @@ LiteAlto	LightAltoSax
 MuteTp!2	MutedTrump!2
 C Violin	ConcrtViolin
 C Flute	ConcertFlute
+WX Shaku	WX Shakuhach
 Bamboo	Bamboo Dizi
+CvSoprSx	CurveSoprSax
 SoprPipe	Soprano Pipe
 SweetAlt	SweetAltoSax
 GlassTnr	Glass Tenor
@@ -463,18 +478,3 @@ MM-Clav3	MM-Clavi. 3
 MM-Vibe2	MM-Vibrafn.2
 MM-Vce 4	MM-Voices 4
 DX-SLd 9	DX-SquareLd9
-DecayEsG	DecayEspaGtr
-EspaGtr!	Spanish Gtr!
-India	Indian Sitar
-Heavy Wr	Heavy Wrench
-Dbl Blow	Double Blow
-CutBrass	SuprBrassCut
-CvSoprSx	CurveSoprSax
-PkAcouBa	Pick A. Bass
-AcouHarm	Acou.Hrmonix
-Destiny	Destiny Gtr.
-SpcHorse	Space Horse
-WX Shaku	WX Shakuhach
-ConGrand	ConcertGrand
-FMSlwSwp	FM SlowSweep
-St. Hamr	StereoHammer

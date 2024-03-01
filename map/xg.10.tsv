@@ -4,6 +4,7 @@ GrndPnoK	GrndPianoK
 MelloGrP	MelloGrPno
 PianoStr	PianoStrng
 DreamPno	DreamPiano
+ConGrand	Con. Grand
 DblConGr	DblConGrnd
 GrandP #	GrndPiano#
 BritPnoK	BritPianoK
@@ -84,6 +85,7 @@ TngoAcd2	TangoAcod2
 NylonGt2	Nylon Gt.2
 NylonGt3	Nylon Gt.3
 VelGtHrm	VelGtHrmnx
+DecayEsG	DecayEspGt
 NylonGt#	Nylon Gt.#
 SteelGt2	Steel Gt.2
 12StrGtr	12-Str Gt.
@@ -102,9 +104,11 @@ MidTGtSt	MidTnGtrSt
 NasalGtr	Nasal Gtr.
 BridHamr	BridgeHamr
 Dbl Hamr	Dbl Hammer
+St. Hamr	St. Hammer
 Funk Gtr	Funk Gtr 1
 MuteStlG	MuteSteelG
 FunkGtr2	Funk Gtr 2
+Heavy Wr	HeavyWrnch
 GrvyMtGt	GroovyMtGt
 Mu.DstGt	MuteDistGt
 MutedGt#	Muted Gt.#
@@ -124,9 +128,11 @@ TwinDist	TwinDistGt
 RckRthm2	RockRthm 2
 RockRthm	RockRhythm
 Dist.Gt#	Dist. Gt.#
+AcouHarm	Acou.Harmo
 GtFeedbk	GtFeedback
 GtrHrmo2	GtrHarmo 2
 JazzRthm	JazzRhythm
+PkAcouBa	PickAcouBa
 VXUprght	VX Upright
 Acou.Ba#	Acou.Bass#
 FingrDrk	FingerBsDk
@@ -137,6 +143,7 @@ FngrBas2	FingerBas2
 Jazzy Ba	Jazzy Bass
 Mod Bass	Modul.Bass
 RezChase	Reso.Chase
+BlueBass	Blues Bass
 FW EBass	FgrW EBass
 FingrBa#	FingerBas#
 PickBas2	PickedBas2
@@ -260,6 +267,7 @@ Warm Trp	Warm Trmpt
 Dark Trp	Dark Trmpt
 SoftDTrp	SoftDrkTrp
 Soft Trp	Soft Trmpt
+Dbl Blow	DoubleBlow
 SweetTrp	SweetTrmpt
 MlSwtTrp	Mel.SwtTrp
 NormlTrp	Normal Trp
@@ -297,6 +305,7 @@ BrsSect2	BrassSect2
 Hi Brass	High Brass
 MelloBrs	MelloBrass
 SuperBrs	SuperBrass
+CutBrass	SpBrassCut
 Tenor&Tp	Tenor&Trp
 SymphBrs	SymphBrass
 QuackBrs	QuackBrass
@@ -352,6 +361,7 @@ SoloSine	Solo Sine
 SineLead	Sine Lead
 Pulse Ld	Pulse Lead
 SyncLead	Sync Lead
+FMSlwSwp	FMSlwSweep
 Curse Ld	Curse Lead
 SawLead2	Saw Lead 2
 ThickSaw	Thick Saw
@@ -659,9 +669,12 @@ MuteTp!2	MutedTrp!2
 C Violin	Con.Violin
 C Flute	CncrtFlute
 JazFlute	Jazz Flute
+WX Shaku	WX Shakuha
 Bamboo	Bamboo Di
+CvSoprSx	CurvSoprSx
 SoprPipe	SoprnoPipe
 SweetAlt	Sweet Alto
+AltoSax!	Alto Sax!
 MildTenr	Mild Tenor
 GlassTnr	GlassTenor
 FunkyTnr	FunkyTenor
@@ -687,16 +700,3 @@ MM-Vce 4	MM-Voice 4
 DX-SLd 9	DX-SqrLd 9
 DirtySaw	Dirty Saw
 ANCowbel	AN Cowbell
-DecayEsG	DecayEspGt
-AltoSax!	Alto Sax!
-Heavy Wr	HeavyWrnch
-Dbl Blow	DoubleBlow
-CutBrass	SpBrassCut
-PkAcouBa	PickAcouBa
-CvSoprSx	CurvSoprSx
-BlueBass	Blues Bass
-AcouHarm	Acou.Harmo
-WX Shaku	WX Shakuha
-ConGrand	Con. Grand
-FMSlwSwp	FMSlwSweep
-St. Hamr	St. Hammer
