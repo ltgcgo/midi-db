@@ -61,6 +61,7 @@ SteelGt2	Steel Guitar 2
 12StrGtr	12-string Guitar
 Nyln&Stl	Nylon & Steel Guitar
 Stl&Body	Steel Guitar & Body
+Nashvill	Nashville Guitar
 SteelGt#	Steel Guitar #
 MelloGtr	Mellow Guitar
 Jazz Amp	Jazz Guitar Amp
@@ -69,6 +70,7 @@ JazzGtr#	Jazz Guitar #
 ChorusGt	Chorus Guitar
 MidT.Gtr	Mid-tone Guitar
 MidTGtSt	Mid-tone Guitar Stereo
+Mid Hamr	Middle Hammer Guitar
 BridHamr	Bridge Hammer
 Dbl Hamr	Double Hammer
 St. Hamr	Stereo Hammer Guitar
@@ -129,6 +131,7 @@ Seq.Bass	Sequenced Bass
 ClkSynBa	Click Synth Bass
 SynBs2Dk	Dark Synth Bass 2
 SmthSynB	Smooth Synth Bass
+F.OsciBa	Forced Oscillation Bass
 ViolinSc	Violin Section
 HdVlnSec	Hard Violin Section
 SlVlnSec	Slow Violin Section
@@ -157,6 +160,7 @@ Velo.Str	Velocity Strings
 Triste	Triste Strings
 SwellStr	Swell Strings
 3 OctStr	3 Octave Strings
+5PartStr	5-Part Strings
 StSlwStr	Stereo Slow Strings
 LegatoSt	Legato Strings
 ChmbrStr	Chamber Strings
@@ -293,6 +297,7 @@ RvSnare2	Reverse Snare 2
 RConBaDr	Rev. Concert Bass Drum
 Rev.Tom2	Reverse Tom 2
 Voodoo	Voodoo Drums
+Glocken+	Glockenspiel +
 CutNoise	Cutting Noise
 CutNoiz2	Cutting Noise 2
 DstCutNz	Distorted Cutting Noise
@@ -340,6 +345,7 @@ Air Sax	Airy Saxophone
 TenorSx!	Tenor Saxophone!
 MuteTp!2	Muted Trumpet! 2
 C Violin	Concert Violin
+BowPicol	Bowed Piccolo
 C Flute	Concert Flute
 WX Shaku	WX Shakuhachi
 CvSoprSx	Curved Soprano Sax
@@ -432,8 +438,3 @@ MM-Clav3	MM-Clavichord 3
 MM-Vibe2	MM-Vibraphone 2
 DX-SLd 9	DX Square Lead 9
 DirtySaw	Dirty Sawtooth Lead
-F.OsciBa	Forced Oscillation Bass
-BowPicol	Bowed Piccolo
-Nashvill	Nashville Guitar
-Glocken+	Glockenspiel +
-5PartStr	5-Part Strings

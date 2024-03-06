@@ -29,6 +29,7 @@ DXLegend	DX Legend
 DXAnalog	DX Analog
 DX Kt EP	DX Koto EP
 VX EPno2	VX EPiano2
+Shirakwa	Shirakawa
 EPiano2#	El.Piano2#
 HpschrdK	HrpsichrdK
 Hpschrd2	Hrpsichrd2
@@ -91,6 +92,7 @@ SteelGt2	Steel Gt.2
 12StrGtr	12-Str Gt.
 Nyln&Stl	Nyln&Steel
 Stl&Body	Steel&Body
+Nashvill	Nashville
 SteelGt#	Steel Gt.#
 MelloGtr	Mellow Gt.
 Jazz Amp	JazzGtrAmp
@@ -102,6 +104,7 @@ ChorusGt	Chorus Gt.
 MidT.Gtr	MidToneGt.
 MidTGtSt	MidTnGtrSt
 NasalGtr	Nasal Gtr.
+Mid Hamr	Mid Hammer
 BridHamr	BridgeHamr
 Dbl Hamr	Dbl Hammer
 St. Hamr	St. Hammer
@@ -185,6 +188,7 @@ ModulrBa	ModularBas
 X WireBa	X WireBass
 AtkPulse	AttakPulse
 MetlBass	Metal Bass
+F.OsciBa	FrcOsciBas
 SynthAtk	SynthAttak
 SmoothBs	SmoothBass
 Oct.Bass	OctaveBass
@@ -227,6 +231,7 @@ TremOrch	Trem.Orch.
 Velo.Str	VeloString
 SwellStr	Swell Str.
 3 OctStr	3 Oct.Str.
+5PartStr	5-Part Str
 Strngs1#	Strings 1#
 StSlwStr	St.SlowStr
 LegatoSt	Legato Str
@@ -668,6 +673,7 @@ Trumpt!2	Trumpet! 2
 MuteTp!2	MutedTrp!2
 NuViolin	New Violin
 C Violin	Con.Violin
+BowPicol	BowedPicol
 C Flute	CncrtFlute
 JazFlute	Jazz Flute
 WX Shaku	WX Shakuha
@@ -702,8 +708,3 @@ MM-Vce 4	MM-Voice 4
 DX-SLd 9	DX-SqrLd 9
 DirtySaw	Dirty Saw
 ANCowbel	AN Cowbell
-F.OsciBa	FrcOsciBas
-BowPicol	BowedPicol
-Nashvill	Nashville
-5PartStr	5-Part Str
-Shirakwa	Shirakawa

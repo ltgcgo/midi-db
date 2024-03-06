@@ -79,6 +79,7 @@ SteelGt2	Steel Gtr. 2
 12StrGtr	12-Str Gtr.
 Nyln&Stl	Nyln&SteelGt
 Stl&Body	SteelGt&Body
+Nashvill	Nashville Gt
 SteelGt#	Steel Gtr. #
 MelloGtr	Mellow Gtr.
 Jazz Amp	Jazz Gtr Amp
@@ -90,6 +91,7 @@ ChorusGt	Chorus Gtr.
 MidT.Gtr	MidToneGtr.
 MidTGtSt	MidToneGtrSt
 NasalGtr	Nasal Guitar
+Mid Hamr	MiddleHammer
 BridHamr	BridgeHammer
 Dbl Hamr	Doubl Hammer
 St. Hamr	StereoHammer
@@ -165,6 +167,7 @@ SmthSynB	SmoothSynBas
 ModulrBa	Modular Bass
 X WireBa	X Wire Bass
 AtkPulse	Attack Pulse
+F.OsciBa	ForceOsciBas
 SynthAtk	Synth Attack
 SmoothBs	Smooth Bass
 Oct.Bass	Octave Bass
@@ -203,6 +206,7 @@ TremOrch	Tremolo Orch
 Velo.Str	Velo Strings
 SwellStr	SwellStrings
 3 OctStr	3 Oct. Str.
+5PartStr	5 Part Str.
 Strngs1#	Strings 1 #
 StSlwStr	St.Slow Str.
 LegatoSt	Legato Str.
@@ -458,6 +462,7 @@ SprnoSx!	Soprano Sax!
 LiteAlto	LightAltoSax
 MuteTp!2	MutedTrump!2
 C Violin	ConcrtViolin
+BowPicol	BowedPiccolo
 C Flute	ConcertFlute
 WX Shaku	WX Shakuhach
 Bamboo	Bamboo Dizi
@@ -479,7 +484,3 @@ MM-Clav3	MM-Clavi. 3
 MM-Vibe2	MM-Vibrafn.2
 MM-Vce 4	MM-Voices 4
 DX-SLd 9	DX-SquareLd9
-F.OsciBa	ForceOsciBas
-BowPicol	BowedPiccolo
-Nashvill	Nashville Gt
-5PartStr	5 Part Str.
