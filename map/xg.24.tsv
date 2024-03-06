@@ -4,6 +4,7 @@ MelloGrP	Mellow Grand Piano
 PianoStr	Piano + Strings
 ConGrand	Concert Grand Piano
 DblConGr	Double Concert Grand
+OldAcPno	Old Acoustic Piano
 GrandP #	Grand Piano #
 BritPnoK	Bright Piano KSP
 StBrtPno	Stereo Bright Piano
@@ -62,9 +63,11 @@ SteelGt2	Steel Guitar 2
 Nyln&Stl	Nylon & Steel Guitar
 Stl&Body	Steel Guitar & Body
 Nashvill	Nashville Guitar
+OldSampl	Old Sample Guitar
 SteelGt#	Steel Guitar #
 MelloGtr	Mellow Guitar
 Jazz Amp	Jazz Guitar Amp
+MidSJazz	Mid. Super Jazz Guitar
 NekRough	Roughcaster Neck
 JazzGtr#	Jazz Guitar #
 ChorusGt	Chorus Guitar
@@ -206,6 +209,7 @@ BrsSect2	Brass Section 2
 CutBrass	Super Brass Cut
 Tenor&Tp	Tenor Sax & Trumpet
 SymphBrs	Symphonic Brass
+BrsSect#	Brass Section #
 RezSynBr	Resonant Synth Brass
 SynBras3	Synth Brass 3
 AnlSforz	Analog Sforzando
@@ -233,9 +237,11 @@ Tenr&Alt	Tenor & Alto Sax
 BrthTnr2	Breathy Tenor Sax 2
 SwtTenor	Sweet Tenor Sax
 Exp.Oboe	Expressive Oboe
+Oboe   #	Oboe #
 BasClari	Bass Clarinet
 NeatBrth	Neat Breathy Flute
 BthBoehm	Breathy Boehm
+Flute  #	Flute #
 SwtPanFl	Sweet Pan Flute
 BotlLgto	Bottle Legato
 SqrLead2	Square Lead 2

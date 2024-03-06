@@ -6,6 +6,7 @@ PianoStr	PianoStrng
 DreamPno	DreamPiano
 ConGrand	Con. Grand
 DblConGr	DblConGrnd
+OldAcPno	OldAcPiano
 GrandP #	GrndPiano#
 BritPnoK	BritPianoK
 StBrtPno	StBritePno
@@ -93,10 +94,12 @@ SteelGt2	Steel Gt.2
 Nyln&Stl	Nyln&Steel
 Stl&Body	Steel&Body
 Nashvill	Nashville
+OldSampl	Old Sample
 SteelGt#	Steel Gt.#
 MelloGtr	Mellow Gt.
 Jazz Amp	JazzGtrAmp
 OctPlate	Oct. Plate
+MidSJazz	MidSupJzGt
 NekRough	Neck.Rough
 PdlSteel	PedalSteel
 JazzGtr#	Jazz Gtr.#
@@ -177,6 +180,7 @@ Sqr.Bass	SquareBass
 RubberBa	RubberBass
 Fish	Fish Bass
 HardReso	HardReson.
+Miami Ba	Miami Bass
 AnalogBa	AnalogBass
 RezoBass	Rezzo Bass
 MelloSBa	MelloSynBs
@@ -313,6 +317,7 @@ SuperBrs	SuperBrass
 CutBrass	SpBrassCut
 Tenor&Tp	Tenor&Trp
 SymphBrs	SymphBrass
+BrsSect#	BrassSect#
 QuackBrs	QuackBrass
 RezSynBr	ResoSynBrs
 PolyBras	Poly Brass

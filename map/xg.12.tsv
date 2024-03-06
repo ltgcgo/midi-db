@@ -6,6 +6,7 @@ PianoStr	PianoStrings
 DreamPno	Dream Piano
 ConGrand	ConcertGrand
 DblConGr	DoublConGrnd
+OldAcPno	OldAcouPiano
 GrandP #	Grand Piano#
 BritPnoK	BrightPianoK
 StBrtPno	StBritePiano
@@ -84,6 +85,7 @@ SteelGt#	Steel Gtr. #
 MelloGtr	Mellow Gtr.
 Jazz Amp	Jazz Gtr Amp
 OctPlate	Octave Plate
+MidSJazz	MidSuperJzGt
 NekRough	NeckRoughcst
 PdlSteel	Pedal Steel
 JazzGtr#	Jazz Gtr. #
@@ -267,6 +269,7 @@ SuperBrs	Super Brass
 CutBrass	SuprBrassCut
 Tenor&Tp	Tenor&Trmpt
 SymphBrs	Symph. Brass
+BrsSect#	Brass Sect.#
 QuackBrs	Quack Brass
 RezSynBr	ResoSynthBrs
 SynBras3	SynthBrass 3
