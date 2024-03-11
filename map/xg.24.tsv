@@ -129,6 +129,7 @@ SynBs1Dk	Dark Synth Bass 1
 FastResB	Fast Resonant Bass
 ResoBass	Resonant Bass
 HardReso	Hard Resonant Bass
+MnplisBa	Minneapolis Bass
 MelloSBa	Mellow Synth Bass
 Seq.Bass	Sequenced Bass
 ClkSynBa	Click Synth Bass
@@ -161,6 +162,7 @@ OrchStr2	Orchestral Strings 2
 TremOrch	Tremolo Orch Strings
 Velo.Str	Velocity Strings
 Triste	Triste Strings
+Stacc.Hi	High Staccato Strings
 SwellStr	Swell Strings
 3 OctStr	3 Octave Strings
 5PartStr	5-Part Strings
@@ -180,6 +182,7 @@ OrchHit2	Orchestra Hit 2
 BrsStb80	Brass Stab 80
 BriteTrp	Bright Trumpet
 SoftDTrp	Soft Dark Trumpet
+Blow	Blown Trumpet
 Dbl Blow	Double Blown Trumpet
 SweetTrp	Sweet Trumpet
 MlSwtTrp	Mellow Sweet Trumpet

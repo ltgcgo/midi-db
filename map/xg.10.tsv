@@ -180,6 +180,7 @@ Sqr.Bass	SquareBass
 RubberBa	RubberBass
 Fish	Fish Bass
 HardReso	HardReson.
+MnplisBa	MnplisBass
 Miami Ba	Miami Bass
 AnalogBa	AnalogBass
 RezoBass	Rezzo Bass
@@ -233,6 +234,7 @@ OrcheStr	OrcheStrng
 OrchStr2	OrchStrng2
 TremOrch	Trem.Orch.
 Velo.Str	VeloString
+Stacc.Hi	StaccatoHi
 SwellStr	Swell Str.
 3 OctStr	3 Oct.Str.
 5PartStr	5-Part Str

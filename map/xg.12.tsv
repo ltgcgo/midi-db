@@ -160,6 +160,7 @@ TechnoBa	Techno Bass
 Sqr.Bass	Square Bass
 RubberBa	Rubber Bass
 HardReso	HardResonant
+MnplisBa	MineaplsBass
 AnalogBa	Analog Bass
 MelloSBa	MelloSynBass
 Seq.Bass	SequencedBas
@@ -206,6 +207,7 @@ OrcheStr	OrcheStrings
 OrchStr2	OrchStrings2
 TremOrch	Tremolo Orch
 Velo.Str	Velo Strings
+Stacc.Hi	Hi Staccato
 SwellStr	SwellStrings
 3 OctStr	3 Oct. Str.
 5PartStr	5 Part Str.
