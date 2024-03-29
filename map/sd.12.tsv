@@ -1,20 +1,33 @@
 ID	Name
 StPwrKit	St.Power Kit
+StStdKit	StStandardKt
+AmbStdrd	AmbStandrdKt
+StRoomKt	St. Room Kit
+Amb.Room	Amb.Room Kit
+PowerKt2	Power Kit 2
+GatedPwr	GatedPowerKt
+StJazzKt	St. Jazz Kit
+Amb.Jazz	Amb.Jazz Kit
+SBrushKt	St.Brush Kit
+AmbBrush	Amb.BrushKit
 St.Pno 2	St. Piano 2
+St.Glock	St. Glocken
 RokrSpin	Rocker Spin
 StTrmStr	StTremString
+St. Harp	Stereo Harp
 St.Strs2	St.Strings 2
+Solo Trp	Solo Trumpet
 RmntcTrp	Romantic Trp
 EnMuteTp	Enh.MutedTrp
+StFrHorn	StFrenchHorn
 StBigBrs	St.Big Brass
 BlowTenr	Blown Tenor
 BareBari	BareBaritone
+ClasOboe	Classic Oboe
 Enh.Oboe	EnhancedOboe
+BrtClari	Brt.Clarinet
 JzClari2	Jazz Clari.2
 ChoirPd2	Cosmic Voice
-ClasOboe	Classic Oboe
-BrtClari	Brt.Clarinet
-StFrHorn	StFrenchHorn
-St. Harp	Stereo Harp
-Solo Trp	Solo Trumpet
-St.Glock	St. Glocken
+NylnGtr2	Nylon Gtr. 2
+SftRhode	Soft Rhodes
+BrthTenr	BreathyTenor

@@ -1,21 +1,39 @@
 ID	Name
 StPwrKit	StPowerKit
+StStdKit	StStandKit
+AmbStdrd	AmbStandKt
+RoomKit2	Room Kit 2
+StRoomKt	St.RoomKit
+Amb.Room	AmbRoomKit
+PowerKt2	PowerKit 2
+GatedPwr	GatedPower
+BullyKit	Bully Kit
+StJazzKt	St.JazzKit
+Amb.Jazz	AmbJazzKit
+SBrushKt	StBrushKit
+AmbBrush	AmbBrushKt
 St.Pno 2	St.Piano 2
+St.Glock	St.Glocken
 RokrSpin	RockerSpin
-Violin2V	Violin 2V
+Violin2V	Violin 2v
 StTrmStr	StTremStrs
+St. Harp	StereoHarp
 St.Strs2	StStrings2
+Solo Trp	SoloTrumpt
 RmntcTrp	RomanticTp
 EnMuteTp	EnhMutedTp
+StFrHorn	St.Fr.Horn
 StBigBrs	StBigBrass
 BlowTenr	BlownTenor
 BareBari	Bare Bari.
+ClasOboe	Class.Oboe
 Enh.Oboe	EnhnceOboe
+BrtClari	BriteClari
 JzClari2	JazzClari2
 ChoirPd2	ChoirPad 2
-ClasOboe	Class.Oboe
-BrtClari	BriteClari
-StFrHorn	St.Fr.Horn
-St. Harp	StereoHarp
-Solo Trp	SoloTrumpt
-St.Glock	St.Glocken
+GrndPnoW	Piano 1 w
+NylnGtr2	NylonGtr 2
+SftRhode	SoftRhodes
+AltoSaxV	Alto Sax v
+BrthTenr	BrthyTenor
+JazzBass	Jazz Bass

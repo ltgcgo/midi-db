@@ -1,17 +1,32 @@
 ID	Name
 StPwrKit	Stereo Power Kit
+StStdKit	Stereo Standard Kit
+AmbStdrd	Ambient Standard Kit
+StRoomKt	Stereo Room Kit
+Amb.Room	Ambient Room Kit
+GatedPwr	Gated Power Kit
+StJazzKt	Stereo Jazz Kit
+Amb.Jazz	Ambient Jazz Kit
+SBrushKt	Stereo Brush Kit
+AmbBrush	Ambient Brush Kit
 St.Pno 2	Stereo Piano 2
+St.Glock	Stereo Glockenspiel
 RokrSpin	Rocker Spin Organ
 StTrmStr	Stereo Tremolo Strings
 St.Strs2	Stereo Strings 2
 RmntcTrp	Romantic Trumpet
 EnMuteTp	Enhanced Muted Trumpet
+StFrHorn	Stereo French Horn
 StBigBrs	Stereo Big Brass
 BlowTenr	Blown Tenor Sax
 BareBari	Bare Baritone Sax
 Enh.Oboe	Enhanced Oboe
+BrtClari	Bright Clarinet
 JzClari2	Jazz Clarinet 2
 ChoirPd2	Choir Pad 2
-BrtClari	Bright Clarinet
-StFrHorn	Stereo French Horn
-St.Glock	Stereo Glockenspiel
+Violin2V	Violin 2V
+GrndPnoW	Piano 1 w
+NylnGtr2	Nylon Guitar 2
+SftRhode	Soft Rhodes Piano
+AltoSaxV	Alto Sax V
+BrthTenr	Breathy Tenor Sax
