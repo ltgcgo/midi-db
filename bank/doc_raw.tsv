@@ -1,0 +1,61 @@
+MSB	PRG	LSB	NME
+060	000	000	Brass Section
+060	001	000	Trumpet
+060	002	000	French Horn
+060	003	000	Saxophone
+060	004	000	Clarinet
+060	006	000	Flute 1
+060	007	000	Accordion
+060	008	000	Strings
+060	009	000	Violin
+060	010	000	Full Organ
+060	011	000	Jazz Organ 1
+060	012	000	Grand Piano
+060	013	000	Electric Piano 1
+060	014	000	Harpsichord
+060	015	000	Celesta
+060	016	000	Vibraphone
+060	017	000	Marimba
+060	020	000	Synth Brass
+060	022	000	Crystal
+060	023	000	Timpani
+060	024	000	Gut Guitar
+060	025	000	Jazz Guitar 1
+060	026	000	Rock Guitar 1
+060	028	000	Upright Bass
+060	029	000	Electric Bass
+060	030	000	Electric Slap Bass
+060	031	000	Synth Bass
+060	040	000	Muted Trumpet
+060	041	000	Harmonica
+060	042	000	Choir Aahs
+060	044	000	Synth Wood
+060	045	000	Synth Strings
+060	046	000	Synth Voices
+060	048	000	Mild Piano
+060	050	000	Electric Piano 2
+060	051	000	Bright Piano
+060	053	000	Folk Guitar
+060	055	000	Banjo
+060	056	000	Pizzicato Strings
+060	057	000	Harp
+060	068	000	Clavichord Novatone
+060	069	000	Rock Guitar 2
+060	070	000	Muted Guitar
+060	071	000	Mild Upright Bass
+060	072	000	Jazz Guitar 2
+060	073	000	Pop Brass
+060	074	000	Mild Strings
+060	075	000	Hard Violin
+060	076	000	Pipe Organ
+060	077	000	Mild Saxophone
+060	078	000	Electric Heavy Bass
+060	079	000	Flute 2
+060	081	000	Chamber Strings
+060	082	000	Jazz Organ 2
+060	088	000	Distortion Guitar
+060	089	000	Cosmic 1
+060	090	000	Cosmic 2
+060	091	000	Cosmic 3
+060	092	000	Orchestra Hit
+060	126	000	DOC Kit
