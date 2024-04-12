@@ -1,9 +1,11 @@
 MSB	PRG	LSB	NME
+#			Yamaha DOC
 060	000	000	Brass Section
 060	001	000	Trumpet
 060	002	000	French Horn
 060	003	000	Saxophone
 060	004	000	Clarinet
+060	005	000	Oboe
 060	006	000	Flute 1
 060	007	000	Accordion
 060	008	000	Strings
@@ -51,6 +53,7 @@ MSB	PRG	LSB	NME
 060	077	000	Mild Saxophone
 060	078	000	Electric Heavy Bass
 060	079	000	Flute 2
+060	080	000	Bassoon
 060	081	000	Chamber Strings
 060	082	000	Jazz Organ 2
 060	088	000	Distortion Guitar
