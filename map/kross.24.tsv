@@ -485,25 +485,236 @@ RudeLead	Rude Lead
 63 b9 03	Attacky Pad
 63 c0 03	Poppin' Pad
 63 c1 03	African Brass
-63 c2 03	80 Pad
+63 c2 03	80's Pad
 63 c3 03	Soft Synth Brass
 63 c4 03	Progressive Synth Brass
 63 c5 03	Matrix Crispy
 63 c6 03	Chronologie
 63 c7 03	Aero Pad
-BadDream	Bad Dream Waltzer
+BadDream	Bad Dream Waltzer Pad
+63 01 04	Alexa Pad
+63 02 04	Solaris Pad
+63 03 04	The X Pad
+63 04 04	Swish Pad
+63 05 04	Sweet Pad
+63 06 04	Givin' Pop
+63 07 04	Cosmic Synth Pad
+63 08 04	Synth Sweeper Pad
+63 09 04	Fine HPF Sweep
+63 10 04	Rez Down Pad
 MirrorPd	Mirrored Pad
+63 12 04	Wave Pad
+63 13 04	Meditator Pad
+63 14 04	Chant Pad
+63 15 04	1984 Split
+63 16 04	Surprising Pad
+63 17 04	Pods in the Pad
+63 18 04	Dolphin Pad
 ShmSpkPd	Shimmer Sparkle Pad
+63 20 04	Steelish Pad
+63 21 04	Widescreen Pad
+63 22 04	Flying Pad
+63 23 04	Aqua Phonics Pad
+63 24 04	Flare Pad
 PalwanPd	Palawan Pad
+63 26 04	Moon Cycles Pad
 SwirlPad	Swirl Pad
+63 28 04	New Voyage Pad
+63 29 04	Great Wall Pad
+63 30 04	Off Beat Dark Pad
+63 31 04	Off Beat Bright Pad
+63 32 04	Pump Pad
+63 33 04	Clay Pot - Vox Triplets
+63 34 04	Chilly Pulsar Love Pad
 UVibePad	U-Vibe Pad
-LocoMtiv	Loco Motiv
+63 36 04	Butterfly Pad
+63 37 04	Vox Pulse Pad
+63 38 04	BPM Flashlight Pad
+63 39 04	Emotion Pad
+LocoMtiv	Loco Motiv Pad
+63 41 04	Atmospheric Pulse
+63 42 04	Rhythm Lead
+63 43 04	LFO Fifth Wave
+63 44 04	Tone Wheel Motion
+63 45 04	Minimal Sequencer
+63 46 04	8-bit Land
+63 47 04	Dancing Voice
+63 48 04	Spectral Wave Dance
+63 49 04	Kross Wave Motion
+63 50 04	Wave Sequencer
+63 51 04	Bell Wave Sequencer
+63 52 04	Pad & Bell Wave Sequence
+63 53 04	LFO Run Pad
+NylonGt1	Nylon Guitar 1
+NylonGt2	Nylon Guitar 2
+63 56 04	Flamenco Guitar
+63 57 04	Studio Nylon Guitar
+63 58 04	Nylon Guitar & Strings
+63 59 04	Large Body A. Guitar
+63 60 04	Acoustic Guitar + Noise
+63 61 04	Dynamic Pick A. Guitar
+63 62 04	Fingered Acoustic Guitar
+63 63 04	Sitar Guitar
+63 64 04	Acoustish
+12StrGtr	12-String Guitar
+63 66 04	E. Guitar + Twin
+63 67 04	E. Guitar Dynamic 1
+63 68 04	E. Guitar Dynamic 2
+63 69 04	E. Guitar Funky
+63 70 04	E. Guitar Delay
+63 71 04	E. Guitar Crunch
+63 72 04	E. Guitar Chorus
+63 73 04	Volume Swell E. Guitar
+63 74 04	E. Guitar Tremolo
+63 75 04	E. Guitar Semi Dist.
+63 76 04	E. Guitar Rotary FX
+63 77 04	E. Guitar Tweed Phaser
+63 78 04	E. Guitar U-Vibe
+63 79 04	Auto Wah E. Guitar
+63 80 04	Screaming Tube E. Guitar
+63 81 04	Filthy E. Guitar
+63 82 04	Distorted Mute E. Guitar
+63 83 04	Distorted Wet E. Guitar
+63 84 04	Power Chord E. Guitar
+63 85 04	Vox Wah E. Guitar
+63 86 04	Jazz E. Guitar
+63 87 04	Pedal Steel E. Guitar
 PsycoGtr	Psycho Guitar
-EFngrBa4	Fingered E. Bass 4
-KikBaDcy	Kick Bass/Decay
+63 89 04	Electronica Guitar
+63 94 04	Sitar & Tambura
+63 95 04	Velo Bend Koto
+63 96 04	Harp 1
+63 97 04	Harp 2
+EFngrBa1	Fingered Electric Bass 1
+EFngrBa2	Fingered Electric Bass 2
+EFngrBa3	Fingered Electric Bass 3
+EFngrBa4	Fingered Electric Bass 4
+EPickBa1	Picked Electric Bass 1
+EPickBa2	Picked Electric Bass 2
+EPickBa3	Picked Electric Bass 3
+EPickBa4	Picked Electric Bass 4
+EPickBed	Picked Bed Electric Bass
+63 a7 04	Saturated Electric Bass
+EThmbBa1	Thumb Electric Bass
+EThmbBa2	Thumb Electric Bass
+EFrtlBa1	Fretless Electric Bass 1
+EFrtlBa2	Fretless Electric Bass 2
+EFrtlOct	Octave Fretless E. Bass
+Acou.Ba1	Acoustic Bass 1
+Acou.Ba2	Acoustic Bass 2
+Acou.Ba3	Acoustic Bass 3
+OldAc.Ba	Old Acoustic Bass
+KikBaDcy	Kick Bass / Decay
+63 b8 04	Decayed Bass
+63 b9 04	That Sub Bass Kick
+63 c0 04	Kick Bass / Gate
+63 c1 04	Deep Kick Sub Synth
+63 c2 04	Sine Bass
+63 c3 04	Deep Triangle Bass
+63 c4 04	Dark R&B Bass
+63 c5 04	Digital Bass
+63 c6 04	Boost Synth Bass
+63 c7 04	Tight Bass
+63 01 05	800DV Saw Bass
+63 02 05	Solid Bass
+63 03 05	Octave Bass
+63 04 05	Analog Funk Bass
+63 05 05	Octave MG Bass
+63 06 05	Greasy Synth Bass
+63 07 05	Velo Bark Bass
+63 08 05	Acid Synth Bass
+63 09 05	Square Bass
+63 10 05	Popin' Square Bass
+63 11 05	800DV Square Bass
+63 12 05	Growler Bass
+63 13 05	Euro 8va Sequenced Bass
+63 14 05	Hard Square Bass
+63 15 05	Detuned Euro Bass
+63 16 05	Vintage 80's Bass
+63 17 05	Snappy Fifths Bass
+63 18 05	Dub Tempest Bass
+63 19 05	Dub PsyClone Bass
+63 20 05	Ducking Bass
+63 21 05	DS Hold Bass
+63 22 05	Bass Pulse Mod Wheel
+63 23 05	Wobble Nation Bass
+63 24 05	Triplet Bass Pulse
+63 25 05	Nasty Bass
+63 26 05	Widow Bass
+63 27 05	Octave Quack Bass
+63 28 05	Ruff Blade Bass
+63 29 05	Hard Synth Bass
+63 30 05	Hard Sync Bass
+63 31 05	Organ Bass
+63 32 05	Housey Bass
+RockKit1	Rock Kit 1
+63 34 05	Rock Kit 1 Mono
+RockKit2	Rock Kit 2
+Jazz Kit	Jazz Kit
+63 37 05	Jazz Kit Mono
+63 38 05	Jazz/Brush Kit
+PowerKt1	Power Kit 1
+PowerKt2	Power Kit 2
+BasicKt1	Basic Kit 1
+BasicKt2	Basic Kit 2
+63 44 05	Jazzy Hop Kit
+63 45 05	Urban Hip Hop Kit
+63 46 05	Hip Hop Kit 1
+63 47 05	Hip Hop Kit 2
+63 48 05	Trapper Kit
+63 49 05	Electronic R&B Kit
+63 50 05	New R&B Kit
+63 52 05	Breakbeat Kit
+63 53 05	Drum'n'Bass Kit
+63 54 05	Breaks Kit
+63 55 05	Big Room Kit
+63 56 05	New EDM Kit
 DbstpKit	Dubstep Kit
+63 58 05	Moombahton Kit
 TropicKt	Tropical Kit
+63 60 05	Trance Kit
+63 61 05	House Kit
+63 62 05	Tekno Klub Kit
+63 63 05	Minimal Kit
+63 64 05	Nica/Glitch Kit
+63 65 05	Analog Kit
+63 66 05	Mad Analog Kit
+63 67 05	Tricki Kit
+63 68 05	Human Beat Box Kit
+63 69 05	Percussion Kit
+63 70 05	Orch&Ethno Kit
+63 71 05	Nippon Kit
+BD&SD!!1	Bass & Snare Drum Menu 1
+BD&SD!!2	Bass & Snare Drum Menu 2
+Cymbal!!	Cymbal Menu
+63 75 05	Saw Pizzicato
+63 76 05	Short Square Arp
+63 77 05	Bit Chips
+63 78 05	Chip Triangle
+63 79 05	Chip Square
+63 80 05	Chip Pulse 1
+63 81 05	Chip Pulse 2
+63 82 05	Analog Bell / Harp
+63 83 05	Square / Pulse Synth
+63 84 05	Comp EP. SW1/2
+63 85 05	Organ Percussion Shot
+63 86 05	Synth Mallets 5th
+63 87 05	Metallic Hitter
+63 88 05	Tropical Pizzicato
 TrpclMlt	Tropical Mallet
+63 90 05	Horn Chord Hits
+63 91 05	Disco Strings Hit
+63 92 05	Chord Set 1
+63 93 05	Chord Set 2
+63 94 05	Hip Hop Hits
+63 95 05	Trapper Hit
+63 96 05	Pizzicato Hit
+63 97 05	Power Band Hit
+63 98 05	Impact Band Hit
+63 99 05	Drama Hit Wheel
+63 a0 05	Monster Hit Wheel
+63 a1 05	Chipper Hit
+63 a2 05	Helium Voice
 YahiVoix	Yahi Voices
 NippnSet	Nippon Set
 SmGaisya	Shamisen Gaisya
@@ -511,4 +722,20 @@ SoTsgaru	Soul of Tsugaru
 ShkMondo	Shakuhachi Mondou
 KtoFuryu	Koto Furyu
 MiyabiHt	Miyabi Hit
+63 b0 05	Ring Mod Riser
+63 b1 05	Siren SFX Wheel
+63 b2 05	Monster
+63 b3 05	Crypt-on
+63 b4 05	Stereo Flange Sweep
+63 b5 05	Sonic Blast
+63 b6 05	Soundscapes
+63 b7 05	Steam Sweeps
 AndroidK	Android
+63 b9 05	New North Wind
+63 c0 05	Outside Elements
+63 c1 05	Lore of the Jungle
+63 c2 05	Mega Drum Hit
+63 c4 05	Vocoder Vel Choir
+63 c5 05	SqrSaw Vocoder
+63 c6 05	Mic & Reverb
+63 c7 05	Mic & Doubled
