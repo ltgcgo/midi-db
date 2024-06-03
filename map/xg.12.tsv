@@ -1,6 +1,4 @@
 ID	Name
-LayerCP1	Layered CP 1
-Str.Slap	String Slap
 GrndPnoK	GrandPiano K
 MelloGrP	MellowGrdPno
 PianoStr	PianoStrings
@@ -14,6 +12,7 @@ StBrtPno	StBritePiano
 BriteP #	BrightPiano#
 EGndPnoK	ElGrndPianoK
 Det.CP80	Detuned CP80
+LayerCP1	Layered CP 1
 LayerCP2	Layered CP 2
 HnkyTnkK	HonkyTonk K
 EPiano1K	El.Piano 1 K
@@ -397,9 +396,11 @@ RConBaDr	RevConBaDrum
 Rev. Tom	Reverse Tom
 Rev.Tom2	ReverseTom 2
 RndmWalk	Random Walk
+NstOrSpl	NastyOrSplit
 Malfnctn	Malfunction
 CutNoiz2	Cut Noise 2
 DstCutNz	DistCutNoise
+Str.Slap	String Slap
 P.Scrape	Pick Scrape
 Fl.KClik	FluteKyClick
 HorseGlp	Horse Gallop

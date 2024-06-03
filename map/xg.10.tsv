@@ -1,5 +1,4 @@
 ID	Name
-LayerCP1	LayeredCP1
 Str Slap	StringSlap
 GrndPnoK	GrndPianoK
 MelloGrP	MelloGrPno
@@ -14,6 +13,7 @@ StBrtPno	StBritePno
 BriteP #	BritPiano#
 EGndPnoK	ElGrndPnoK
 Det.CP80	DetuneCP80
+LayerCP1	LayeredCP1
 LayerCP2	LayeredCP2
 HnkyTnkK	HonkyTonkK
 EPiano1K	ElPiano 1K
@@ -501,6 +501,7 @@ BlineHrd	Hard Bline
 Prcesion	Precession
 RndmWalk	RandomWalk
 RandmRun	Random Run
+NstOrSpl	NastyOrSpl
 Malfnctn	Malfnction
 CutNoise	Cut Noise
 CutNoiz2	CutNoise 2
@@ -613,7 +614,7 @@ Ana.Wave	AnalogWave
 Ana.Wurl	AnalgWurly
 FngrBas!	FingerBas!
 UprghtBa	UprightBas
-Fnground	FingrRound
+Fnground	FingrdGrnd
 FlageoBa	FlageoBass
 DampBass	Damp Bass
 Fretles!	Fretless!
