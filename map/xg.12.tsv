@@ -464,7 +464,7 @@ Ana.Wave	Analog Wave
 Ana.Wurl	Analog Wurly
 FngrBas!	FingeredBas!
 UprghtBa	Upright Bass
-Fnground	FingerdRound
+Fnground	FingrdGround
 FlageoBa	Flageo Bass
 Fretles!	FretlessBas!
 Fretls!2	FretlesBas!2
@@ -486,6 +486,7 @@ Stung St	Stung String
 SpcHorse	Space Horse
 EspaGtr!	Spanish Gtr!
 JazzGtr!	Jazz Guitar!
+JazzyGtr	Jazzy Guitar
 L7 Pluck	L7PluckedGtr
 WetPluck	WetPluckdGtr
 Comp.Gtr	Compress.Gtr
@@ -497,7 +498,7 @@ Fat Mini	Fat MiniLead
 SimpleSy	Simple Synth
 Choronic	ChoronicLead
 SlitMinu	Slit Minute
-SynHarmo	SynthHrmonic
+SynHarmo	Synth Harmo.
 Reso.Sqr	Reso. Square
 ChalPuls	ChalkPulseLd
 Brassyn	Brass Synth
