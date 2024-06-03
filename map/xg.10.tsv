@@ -716,6 +716,8 @@ WX Horn	WX Fr Horn
 NuViolin	New Violin
 C Violin	Con.Violin
 BrtVioln	BriteVioln
+MutedVln	MutedVioln
+BrtViola	BriteViola
 Vla Outt	Viola Outt
 Eleanor	EleanorCel
 Nu Cello	New Cello
@@ -734,6 +736,7 @@ WX Shaku	WX Shakuha
 PanPicol	PanPiccolo
 Bamboo	Bamboo Di
 Andean	AndesQuena
+SoftReed	Soft Reed
 NuSoprSx	NewSoprSax
 CvSoprSx	CurvSoprSx
 SoprPipe	SoprnoPipe
@@ -775,12 +778,12 @@ Sylophon	Sylophone
 Bowed Ld	Bowed Lead
 Squeeze	SqeezAcord
 MouthKey	Mouth Key
-AmpdHarp	AmpdHarmnc
-CromHarp	ChromHrmnc
-WahUpHrp	WahUpHrmnc
+AmpdHarp	AmpedHarmo
+CromHarp	ChromHarmo
+WahUpHrp	WahUpHarmo
 YamaBotl	YamaBottle
 CrumBon	CrumTrombn
-ReedWin	Reed Wind
+ReedWin	Reedy Wind
 M-ASoft	M-AdltSoft
 M-AHusky	M-AdtHusky
 F-NMusic	F-NewMusic
