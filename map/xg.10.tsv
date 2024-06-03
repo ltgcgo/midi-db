@@ -1,5 +1,6 @@
 ID	Name
 LayerCP1	LayeredCP1
+Str Slap	StringSlap
 GrndPnoK	GrndPianoK
 MelloGrP	MelloGrPno
 PianoStr	PianoStrng
@@ -504,7 +505,6 @@ Malfnctn	Malfnction
 CutNoise	Cut Noise
 CutNoiz2	CutNoise 2
 DstCutNz	DstCutNoiz
-Str Slap	StringSlap
 B.Slide	Bass Slide
 P.Scrape	PickScrape
 Fl.KClik	FltKyClick
