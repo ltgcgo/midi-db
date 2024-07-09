@@ -29,7 +29,7 @@ DynoStrt	DynoStrait
 ChrsDyno	ChorusDyno
 ChrsHard	ChorusHard
 80th Bst	80th Boost
-R&B Soft	
+R&B Soft	SoftR&BPno
 HrdVintg	HrdVintage
 PhaseVin	Phaser Vin
 SoftCase	Soft Case
@@ -101,144 +101,160 @@ GreenTea	Green Tea
 BassWalk	Bass Walk
 AmpedOrg	AmpedOrgan
 VintageC	Vintage C.
-2nd Perc	
-1685&13	
-JazzyOr1	
-JazzyOr2	
-GlassyOr	
+2nd Perc	2ndPercOrg
+1685&13	16+8+5&1/3
+JazzyOr1	JazzyOrgn1
+JazzyOr2	JazzyOrgn2
 GreasyOr	Greasy Or.
-SwishieO	
-Ful/Cvib	
-MellowPp	
-Nu Shade	
-Cool Cat	
-FluteyOr	
-LeftMnl.	
-DrawCtrl	
-GospSplt	
-SoulemnO	
-FullyOrg	
-Progress	
-CrunchyO	
-RockyOrg	
-DistFull	
-EarlyBrd	
-AnaDrwOr	
-TinyOrgn	
-PaddyOrg	
-MellowOr	
-RezDrwOr	
-OrganPad	
-PantherO	
-SawCombo	
-1967Keys	
-CompactO	
-Espa.Gtr	
-Nyln+Hrm	
-SimpStlG	
-StlCmprG	
-MuteSliG	
-Ac&HrmGt	
-StlSwtch	
-JazzyPik	
-JazGtMel	
-VeloJazz	
-DistantG	
-Dyna.Amp	
-DriveGtr	
-SnekFngr	
-Feedbker	
-KilrWhmy	
-Vuduman	
-CrunchyG	
-SmallAmp	
-LatnLuvr	
-StillBlu	
-MegaAcBs	
-FngrPkBs	
-PrecFW	
-RndWound	
-ActivePk	
-PkBsFgDs	
-FuzzBass	
-MegaFgHm	
-VeloBass	
-SlpSwtch	
-MegaFngr	
-MegaSlap	
-PickOpen	
-PickPull	
-PkMuteDr	
-NewPikBs	
-MegaPkBs	
-FrtlsDry	
-FrtlSolo	
-MegaFrtl	
-SoloStr1	
-SoloStr2	
-SolSpict	
-2Violins	
-Cel.Duet	
-2SoloStr	
-CelloEns	
-ViolaEns	
-ViolnEns	
-CtrbSect	
-SmolSec1	
-SmolSec2	
-MediumEn	
-ViolnMix	
-SpicLine	
+SwishieO	SwishieOrg
+Ful/Cvib	Full/CVib
+MellowPp	MellowPipe
+Nu Shade	NewShadeOr
+Cool Cat	CoolCatOrg
+FluteyOr	FluteyOrgn
+LeftMnl.	LeftManual
+DrawCtrl	DrawContrl
+GospSplt	GosplSplit
+SoulemnO	SoulemnOrg
+FullyOrg	FullyOrgan
+Progress	Progressy
+CrunchyO	CrunchyOrg
+RockyOrg	RockyOrgan
+DistFull	DistFullOr
+EarlyBrd	Early Bird
+AnaDrwOr	AnaDrawbar
+TinyOrgn	Tiny Organ
+PaddyOrg	PaddyOrgan
+MellowOr	Mellow Org
+RezDrwOr	RezDrawOrg
+OrganPad	Organ Pad
+PantherO	Panther Or
+SawCombo	SawComboOr
+1967Keys	1967 Keys
+CompactO	CompactOrg
+Espa.Gtr	SpanishGtr
+Nyln+Hrm	Nylon+Harm
+SimpStlG	SimplStlGt
+StlCmprG	StlCmprsGt
+MuteSliG	Mute&SlidG
+Ac&HrmGt	Acou&HarmG
+StlSwtch	StlSwtchGt
+MegaStlG	MegaStlGtr
+Mega12St	Mega12StrG
+JazzyPik	JazzyPickG
+JazGtMel	JazzGtMelo
+VeloJazz	VeloJazzGt
+2CoilAm1	2CoilAmpG1
+2CoilAm2	2CoilAmpG2
+DistantG	DistantGtr
+AltRockr	AltRockerG
+RotatrGt	RotaterGtr
+Baby Gtr	BabyGuitar
+MegaClnG	MegaCleanG
+OvrDrivn	OverDriven
+Dyna.Amp	DynamicAmp
+DriveGtr	Drive Gtr.
+SnekFngr	SnakeFingr
+Feedbker	Feedbacker
+KilrWhmy	KilrWhammy
+Vuduman	Voodooman
+CrunchyG	CrunchyGtr
+SmallAmp	SmallAmpGt
+LatnLuvr	LatinLover
+StillBlu	Still Blue
+59 Combo	59ComboGtr
+OvrDaTop	OverTheTop
+Beater	Beater Gtr
+MegaAcBs	MegaAcouBs
+FngrPkBs	FingrPikBs
+PrecFW	PrecFWBass
+RndWound	RoundWound
+ActivePk	ActivePick
+GnarlyBa	GnarlyBass
+PkBsFgDs	PkBsFngDst
+FuzzBass	Fuzzy Bass
+MegaFgHm	MegaFngHrm
+VeloBass	Velo Bass
+SlpSwtch	SlapSwitch
+MegaFngr	MegaFinger
+MegaSlap	MegaSlapBs
+PickOpen	OpenPickBs
+PickPull	PullPickBs
+PkMuteDr	MuteDryPik
+NewPikBs	NewPickBas
+MegaPkBs	MegaPickBs
+FrtlsDry	FretlesDry
+FrtlSolo	FretlsSolo
+MegaFrtl	Mega Frtls
+SoloStr1	Solo Str 1
+SoloStr2	Solo Str 2
+SolSpict	SoloSpicat
+2Violins	2 Violins
+Cel.Duet	Cello Duet
+2SoloStr	2 Solo Str
+CelloEns	CelloEnsem
+ViolaEns	ViolaEnsem
+ViolnEns	ViolnEnsem
+CtrbSect	ContraSect
+SmolSec1	SmallSect1
+SmolSec2	SmallSect2
+MediumEn	MediumSEns
+ViolnMix	Violin Mix
+SpicLine	SpicaLines
 Hard Bow	HardBowStr
-BkGround	
-Hole Str	
+BkGround	BackGround
+Hophead	HopheadStr
+Hole Str	HoleString
 Ens Mix	EnsemblMix
 Hard Ens	HardEnsmbl
-Velo Str	
-Big Strs	
-BeautyHp	
-Ste.Harp	
-Pizz.Ens	
-PizzSect	
-Oct.Pizz	
-SoprnoSx	
-SprnoSft	
-Alto Vib	
-VeloAlto	
-TenrSoft	
-Tenor Sx	
-Hip Bari	
-Swt Oboe	
-SmthOboe	
-DblRdQrt	
-C Flute	
-SwtFlute	
+Velo Str	VeloString
+Big Strs	BigStrings
+BeautyHp	BeautyHarp
+Ste.Harp	StereoHarp
+Pizz.Ens	Pizz. Ens.
+PizzSect	Pizz. Sect
+Oct.Pizz	OctavePizz
+Orch.Pl	OrchstrlPl
+VeloFall	Velo Fall
+SoprnoSx	SopranoSax
+SprnoSft	SopranoSft
+Alto Vib	Alto Vib.
+VeloAlto	Velo Alto
+TenrSoft	Tenor Soft
+Tenor Sx	Tenor Sax
+Hip Bari	HipBaritne
+Swt Oboe	Sweet Oboe
+SmthOboe	SmoothOboe
+DblRdQrt	DblRdQuart
+C Flute	CncrtFlute
+SwtFlute	SweetFlute
 IrishPpe	Irish Pipe
-BluzDist	
-Campfire	
-TootsHrp	
-WoodyHrp	
+BluzDist	BluzDistrt
+Campfire	CampfireHm
+TootsHrp	TootsyHarm
+WoodyHrp	Woody Harm
+NomadGtr	Nomad Gtr.
 ChrchOoh	Church Ooh
-Paradies	
-SmthBlue	
-FazerPad	
-FrozenVx	
+Paradies	ParadiesPd
+SmthBlue	SmoothBlue
+FazerPad	Phazer Pad
+FrozenVx	Frozen Vox
 Arclight	ArclightPd
 SilvLake	SilverLake
 FrozenPd	Frozen Pad
 Whisperr	Whisperer
 VintgSaw	VintageSaw
 BriteSaw	Bright Saw
-DuckLead	
-IndaNite	
-SimpleBa	
-Fat Sine	
-OneVoice	
-Fundmntl	
-StoneArp	
+DuckLead	Duck Lead
+Soft RnB	Soft RnBLd
+IndaNite	Inda Night
+SimpleBa	SimpleBass
+Fat Sine	FatSineBas
+OneVoice	OneVoiceBs
+Fundmntl	Fundamentl
+StoneArp	Stone Arp
 HellFire	Hell Fire
 Chromsme	Chromosome
-BigComp	
 PWM Perc	PWM Percu.
 HyperStd	HyperStdKt
 DryStdKt	DryStandrd
@@ -299,11 +315,26 @@ BlyDance	BellyDance
 DanceSnr	DanceSnare
 Spec.SFX	SpecialSFX
 SynthSFX	Synthetic
+SlwSuckr	SlowSucker
+BigBrtBr	BigBriteBr
 BackPdMW	BackPad MW
+RezAtkLd	RezAttakLd
+Dark Uni	DarkUniBas
 BobbyBas	Bobby Bass
+Mini Sub	Mini SubBs
 SinglOsc	Single Osc
-British	British Ld
 Wave Pan	WavePanner
+TrncHook	TranceHook
+MaydayLd	MaydayLead
 TrncMelo	TranceMelo
+BassPedl	Bass Pedal
+DoomBass	Doom Bass
 TranceBa	TranceBass
+DeepPtBa	DeepPntBas
+ProtoTpe	Proto Type
+AmbiBite	AmbienBite
+ShneChrd	ShineChord
+FourSkid	Four Skids
 PolyTrnc	PolyTrance
+MyRealty	My Reality
+ChordzLd	ChordzLead
