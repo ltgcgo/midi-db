@@ -282,133 +282,133 @@ MSB	PRG	LSB	NME	ELC
 062	072	000	User Kit	16
 062	073	000	UserKit2	16
 062	074	000	GM Kit	16
-081	000	000	Sunrise	0
+081	000	000	Sunrise	1
 081	001	000	Piano16'	0
-081	002	000	AltoBrth	0
-081	003	000	TinyDncr	0
-081	004	000	SpruceGt	0
-081	005	000	VibrBell	0
-081	006	000	CrFadeBa	0
-081	007	000	TheStrs.	0
-081	008	000	PowerSyn	0
+081	002	000	AltoBrth	1
+081	003	000	TinyDncr	1
+081	004	000	SpruceGt	1
+081	005	000	VibrBell	1
+081	006	000	CrFadeBa	1
+081	007	000	TheStrs.	1
+081	008	000	PowerSyn	1
 081	009	000	TotalKit	16
-081	010	000	MchinAge	0
-081	011	000	Hot Keys	0
-081	012	000	BrasBand	0
-081	013	000	MaxiTine	0
-081	014	000	Pwr Rock	0
-081	015	000	TablTalk	0
-081	016	000	FngrBass	0
-081	017	000	Lite Vox	0
-081	018	000	ColorPad	0
-081	019	000	Festival	16
-081	020	000	GlideSwp	0
-081	021	000	LastTngo	0
-081	022	000	MagicFlu	0
-081	023	000	Operator	0
-081	024	000	ElectrGt	0
+081	010	000	MchinAge	1
+081	011	000	Hot Keys	1
+081	012	000	BrasBand	1
+081	013	000	MaxiTine	1
+081	014	000	Pwr Rock	1
+081	015	000	TablTalk	1
+081	016	000	FngrBass	1
+081	017	000	Lite Vox	1
+081	018	000	ColorPad	1
+081	019	000	Festival	1
+081	020	000	GlideSwp	1
+081	021	000	LastTngo	1
+081	022	000	MagicFlu	1
+081	023	000	Operator	1
+081	024	000	ElectrGt	1
 081	025	000	Gamelan	0
-081	026	000	Zap Bass	0
-081	027	000	Digi.Air	0
-081	028	000	Analgist	0
-081	029	000	MndoTrem	0
-081	030	000	SpaceWng	0
-081	031	000	GospelOr	0
-081	032	000	Trumpets	0
-081	033	000	FreshAir	0
-081	034	000	RockMute	0
-081	035	000	Dustette	0
+081	026	000	Zap Bass	1
+081	027	000	Digi.Air	1
+081	028	000	Analgist	1
+081	029	000	MndoTrem	1
+081	030	000	SpaceWng	1
+081	031	000	GospelOr	1
+081	032	000	Trumpets	1
+081	033	000	FreshAir	1
+081	034	000	RockMute	1
+081	035	000	Dustette	1
 081	036	000	PickBass	0
-081	037	000	ChambrEn	0
-081	038	000	Wire Pad	0
-081	039	000	Industry	0
+081	037	000	ChambrEn	1
+081	038	000	Wire Pad	1
+081	039	000	Industry	1
 081	040	000	Neutron	0
-081	041	000	PnoHaven	0
-081	042	000	ShkuBend	0
-081	043	000	BowenWav	0
-081	044	000	Cln Funk	0
+081	041	000	PnoHaven	1
+081	042	000	ShkuBend	1
+081	043	000	BowenWav	1
+081	044	000	Cln Funk	1
 081	045	000	SplitBel	0
-081	046	000	Slap It	0
-081	047	000	Anal.Pad	0
-081	048	000	Residue	0
+081	046	000	Slap It	1
+081	047	000	Anal.Pad	1
+081	048	000	Residue	1
 081	049	000	OrchPerc	0
-081	050	000	DreamWld	0
-081	051	000	HrpsiFnk	0
+081	050	000	DreamWld	1
+081	051	000	HrpsiFnk	1
 081	052	000	FlugelHr	0
-081	053	000	Elec.Tap	0
+081	053	000	Elec.Tap	1
 081	054	000	Harmonic	0
-081	055	000	Africana	0
-081	056	000	TechnoBa	0
-081	057	000	Airways	0
-081	058	000	Busy Boy	0
-081	059	000	Heart	0
+081	055	000	Africana	1
+081	056	000	TechnoBa	1
+081	057	000	Airways	1
+081	058	000	Busy Boy	1
+081	059	000	Heartbit	1
 081	060	000	Spectrum	0
-081	061	000	FullPipe	0
-081	062	000	Woodwind	0
-081	063	000	Whirly	0
-081	064	000	Lead Gtr	0
+081	061	000	FullPipe	1
+081	062	000	Woodwind	1
+081	063	000	Whirly	1
+081	064	000	Lead Gtr	1
 081	065	000	Isabelle	0
-081	066	000	FatFrett	0
-081	067	000	PoppinPd	0
+081	066	000	FatFrett	1
+081	067	000	PoppinPd	1
 081	068	000	SoftHorn	0
 081	069	000	Prod.Kit	16
-081	070	000	In Trees	0
-081	071	000	SantaClv	0
-081	072	000	Sforz<Br	0
+081	070	000	In Trees	1
+081	071	000	SantaClv	1
+081	072	000	Sforz<Br	1
 081	073	000	Tine Pad	0
 081	074	000	PdlSteel	0
 081	075	000	Log Drum	0
-081	076	000	House Ba	0
-081	077	000	Ambi.Vox	0
-081	078	000	MonoLead	0
-081	079	000	Hackbret	0
+081	076	000	House Ba	1
+081	077	000	Ambi.Vox	1
+081	078	000	MonoLead	1
+081	079	000	Hackbret	1
 081	080	000	HalifxNS	0
-081	081	000	Drawbars	0
+081	081	000	Drawbars	1
 081	082	000	Fanfare	0
-081	083	000	HardTine	0
-081	084	000	DrGuitar	0
+081	083	000	HardTine	1
+081	084	000	DrGuitar	1
 081	085	000	EtherBel	0
 081	086	000	BassHrmo	0
 081	087	000	Air Vox	0
-081	088	000	Drum Hit	0
+081	088	000	Drum Hit	1
 081	089	000	50sSciFi	0
 081	090	000	SteamCld	0
-081	091	000	Bouzouki	0
+081	091	000	Bouzouki	1
 081	092	000	BrightBr	0
 081	093	000	DWGS EP	0
-081	094	000	JoyStick	0
+081	094	000	JoyStick	1
 081	095	000	WavCycle	0
-081	096	000	Rap Bass	0
-081	097	000	OooohPad	0
+081	096	000	Rap Bass	1
+081	097	000	OooohPad	1
 081	098	000	BrightPd	0
-081	099	000	HarpPlck	0
-081	100	000	Elastik	0
-081	101	000	ExprssPF	0
-081	102	000	PerkySax	0
-081	103	000	CrFadeEP	0
-081	104	000	NylonGtr	0
-081	105	000	JewelBox	0
-081	106	000	WoodnYou	0
-081	107	000	SymphoBr	0
-081	108	000	LeadStab	0
-081	109	000	SpacePet	0
-081	110	000	VS Organ	0
-081	111	000	Brastero	0
-081	112	000	Methn.EP	0
-081	113	000	ShmiMlet	0
-081	114	000	IceFlake	0
-081	115	000	Chester	0
-081	116	000	RthmJunk	0
-081	117	000	BelShwer	0
-081	118	000	Fisa 8'	0
-081	119	000	TmbFlute	0
-081	120	000	Strummer	0
-081	121	000	Sweep Ba	0
-081	122	000	PanMllet	0
-081	123	000	SteamBrs	0
+081	099	000	HarpPlck	1
+081	100	000	ElastkPd	1
+081	101	000	ExprssPF	1
+081	102	000	PerkySax	1
+081	103	000	CrFadeEP	1
+081	104	000	NylonGtr	1
+081	105	000	JewelBox	1
+081	106	000	WoodnYou	1
+081	107	000	SymphoBr	1
+081	108	000	LeadStab	1
+081	109	000	SpacePet	1
+081	110	000	VS Organ	1
+081	111	000	Brastero	1
+081	112	000	Methn.EP	1
+081	113	000	ShmiMlet	1
+081	114	000	IceFlake	1
+081	115	000	Chester	1
+081	116	000	RthmJunk	1
+081	117	000	BelShwer	1
+081	118	000	Fisa 8'	1
+081	119	000	TmbFlute	1
+081	120	000	Strummer	1
+081	121	000	Sweep Ba	1
+081	122	000	PanMllet	1
+081	123	000	SteamBrs	1
 081	124	000	PrieDawn	0
 081	125	000	RotaryOr	0
-081	126	000	Horn Ens	0
+081	126	000	Horn Ens	1
 081	127	000	SuprTine	0
 082	000	000	PpeDream	0
 082	001	000	X Piano	0
