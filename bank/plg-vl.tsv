@@ -132,7 +132,7 @@ MSB	PRG	LSB	NME	VXP
 033	002	006	Sintax	yVl:Sintax
 033	003	006	Eastern	yVl:Eastern
 033	004	006	Trumpet!	yVl:Trumpet!
-033	006	006	SprnoSx!	yVl:SprnoSx!
+033	005	006	SprnoSx!	yVl:SprnoSx!
 033	006	006	LiteAlto	yVl:LiteAlto
 033	007	006	Trombon!	yVl:Trombon!
 033	008	006	BtlFlute	yVl:BtlFlute
