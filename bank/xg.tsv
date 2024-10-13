@@ -105,8 +105,8 @@ MSB	PRG	LSB	NME	ELC	LVL
 000	006	035	Hpschrd3	1	0
 000	006	040	ElecHpsi		
 000	006	064	SynHapsi		
-000	007	000	Clvichrd	0	0
-000	007	001	ClvchrdK	0	0
+000	007	000	Clavinet	0	0
+000	007	001	ClvinetK	0	0
 000	007	027	ClaviWah	1	1
 000	007	040	CosClavi		
 000	007	064	PulseClv	0	1
