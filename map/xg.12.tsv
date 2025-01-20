@@ -1,6 +1,5 @@
 ID	Name
 ClvchrdK	Clavichord K
-ClvinetK	Clavinet K.
 GrndPnoK	GrandPiano K
 MelloGrP	MellowGrdPno
 PianoStr	PianoStrings
@@ -34,6 +33,7 @@ EPiano2#	El. Piano 2#
 HpschrdK	HarpsichordK
 Hpschrd2	Harpsichord2
 Hpschrd3	Harpsichord3
+ClvinetK	Clavinet K.
 ClaviWah	Wah Clavinet
 PulseClv	Pulse Clavi.
 PiercClv	Pierce Clavi

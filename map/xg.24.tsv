@@ -1,6 +1,5 @@
 ID	Name
 ClvchrdK	Clavichord KSP
-ClvinetK	Clavinet KSP
 GrndPnoK	Grand Piano KSP
 MelloGrP	Mellow Grand Piano
 PianoStr	Piano + Strings
@@ -26,6 +25,7 @@ EPiano2#	Electric Piano 2 #
 HpschrdK	Harpsichord KSP
 Hpschrd2	Harpsichord 2
 Hpschrd3	Harpsichord 3
+ClvinetK	Clavinet KSP
 ClaviWah	Wah Clavinet
 PulseClv	Pulse Clavinet
 PiercClv	Pierce Clavinet
@@ -381,6 +381,7 @@ Para.Syn	Para. Synth Bass
 AttakSyn	Attack Synth Bass
 YamSteel	Mountain Steel Drums
 DinoPerc	Dino Percussion
+Formula	Formula Car Engine
 EspaGtr!	Spanish Guitar!
 L7 Pluck	L7 Plucked Guitar
 WetPluck	Wet Plucked Guitar
