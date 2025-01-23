@@ -331,6 +331,8 @@ Dim Saw	Dim Saw Lead
 PulseSaw	Pulse Saw Ld
 Dr. Lead	Doctor Lead
 VeloLead	VelocityLead
+Str8Puls	StraightPuls
+ModulSaw	Modular Saw.
 SimplSaw	Simple Saw.
 SeqAnal.	Seq. Analog
 NoviceLd	Novice Lead
@@ -634,5 +636,6 @@ MM-Clav3	MM-Clavi. 3
 MM-Vibe2	MM-Vibrafn.2
 MM-Vce 4	MM-Voices 4
 DX-SLd 9	DX-SquareLd9
-ModulSaw	Modular Saw.
+J.Hammer	Jack Hammer
 RadioNz	Radio Noise
+Dist5th	Distorted5th

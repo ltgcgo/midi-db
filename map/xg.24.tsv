@@ -267,6 +267,8 @@ DoublSaw	Double Sawtooth Lead
 Dim Saw	Dim Sawtooth Lead
 PulseSaw	Pulse Sawtooth Ld
 VeloLead	Velocity Lead
+Str8Puls	Straight Pulse
+ModulSaw	Modular Sawtooth Lead
 SimplSaw	Simple Sawtooth
 SeqAnal.	Sequenced Analog Lead
 ElecPrim	Electric Primtive
@@ -541,4 +543,4 @@ MM-Clav3	MM-Clavichord 3
 MM-Vibe2	MM-Vibraphone 2
 DX-SLd 9	DX Square Lead 9
 DirtySaw	Dirty Sawtooth Lead
-ModulSaw	Modular Sawtooth Lead
+Dist5th	Distorted Fifth
