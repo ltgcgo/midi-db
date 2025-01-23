@@ -647,6 +647,7 @@ SuperBas	Super Bass
 New Slap	NewSlapBas
 RockPigs	Rock Pigs
 Cybastrg	Cybastring
+Wynth	WindySynth
 Buzz Saw	Buzzy Saw
 Zub Zub	ZubZubLead
 BlueLead	Blue Lead
@@ -659,17 +660,18 @@ Ana.Wave	AnalogWave
 Ana.Wurl	AnalgWurly
 FngrBas!	FingerBas!
 UprghtBa	UprightBas
-Fnground	FingrdGrnd
+Fnground	GrndFingrd
 Birdland	BirdlandBs
 FlageoBa	FlageoBass
 DampBass	Damp Bass
 Fretles!	Fretless!
 Fretls!2	Fretless!2
-ThumBass	Thumb Bass
+ThumBass	Thump Bass
 RockBass	Rock Bass
-SmooBass	SmoothBass
+SmooBass	SmoothBas!
 WarmBass	Warm Bass
-YamaBass	Yama Bass
+YamaBass	YamahaBass
+Bass Cab	Bass Cab.
 FruitBas	FruityBass
 AcidBas!	Acid Bass!
 SqrBass!	SquareBas!
@@ -692,6 +694,7 @@ Stung St	StungStrng
 Waterfon	Waterphone
 DinoPerc	Dino Perc.
 Formula	FormulaCar
+Jurassic	JurassicDn
 Devil	Devil's
 SpcHorse	SpaceHorse
 Suedhead	Suedehead
@@ -849,3 +852,7 @@ MM-Vce 4	MM-Voice 4
 DX-SLd 9	DX-SqrLd 9
 DirtySaw	Dirty Saw
 ANCowbel	AN Cowbell
+HardNoiz	Hard Noise
+ModulSaw	ModularSaw
+FreeEdge	Free Edge
+RadioNz	RadioNoise

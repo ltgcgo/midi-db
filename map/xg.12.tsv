@@ -488,6 +488,7 @@ SimpleBa	Simple Bass
 ClavBass	ClavinetBass
 New Slap	New SlapBass
 Cybastrg	Cyber String
+Wynth	Windy Synth
 Buzz Saw	Buzzy Saw Ld
 Zub Zub	Zub Zub Lead
 OsciLead	OscilateLead
@@ -499,13 +500,16 @@ Ana.Wave	Analog Wave
 Ana.Wurl	Analog Wurly
 FngrBas!	FingeredBas!
 UprghtBa	Upright Bass
-Fnground	FingrdGround
+Fnground	GroundFingrd
 Birdland	BirdlandBass
 FlageoBa	Flageo Bass
 Fretles!	FretlessBas!
 Fretls!2	FretlesBas!2
-SmooBass	Smooth Bass
-YamaBass	MountainBass
+ThumBass	Thumped Bass
+RockBass	OD Rock Bass
+SmooBass	Smooth Bass!
+YamaBass	Yamaha Bass
+Bass Cab	Bass Cabinet
 FruitBas	Fruity Bass
 SqrBass!	Square Bass!
 PlsClav!	Pulse Clavi!
@@ -521,6 +525,7 @@ India	Indian Sitar
 YamSteel	YamaStlDrums
 Stung St	Stung String
 Formula	Formula Car
+Jurassic	JurassicDino
 Devil	Devil's Ring
 SpcHorse	Space Horse
 EspaGtr!	Spanish Gtr!
@@ -629,3 +634,5 @@ MM-Clav3	MM-Clavi. 3
 MM-Vibe2	MM-Vibrafn.2
 MM-Vce 4	MM-Voices 4
 DX-SLd 9	DX-SquareLd9
+ModulSaw	Modular Saw.
+RadioNz	Radio Noise
