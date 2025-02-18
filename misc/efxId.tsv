@@ -1,5 +1,5 @@
 MSB	LSB	Name
-00	00	No Effect
+00	00	Effect Unset
 01	00	XG Hall 1
 01	01	XG Hall 2
 01	06	XG Hall Medium
@@ -20,8 +20,8 @@ MSB	LSB	Name
 08	00	XG Cross Delay
 09	00	XG Early Reflection 1
 09	01	XG Early Reflection 2
-0a	00	XG Gate
-0b	00	XG Reverse Gate
+0a	00	XG Gated Reverb
+0b	00	XG Reversed Gate
 10	00	XG White Room
 11	00	XG Tunnel
 12	00	XG Canyon
@@ -29,6 +29,9 @@ MSB	LSB	Name
 14	00	XG Karaoke 1
 14	01	XG Karaoke 2
 14	02	XG Karaoke 3
+15	00	XG Tempo Delay
+15	08	XG Tempo Echo
+16	00	XG Tempo X Delay
 18	00	KG Hall 1
 18	01	KG Hall 2
 18	02	KG Hall 3
@@ -309,18 +312,19 @@ MSB	LSB	Name
 42	00	XG Celeste 1
 42	01	XG Celeste 2
 42	02	XG Celeste 3
-42	03	XG Celeste 4
+42	08	XG Celeste 4
 43	00	XG Flanger 1
 43	01	XG Flanger 2
 43	07	XG GM Flanger
 43	08	XG Flanger 3
 44	00	XG Symphonic
-45	00	XG Rotary
+45	00	XG Rotary Speaker
 45	01	XG Distort+Rotary
 45	02	XG Overdrive+Rotary
 45	03	XG Amp Sim+Rotary
 46	00	XG Tremolo
 47	00	XG Auto Pan
+47	01	XG Auto Pan 2
 48	00	XG Phaser 1
 48	08	XG Phaser 2
 49	00	XG Distortion
@@ -329,6 +333,7 @@ MSB	LSB	Name
 4a	00	XG Overdrive
 4a	08	XG Stereo Overdrive
 4b	00	XG Amp Simulator
+4b	01	XG Amp Simulator 2
 4b	08	XG Stereo Amp Sim
 4c	00	XG 3-band EQ
 4d	00	XG 2-band EQ
