@@ -35,3 +35,5 @@ map/xg.10.tsv
 map/xg.12.tsv
 map/xg.24.tsv
 misc/efxId.tsv
+misc/yStyle.tsv
+misc/y2Byte.tsv
