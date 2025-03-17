@@ -66,7 +66,7 @@ SteelGt2	Steel Guitar 2
 12StrGtr	12-String Guitar
 Nyln&Stl	Nylon & Steel Guitar
 Stl&Body	Steel Guitar & Body
-Nashvill	Nashville Guitar
+Nashv.Gt	Nashville Guitar
 OldSampl	Old Sample Guitar
 SteelGt#	Steel Guitar #
 MelloGtr	Mellow Guitar
@@ -88,7 +88,7 @@ GrvyMtGt	Groovy Muted Guitar
 Mu.DstGt	Muted Distortion Guitar
 MutedGt#	Muted Guitar #
 OvdrGtDt	Detuned Overdrive Guitar
-BriMnhtn	Bright Manhattan
+BrtMnhtn	Bright Manhattan
 Ovrdriv#	Overdriven #
 DstRthmG	Distorted Rhythm Guitar
 DistGtr2	Distortion Guitar 2
@@ -113,7 +113,7 @@ FngrSlap	Fingered Slap Bass
 FngrBas2	Fingered Bass 2
 Mod Bass	Modulation Bass
 RezChase	Resonant Chase
-FW EBass	Finger W Electric Bass
+FW EBass	Fingered W. E. Bass
 FingrBa#	Fingered Bass #
 PickBas2	Picked Bass 2
 M.PkBass	Muted Picked Bass
@@ -161,16 +161,16 @@ SlwTrStr	Slow Tremolo Strings
 Susp.Str	Suspense Strings
 BrTrmStr	Bright Tremolo Strings
 TremStr#	Tremolo Strings #
-PizzOcta	Pizzcato Octave
+PizzOct.	Pizzcato Octave
 ElecHarp	Electric Harp
 DtVliHrp	Detuned Violin Harp
 StStrngs	Stereo Strings
 SforzStr	Sforzando Strings
-OrcheStr	Orchestral Strings
+Orch.Str	Orchestral Strings
 OrchStr2	Orchestral Strings 2
 TremOrch	Tremolo Orch Strings
 Velo.Str	Velocity Strings
-Triste	Triste Strings
+TrsteStr	Triste Strings
 Stacc.Hi	High Staccato Strings
 SwellStr	Swell Strings
 3 OctStr	3 Octave Strings
@@ -558,5 +558,6 @@ MM-Vibe2	MM-Vibraphone 2
 DX-SLd 9	DX Square Lead 9
 AnalgStr	Analog Strings
 DirtySaw	Dirty Sawtooth Lead
+FreeEdge	Free Edge Rhythm
 BPF Step	Band Passed Steps
 Dist.5th	Distorted Fifth

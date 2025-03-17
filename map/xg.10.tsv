@@ -94,7 +94,7 @@ SteelGt2	Steel Gt.2
 12StrGtr	12-Str Gt.
 Nyln&Stl	Nyln&Steel
 Stl&Body	Steel&Body
-Nashvill	Nashville
+Nashv.Gt	Nashville
 OldSampl	Old Sample
 SteelGt#	Steel Gt.#
 MelloGtr	Mellow Gt.
@@ -121,7 +121,7 @@ Mu.DstGt	MuteDistGt
 MutedGt#	Muted Gt.#
 OvdrGtDt	OvdrGtrDet
 Gt.Pinch	Gtr. Pinch
-BriMnhtn	BriteMnhtn
+BrtMnhtn	BriteMnhtn
 Ovrdriv#	Overdrive#
 DstRthmG	DistRthmGt
 DistGtr2	Dist.Gtr 2
@@ -152,7 +152,7 @@ Jazzy Ba	Jazzy Bass
 Mod Bass	Modul.Bass
 RezChase	Reso.Chase
 BlueBass	Blues Bass
-FW EBass	FgrW EBass
+FW EBass	FngrWEBass
 FingrBa#	FingerBas#
 PickBas2	PickedBas2
 M.PkBass	MutePkBass
@@ -230,7 +230,7 @@ Det.Fear	DetuneFear
 Apoclyps	Apocalypse
 BrTrmStr	BrtTremStr
 TremStr#	Trem.Str #
-PizzOcta	PizzOctave
+PizzOct.	PizzOctave
 YangChin	Yang Chin
 ElecHarp	Elec. Harp
 VlinHarp	ViolinHarp
@@ -241,7 +241,7 @@ Slow Str	SlowString
 SforzStr	SfzStrings
 Arco Str	ArcoString
 60sStrng	60s'String
-OrcheStr	OrcheStrng
+Orch.Str	OrchString
 OrchStr2	OrchStrng2
 TremOrch	Trem.Orch.
 Velo.Str	VeloString
