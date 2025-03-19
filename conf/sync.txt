@@ -1,8 +1,9 @@
 bank/gm2.tsv
-bank/gmega.tsv
+bank/xg.tsv
 bank/gs.tsv
-bank/kross.tsv
 bank/ns5r.tsv
+bank/gmega.tsv
+bank/ymh.tsv
 bank/plg-an.tsv
 bank/plg-dr.tsv
 bank/plg-dx.tsv
@@ -10,11 +11,12 @@ bank/plg-pf.tsv
 bank/plg-sg.tsv
 bank/plg-vl.prop.tsv
 bank/plg-vl.tsv
+bank/cs2x.tsv
 bank/s90es.tsv
+bank/kross.tsv
 bank/sd.tsv
-bank/sg.tsv
-bank/xg.tsv
-bank/ymh.tsv
+map/cs2x.10.tsv
+map/cs2x.24.tsv
 map/gm.10.tsv
 map/gm.12.tsv
 map/gm.24.tsv

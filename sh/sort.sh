@@ -15,6 +15,8 @@ deno run --allow-all utils/mapOrder.js map/sd.24.tsv bank/sd.tsv > map/sd.24.tsv
 deno run --allow-all utils/mapOrder.js map/s90es.10.tsv bank/s90es.tsv > map/s90es.10.tsv.sorted
 deno run --allow-all utils/mapOrder.js map/s90es.12.tsv bank/s90es.tsv > map/s90es.12.tsv.sorted
 deno run --allow-all utils/mapOrder.js map/s90es.24.tsv bank/s90es.tsv > map/s90es.24.tsv.sorted
+deno run --allow-all utils/mapOrder.js map/cs2x.10.tsv bank/cs2x.tsv > map/cs2x.10.tsv.sorted
+deno run --allow-all utils/mapOrder.js map/cs2x.24.tsv bank/cs2x.tsv > map/cs2x.24.tsv.sorted
 deno run --allow-all utils/mapOrder.js map/kross.24.tsv bank/kross.tsv > map/kross.24.tsv.sorted
 # Mover
 cd map
