@@ -5,11 +5,13 @@ MelloGrP	MellowGrdPno
 PianoStr	PianoStrings
 DreamPno	Dream Piano
 ConGrand	ConcertGrand
+ConGrndK	ConcrtGrandK
 DblConGr	DoublConGrnd
 OldAcPno	OldAcouPiano
 GrandP #	Grand Piano#
 BritPnoK	BrightPianoK
 StBrtPno	StBritePiano
+DetBrPno	Det.BritePno
 BriteP #	BrightPiano#
 EGndPnoK	ElGrndPianoK
 Det.CP80	Detuned CP80
@@ -21,6 +23,9 @@ ChorusEP	Chorus EP 1
 HardEPno	Hard El. Pno
 VX E.Pno	VX El. Piano
 60sElPno	60's ElPiano
+Diploid1	Diploid EP 1
+Diploid2	Diploid EP 2
+Diploid3	Diploid EP 3
 Easy EP	Easy EP.
 EPiano1#	El. Piano 1#
 EPiano2K	El.Piano 2 K
@@ -29,6 +34,8 @@ DXLegend	DX Legend EP
 DX Phase	DX Phase EP
 DXAnalog	DX Analog EP
 VX EPno2	VX El.Piano2
+Shirakwa	Shirakawa EP
+ShivrDX+	Shiver DX +
 EPiano2#	El. Piano 2#
 HpschrdK	HarpsichordK
 Hpschrd2	Harpsichord2
@@ -38,6 +45,7 @@ ClaviWah	Wah Clavinet
 PulseClv	Pulse Clavi.
 PiercClv	Pierce Clavi
 SupClavi	Super Clavi.
+HardyPlk	Hardy Pluck
 Clavi. #	Clavinet   #
 S. Orgel	Small Orgel
 VibrafnK	Vibraphone K
@@ -60,6 +68,7 @@ DetPrcOr	Det.Perc Org
 LightOrg	Light Organ
 PercOrg2	Perc Organ 2
 WarmJazz	Warm Jazz Or
+BeepOrgn	Beep Organ
 PercOrg#	Perc Organ #
 RotaryOr	Rotary Organ
 SlwRotar	Slow Rotary
@@ -101,6 +110,7 @@ HammrSt.	StereoHammer
 Funk Gtr	Funk Gtr. 1
 MuteStlG	MutedSteelGt
 FunkGtr2	Funk Guitar2
+WrenchGt	Wrench Gtr.
 Heavy Wr	Heavy Wrench
 GrvyMtGt	Groovy Mt Gt
 Mu.DstGt	MutedDistGtr
@@ -164,6 +174,7 @@ Sqr.Bass	Square Bass
 RubberBa	Rubber Bass
 HardReso	HardResonant
 StimuliB	Stimuli Bass
+TkinPuls	Talkin Pulse
 SweepSqr	Sweep Square
 MnplisBa	MineaplsBass
 HammerBa	Hammer Bass
@@ -178,6 +189,7 @@ X WireBa	X Wire Bass
 AtkPulse	Attack Pulse
 F.OsciBa	ForceOsciBas
 CubitBa+	Cubit Bass +
+PlnPulse	Plain Pulse
 PowerSaw	Powered Saw
 SynthAtk	Synth Attack
 SmoothBs	Smooth Bass
@@ -215,7 +227,10 @@ Orch.Str	Orch.Strings
 OrchStr2	OrchStrings2
 TremOrch	Tremolo Orch
 Velo.Str	Velo Strings
-Stacc.Hi	Hi Staccato
+Stacc.Hi	HighStaccato
+Stacc.Hi	HighStaccato
+Stacc.Lo	Low Staccato
+SolidStr	Solid String
 SwellStr	SwellStrings
 3 OctStr	3 Oct. Str.
 5PartStr	5 Part Str.
@@ -327,7 +342,9 @@ ShmoogLd	Shmoog Lead
 DblOsci.	DoubleOscil.
 MellowSq	Mellow Sqr.
 SoloSine	Solo Sine Ld
+AccentLd	Accent Lead
 FMSlwSwp	FM SlowSweep
+OctvBeep	Octave Beep
 SawLead2	Saw. Lead 2
 ThickSaw	Thick Saw Ld
 Dyna.Saw	Dynamic Saw
@@ -340,6 +357,7 @@ Dim Saw	Dim Saw Lead
 PulseSaw	Pulse Saw Ld
 Dr. Lead	Doctor Lead
 VeloLead	VelocityLead
+Dunce Ld	Dunce Lead
 Str8Puls	StraightPuls
 ModulSaw	Modular Saw.
 SimplSaw	Simple Saw.

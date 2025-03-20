@@ -4,11 +4,13 @@ GrndPnoK	Grand Piano KSP
 MelloGrP	Mellow Grand Piano
 PianoStr	Piano + Strings
 ConGrand	Concert Grand Piano
+ConGrndK	Concert Grand KSP
 DblConGr	Double Concert Grand
 OldAcPno	Old Acoustic Piano
 GrandP #	Grand Piano #
 BritPnoK	Bright Piano KSP
 StBrtPno	Stereo Bright Piano
+DetBrPno	Detuned Bright Piano
 BriteP #	Bright Piano #
 EGndPnoK	Electric Grand Piano KSP
 HnkyTnkK	Honky Tonk KSP
@@ -17,11 +19,15 @@ MellowEP	Mellow Electric Piano
 HardEPno	Hard Electric Piano
 VX E.Pno	VX Electric Piano
 60sElPno	60s' Electric Piano
+Diploid1	Diploid EP. 1
+Diploid2	Diploid EP. 2
+Diploid3	Diploid EP. 3
 4 Way EP	4 Way E. Piano
 Easy EP	Easy Electric Piano
 EPiano1#	Electric Piano 1 #
 EPiano2K	Electric Piano 2 KSP
 VX EPno2	VX Electric Piano 2
+ShivrDX+	Shivering DX +
 EPiano2#	Electric Piano 2 #
 HpschrdK	Harpsichord KSP
 Hpschrd2	Harpsichord 2
@@ -84,6 +90,7 @@ HammrSt.	Stereo Hammer Guitar
 Funk Gtr	Funk Guitar 1
 MuteStlG	Muted Steel Guitar
 FunkGtr2	Funk Guitar 2
+WrenchGt	Wrench Guitar
 GrvyMtGt	Groovy Muted Guitar
 Mu.DstGt	Muted Distortion Guitar
 MutedGt#	Muted Guitar #
@@ -134,6 +141,7 @@ SynBs1Dk	Dark Synth Bass 1
 FastResB	Fast Resonant Bass
 ResoBass	Resonant Bass
 HardReso	Hard Resonant Bass
+TkinPuls	Talking Pulse
 SweepSqr	Sweep Square Bass
 MnplisBa	Minneapolis Bass
 MelloSBa	Mellow Synth Bass
@@ -171,7 +179,9 @@ OrchStr2	Orchestral Strings 2
 TremOrch	Tremolo Orch Strings
 Velo.Str	Velocity Strings
 TrsteStr	Triste Strings
-Stacc.Hi	High Staccato Strings
+Stacc.Hi	High Staccato
+Stacc.Hi	High Staccato
+SolidStr	Solid Strings
 SwellStr	Swell Strings
 3 OctStr	3 Octave Strings
 5PartStr	5-Part Strings
