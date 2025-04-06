@@ -18,6 +18,7 @@ deno run --allow-all utils/mapOrder.js map/s90es.24.tsv bank/s90es.tsv > map/s90
 deno run --allow-all utils/mapOrder.js map/cs2x.10.tsv bank/cs2x.tsv > map/cs2x.10.tsv.sorted
 deno run --allow-all utils/mapOrder.js map/cs2x.24.tsv bank/cs2x.tsv > map/cs2x.24.tsv.sorted
 deno run --allow-all utils/mapOrder.js map/kross.24.tsv bank/kross.tsv > map/kross.24.tsv.sorted
+deno run --allow-all utils/mapOrder.js map/pa.24.tsv bank/pa.tsv > map/pa.24.tsv.sorted
 # Mover
 cd map
 ls -1 *.sorted | while IFS= read -r file; do
