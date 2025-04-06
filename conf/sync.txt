@@ -15,6 +15,7 @@ bank/cs2x.tsv
 bank/s90es.tsv
 bank/kross.tsv
 bank/sd.tsv
+bank/pa.tsv
 map/cs2x.10.tsv
 map/cs2x.24.tsv
 map/gm.10.tsv
@@ -24,6 +25,7 @@ map/gs.10.tsv
 map/gs.12.tsv
 map/gs.24.tsv
 map/kross.24.tsv
+map/pa.24.tsv
 map/ns5r.10.tsv
 map/ns5r.12.tsv
 map/ns5r.24.tsv
