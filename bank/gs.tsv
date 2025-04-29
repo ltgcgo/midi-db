@@ -381,12 +381,11 @@ LSB	PRG	MSB	NME	ELC	LVL	VXP
 004	038	034	AtkSinBa		4	gs4:AtkSinBa
 004	038	035	OBSineBa		4	gs4:OBSineBa
 004	038	036	Aux Bass		4	gs4:Aux Bass
-004	038	040	303SqDst		4	gs4:303SqDst
-004	038	041	303SqDs2		4	gs4:303SqDs2
-004	038	042	303SqDs3		4	gs4:303SqDs3
-004	038	043	303SqrRv		4	gs4:303SqrRv
+004	038	040	303SqDsB		4	gs4:303SqDsB
+004	038	041	303SqDB2		4	gs4:303SqDB2
+004	038	042	303SqDB3		4	gs4:303SqDB3
+004	038	043	303SqBRv		4	gs4:303SqBRv
 004	038	044	TeeBee		4	gs4:TeeBee
-000	039	049	SynBass2	1	1	gs1:SynBass2
 000	039	049	SynBass2	1	1	gs1:SynBass2
 002	039	001	SynBa201		2	gs2:SynBa201
 002	039	002	ModulrBs		2	gs2:ModulrBs
@@ -1127,7 +1126,6 @@ LSB	PRG	MSB	NME	ELC	LVL	VXP
 004	108	009	Bodhran		4	gs4:Bodhran
 004	108	010	MuteBodh		4	gs4:MuteBodh
 000	109	049	Bagpipe	0	1	gs1:Bagpipe
-000	109	049	Bagpipe	0	1	gs1:Bagpipe
 003	109	008	Didgrdoo		3	gs3:Didgrdoo
 004	109	009	UillPipe		4	gs4:UillPipe
 004	109	010	UillPpNm		4	gs4:UillPpNm
@@ -1402,16 +1400,16 @@ LSB	PRG	MSB	NME	ELC	LVL	VXP
 126	016	049	SlapBass	0	1	gs1:SlapBass
 126	017	049	SlapBass	0	1	gs1:SlapBass
 126	018	049	SlapBass	0	1	gs1:SlapBass
-126	019	049	SlapBa 2	0	1	gs1:SlapBa 2
-126	020	049	SlapBa 2	0	1	gs1:SlapBa 2
-126	021	049	SlapBa 2	0	1	gs1:SlapBa 2
-126	022	049	SlapBa 2	0	1	gs1:SlapBa 2
+126	019	049	SlapBas2	0	1	gs1:SlapBas2
+126	020	049	SlapBas2	0	1	gs1:SlapBas2
+126	021	049	SlapBas2	0	1	gs1:SlapBas2
+126	022	049	SlapBas2	0	1	gs1:SlapBas2
 126	023	049	FngrBass	0	1	gs1:FngrBass
 126	024	049	FngrBass	0	1	gs1:FngrBass
 126	025	049	PickBass	0	1	gs1:PickBass
 126	026	049	PickBass	0	1	gs1:PickBass
 126	027	049	Fretless	0	1	gs1:Fretless
-126	028	049	AcouBass	0	1	gs1:AcouBass
+126	028	049	Aco.Bass	0	1	gs1:Aco.Bass
 126	029	049	ChoirAah	0	1	gs1:ChoirAah
 126	030	049	ChoirAah	0	1	gs1:ChoirAah
 126	031	049	ChoirAah	0	1	gs1:ChoirAah
@@ -1475,7 +1473,7 @@ LSB	PRG	MSB	NME	ELC	LVL	VXP
 127	025	049	SynBras2	2	1	gs1:SynBras2
 127	026	049	SynBras3	1	1	gs1:SynBras3
 127	027	049	SynBras4	1	1	gs1:SynBras4
-127	028	049	Syn.Bass	1	1	gs1:Syn.Bass
+127	028	049	SynBass1	1	1	gs1:SynBass1
 127	029	049	SynBass2	1	1	gs1:SynBass2
 127	030	049	SynBass3	1	1	gs1:SynBass3
 127	031	049	SynBass4	0	1	gs1:SynBass4
@@ -1511,12 +1509,12 @@ LSB	PRG	MSB	NME	ELC	LVL	VXP
 127	061	049	Elec.Gtr	3	1	gs1:Elec.Gtr
 127	062	049	ElecGtr2	2	1	gs1:ElecGtr2
 127	063	049	Sitar	3	1	gs1:Sitar
-127	064	049	AcouBass	1	1	gs1:AcouBass
+127	064	049	Aco.Bass	1	1	gs1:Aco.Bass
 127	065	049	AcouBas2	0	1	gs1:AcouBas2
 127	066	049	ElecBass	1	1	gs1:ElecBass
 127	067	049	ElecBas2	0	1	gs1:ElecBas2
 127	068	049	SlapBass	2	1	gs1:SlapBass
-127	069	049	SlpBass2	1	1	gs1:SlpBass2
+127	069	049	SlapBas2	1	1	gs1:SlapBas2
 127	070	049	Fretless	3	1	gs1:Fretless
 127	071	049	Fretles2	1	1	gs1:Fretles2
 127	072	049	Flute	3	1	gs1:Flute
@@ -1534,7 +1532,7 @@ LSB	PRG	MSB	NME	ELC	LVL	VXP
 127	084	049	Oboe	1	1	gs1:Oboe
 127	085	049	Eng.Horn	1	1	gs1:Eng.Horn
 127	086	049	Bassoon	1	1	gs1:Bassoon
-127	087	049	Hrmonica	1	1	gs1:Hrmonica
+127	087	049	Harmnica	1	1	gs1:Harmnica
 127	088	049	Trumpet	2	1	gs1:Trumpet
 127	089	049	Trumpet2	1	1	gs1:Trumpet2
 127	090	049	Trombone	2	1	gs1:Trombone
@@ -1570,7 +1568,7 @@ LSB	PRG	MSB	NME	ELC	LVL	VXP
 127	120	049	Cascanet	1	1	gs1:Cascanet
 127	121	049	Triangle	1	1	gs1:Triangle
 127	122	049	Orch.Hit	3	1	gs1:Orch.Hit
-127	123	049	Telephon	0	1	gs1:Telephon
+127	123	049	Telphone	0	1	gs1:Telphone
 127	124	049	Tweet	0	1	gs1:Tweet
 127	125	049	1NoteJam	3	1	gs1:1NoteJam
 127	126	049	WaterBel	2	1	gs1:WaterBel

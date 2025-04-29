@@ -187,7 +187,6 @@ gs3:RockOrg2
 gs3:RockOrg3		
 gs2:FstRotar		
 gs1:ChrchOrg		
-gs1:ChrchOrg		
 gs1:ChurOrg2		
 gs1:ChurOrg3		
 gs2:OrgFlute		
@@ -382,12 +381,11 @@ gs4:RingBass
 gs4:AtkSinBa		
 gs4:OBSineBa		
 gs4:Aux Bass		
-gs4:303SqDst		
-gs4:303SqDs2		
-gs4:303SqDs3		
-gs4:303SqrRv		
+gs4:303SqDsB		
+gs4:303SqDB2		
+gs4:303SqDB3		
+gs4:303SqBRv		
 gs4:TeeBee		
-gs1:SynBass2		
 gs1:SynBass2		
 gs2:SynBa201		
 gs2:ModulrBs		
@@ -1128,7 +1126,6 @@ gs3:Sanza
 gs4:Bodhran		
 gs4:MuteBodh		
 gs1:Bagpipe		
-gs1:Bagpipe		
 gs3:Didgrdoo		
 gs4:UillPipe		
 gs4:UillPpNm		
@@ -1384,78 +1381,12 @@ gs1:Xplosion
 gs3:Eruption		
 gs3:Big Shot		
 gs4:Xploshn2		
-gs1:BritePno		
-gs1:BritePno		
-gs1:BritePno		
-gs1:HnkyTonk		
-gs1:GrandPno		
-gs1:BritePno		
-gs1:BritePno		
-gs1:ElPiano1		
-gs1:Det.EP 1		
-gs1:ElPiano2		
-gs1:SteelGtr		
-gs1:SteelGtr		
-gs1:12StrGtr		
-gs1:Funk Gtr		
-gs1:MutedGtr		
-gs1:SlapBass		
-gs1:SlapBass		
-gs1:SlapBass		
-gs1:SlapBass		
-gs1:SlapBa 2		
-gs1:SlapBa 2		
-gs1:SlapBa 2		
-gs1:SlapBa 2		
-gs1:FngrBass		
-gs1:FngrBass		
-gs1:PickBass		
-gs1:PickBass		
-gs1:Fretless		
-gs1:AcouBass		
-gs1:ChoirAah		
-gs1:ChoirAah		
-gs1:ChoirAah		
-gs1:ChoirAah		
 gs1:Slow Str		
 gs1:Strings		
-gs1:Syn.Str3		
-gs1:Syn.Str3		
-gs1:DrawOrgn		
-gs1:DrawOrgn		
-gs1:DrawOrgn		
-gs1:PercOrgn		
-gs1:DrawOrgn		
-gs1:DrawOrgn		
-gs1:PercOrgn		
-gs1:PercOrgn		
-gs1:PercOrgn		
-gs1:Trumpet		
-gs1:Trumpet		
-gs1:Trombone		
-gs1:Trombone		
-gs1:Trombone		
-gs1:Trombone		
-gs1:Trombone		
-gs1:Trombone		
-gs1:Alto Sax		
-gs1:TenorSax		
-gs1:Bari.Sax		
-gs1:Alto Sax		
-gs1:BrasSect		
-gs1:BrasSect		
 gs1:SynBrass		
-gs1:SynBrass		
-gs1:BrasSect		
-gs1:Orch.Hit		
-gs1:GrandPno		
-gs1:BritePno		
 gs1:MelloGrP		
-gs1:ElPiano1		
-gs1:ElPiano2		
 gs1:ElPiano3		
 gs1:ElPiano4		
-gs1:HnkyTonk		
 gs1:ElecOrgn		
 gs1:ElecOrg2		
 gs1:ElecOrg3		
@@ -1463,35 +1394,19 @@ gs1:ElecOrg4
 gs1:PipeOrgn		
 gs1:PipeOrg2		
 gs1:PipeOrg3		
-gs1:Acordion		
-gs1:Hrpschrd		
 gs1:Hpschrd2		
 gs1:Hpschrd3		
 gs1:Clvichrd		
 gs1:Clavi. 2		
 gs1:Clavi. 3		
-gs1:Celesta		
 gs1:Celesta2		
-gs1:SynBrass		
-gs1:SynBras2		
-gs1:SynBras3		
-gs1:SynBras4		
-gs1:Syn.Bass		
-gs1:SynBass2		
-gs1:SynBass3		
-gs1:SynBass4		
 gs1:Fantasy		
 gs1:HarmoPan		
 gs1:Chorale		
 gs1:Glasses		
-gs1:SoundTrk		
-gs1:Atmosphr		
 gs1:WarmBell		
 gs1:FunnyVox		
-gs1:EchoBell		
-gs1:Ice Rain		
 gs1:Oboe2001		
-gs1:Echo Pan		
 gs1:Dr. Solo		
 gs1:Sch.Daze		
 gs1:Belsingr		
@@ -1499,80 +1414,34 @@ gs1:Sqr.Lead
 gs1:Str Sect		
 gs1:StrSect2		
 gs1:StrSect3		
-gs1:Pizz.Str		
-gs1:Violin		
 gs1:Violin 2		
-gs1:Cello		
 gs1:Cello 2		
-gs1:Contrbas		
-gs1:Harp		
 gs1:Harp 2		
 gs1:Guitar		
 gs1:Guitar 2		
 gs1:Elec.Gtr		
 gs1:ElecGtr2		
-gs1:Sitar		
-gs1:AcouBass		
 gs1:AcouBas2		
 gs1:ElecBass		
 gs1:ElecBas2		
-gs1:SlapBass		
-gs1:SlpBass2		
-gs1:Fretless		
 gs1:Fretles2		
-gs1:Flute		
 gs1:Flute 2		
-gs1:Piccolo		
 gs1:Piccolo2		
-gs1:Recorder		
 gs1:Pan Pipe		
-gs1:SprnoSax		
-gs1:Alto Sax		
-gs1:TenorSax		
-gs1:Bari.Sax		
-gs1:Clarinet		
 gs1:Clrinet2		
-gs1:Oboe		
-gs1:Eng.Horn		
-gs1:Bassoon		
-gs1:Hrmonica		
-gs1:Trumpet		
 gs1:Trumpet2		
-gs1:Trombone		
-gs1:Trombon2		
-gs1:FrchHorn		
-gs1:FrHorn 2		
-gs1:Tuba		
-gs1:BrasSect		
 gs1:BrasSec2		
-gs1:Vibrafon		
 gs1:Vibrfon2		
-gs1:SynMalet		
 gs1:Windbell		
-gs1:Glocken		
-gs1:TubulBel		
-gs1:Xylophon		
-gs1:Marimba		
-gs1:Koto		
 gs1:Sho		
-gs1:Shakhchi		
-gs1:Whistle		
 gs1:Whistle2		
-gs1:BotlBlow		
 gs1:BrthPipe		
-gs1:Timpani		
-gs1:MelodTom		
 gs1:Dp Snare		
-gs1:ElecPerc		
 gs1:El.Perc2		
-gs1:Taiko		
 gs1:TaikoRim		
 gs1:Cymbal		
 gs1:Cascanet		
 gs1:Triangle		
-gs1:Orch.Hit		
-gs1:Telephon		
-gs1:Tweet		
 gs1:1NoteJam		
 gs1:WaterBel		
 gs1:JnglTune		
@@ -1614,5 +1483,4 @@ gs4:RyFX3 Kt
 gs4:SFX Kt 2		
 gs4:VoiceKit		
 gs4:CymblKt2		
-gs1:MT-32 Kt		
 gs1:MT-32 Kt		
