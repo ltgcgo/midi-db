@@ -1,6 +1,7 @@
 bank/gm2.tsv
 bank/xg.tsv
 bank/gs.tsv
+bank/gs.prop.tsv
 bank/ns5r.tsv
 bank/gmega.tsv
 bank/ymh.tsv
