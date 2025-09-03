@@ -31,6 +31,7 @@ Diploid1	Diploid 1
 Diploid2	Diploid 2
 Diploid3	Diploid 3
 Easy EP	Easy EP.
+Cheap EP	Cheap EP.
 EPiano2#	El.Piano2#
 EPiano2K	ElPiano 2K
 Chor.EP2	ChorusEP.2
@@ -266,8 +267,9 @@ Orch.Str	OrchString
 OrchStr2	OrchStrng2
 TremOrch	Trem.Orch.
 Velo.Str	VeloString
-Stacc.Hi	HighStacc.
-Stacc.Hi	HighStacc.
+Stacc.Hi	StaccatoHi
+Stacc.Hi	StaccatoHi
+Stacc.Hi	StaccatoHi
 Stacc.Lo	Low Stacc.
 SolidStr	SolidStrng
 SwellStr	Swell Str.
@@ -470,6 +472,8 @@ GlassPad	Glass Pad
 SqrTwang	Sqr. Twang
 Sqr.Pad8	Sqr. Pad 8
 ChorusPd	Chorus Pad
+Shwimmer	ShwimmerPd
+Converge	ConvergePd
 PolarPad	Polar Pad
 Celstial	Celestial
 ClaviPad	Clavi. Pad
@@ -617,6 +621,7 @@ Car Pass	CarPassing
 CarCrash	Car Crash
 JetPlane	Jet Plane
 Submarin	Submarine
+Connect	Connctvity
 LaughVox	Laugh Vox
 ScreamVx	Scream Vox
 Heart	Heartbeat
@@ -932,6 +937,10 @@ El.Grd 1	El.Grand 1
 El.Grd 2	El.Grand 2
 El.Grd 3	El.Grand 3
 El.Grd 4	El.Grand 4
+DX-Road1	DX-Rhode 1
+DX-Road2	DX-Rhode 2
+DX-Road3	DX-Rhode 3
+DX-Road4	DX-Rhode 4
 Det.EP 1	Det. EP 1
 Det.EP 2	Det. EP 2
 Det.EP 3	Det. EP 3
@@ -963,7 +972,8 @@ DX-Mrmb4	DX-Mrimba4
 DX-Mrmb5	DX-Mrimba5
 DX-Mrmb6	DX-Mrimba6
 DX-Mrmb7	DX-Mrimba7
-DumBells	Dumb Bells
+MiniBell	Mini Bells
+DumBells	Dum Bells
 CrystBel	CrystalBel
 SilkRoad	Silk Road
 DX-Acrd1	DX-Accord1
@@ -991,6 +1001,8 @@ DX-PkBa3	DX-PickBa3
 DX-PkBa4	DX-PickBa4
 CompedEB	CompedE.Ba
 BassMgic	Bass Magic
+SuprBas1	SuperBass1
+SuprBas2	SuperBass2
 DX-Vla 1	DX-Viola 1
 DX-Vla 2	DX-Viola 2
 DX-Vla 3	DX-Viola 3
@@ -1005,7 +1017,17 @@ MM-Vce 4	MM-Voice 4
 DX-Clar1	DX-Clari.1
 DX-Clar2	DX-Clari.2
 DX-Clar3	DX-Clari.3
+DX-Bottl	DX-Bottle
 DX-SLd 9	DX-SqrLd 9
+DX-SyLd1	DX-Syn.Ld1
+DX-SyLd2	DX-Syn.Ld2
+DX-SyLd3	DX-Syn.Ld3
+DX-SyLd4	DX-Syn.Ld4
+DX-SyLd5	DX-Syn.Ld5
+DX-SyLd6	DX-Syn.Ld6
+DX-SyLd7	DX-Syn.Ld7
+DX-SyLd8	DX-Syn.Ld8
+DX-SyLd9	DX-Syn.Ld9
 Dstrcted	Destructed
 BellStr1	BellStrng1
 BellStr2	BellStrng2

@@ -26,6 +26,7 @@ Diploid2	Diploid E. Piano 2
 Diploid3	Diploid E. Piano 3
 4 Way EP	4 Way E. Piano
 Easy EP	Easy Electric Piano
+Cheap EP	Cheap E. Piano
 EPiano2#	Electric Piano 2 #
 EPiano2K	Electric Piano 2 KSP
 VX EPno2	VX Electric Piano 2
@@ -175,6 +176,7 @@ SlContrS	Slow Contrabass Section
 TremStr#	Tremolo Strings #
 SlwTrStr	Slow Tremolo Strings
 Susp.Str	Suspense Strings
+Det.Fear	Detuned Fear Strings
 BrTrmStr	Bright Tremolo Strings
 PizzOct.	Pizzcato Octave
 ElecHarp	Electric Harp
@@ -186,8 +188,7 @@ OrchStr2	Orchestral Strings 2
 TremOrch	Tremolo Orch Strings
 Velo.Str	Velocity Strings
 TrsteStr	Triste Strings
-Stacc.Hi	High Staccato
-Stacc.Hi	High Staccato
+Stacc.Hi	High Staccato Strings
 SolidStr	Solid Strings
 SwellStr	Swell Strings
 3 OctStr	3 Octave Strings
@@ -274,6 +275,7 @@ Tenr&Alt	Tenor & Alto Sax
 BrthTnr2	Breathy Tenor Sax 2
 SwtTenor	Sweet Tenor Sax
 Oboe   #	Oboe #
+HeinzUni	Heinz Unison Oboe
 Exp.Oboe	Expressive Oboe
 BasClari	Bass Clarinet
 Flute  #	Flute #
@@ -314,6 +316,7 @@ HrmoRain	Harmonic Rain
 SynDrCmp	Synth Drum Comp
 RndGlock	Round Glockenspiel
 GlokChim	Glockenspiel Chimes
+ChorBell	Chorus & Bells
 SftCryst	Soft Crystals
 LoudGlok	Loud Glockenspiel
 XmasBell	Chrismas Bells
@@ -641,7 +644,17 @@ General	General Strings
 DX-Clar1	DX-Clarinet 1
 DX-Clar2	DX-Clarinet 2
 DX-Clar3	DX-Clarinet 3
+DX-Bottl	DX-Bottle Blow
 DX-SLd 9	DX-Square Lead 9
+DX-SyLd1	DX-Synth Lead 1
+DX-SyLd2	DX-Synth Lead 2
+DX-SyLd3	DX-Synth Lead 3
+DX-SyLd4	DX-Synth Lead 4
+DX-SyLd5	DX-Synth Lead 5
+DX-SyLd6	DX-Synth Lead 6
+DX-SyLd7	DX-Synth Lead 7
+DX-SyLd8	DX-Synth Lead 8
+DX-SyLd9	DX-Synth Lead 9
 BellStr1	Bell Strings 1
 BellStr2	Bell Strings 2
 Chi-S&H1	Chiffer - Sample & Hold
