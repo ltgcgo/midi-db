@@ -1,3 +1,5 @@
+bitmaps/xg/voices.tsv
+bitmaps/xg/system.tsv
 bank/gm2.tsv
 bank/xg.tsv
 bank/gs.tsv
