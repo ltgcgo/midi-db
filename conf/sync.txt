@@ -24,6 +24,7 @@ map/cs2x.24.tsv
 map/gm.10.tsv
 map/gm.12.tsv
 map/gm.24.tsv
+map/gsCap.12.tsv
 map/gs.10.tsv
 map/gs.12.tsv
 map/gs.24.tsv
