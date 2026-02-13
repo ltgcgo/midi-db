@@ -747,7 +747,7 @@ LSB	PRG	MSB	NME	ELC	LVL	VXP
 002	066	049	TenorSax	1	2	gs2:TenorSax
 003	066	049	TenorSax	1	3	gs3:TenorSax
 003	066	001	TenrSax2		3	gs3:TenrSax2
-002	066	008	BrthTnSx		2	gs2:BrthTnSx
+002	066	008	BrthTenr		2	gs2:BrthTenr
 003	066	009	St.TnrSx		3	gs3:St.TnrSx
 000	067	049	Bari.Sax	0	1	gs1:Bari.Sax
 002	067	049	Bari.Sax	0	2	gs2:Bari.Sax

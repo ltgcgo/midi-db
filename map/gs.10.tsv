@@ -6,6 +6,7 @@ SlapBa 2	Slap Bass2
 AcouBass	AcouBass 1
 Syn.Bass	Syn Bass 1
 NylonGt3	Nylon Gt.o
+BrthTnSx	BrthyTenor
 Uprt.Pno	UprightPno
 Mild Pno	Mild Piano
 UprtP. w	UprtPno. w
@@ -430,7 +431,6 @@ Exp.Alto	Expr. Alto
 Alto+Trp	AltoSx+Trp
 Sax Sect	Sax Sect.
 TenrSax2	TenorSax 2
-BrthTnSx	BrthyTenor
 St.TnrSx	St.TenorSx
 BariSax2	Bari.Sax 2
 Bari&Tnr	Bari&Tenor

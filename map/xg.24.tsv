@@ -1,5 +1,7 @@
 ID	Name
 ClvchrdK	Clavichord KSP
+ElctrAtm	Electric Atmos
+BrthTnSx	Breathy Tenor Sax
 GrandP #	Grand Piano #
 GrndPnoK	Grand Piano KSP
 MelloGrP	Mellow Grand Piano
@@ -300,7 +302,6 @@ FakeAlt+	Fake Alto Plus
 DFakeAlt	Dark Fake Alto Sax
 AltoSax*	Alto Saxophone *
 SwtAltSx	Sweet! Alto Sax
-BrthTnSx	Breathy Tenor Sax
 SoftTenr	Soft Tenor Sax
 TenrSax2	Tenor Saxophone 2
 SuperTnr	Super Tenor Sax
@@ -634,6 +635,7 @@ FrtePno2	Forte Piano 2
 El.Grd 1	Electric Grand 1
 El.Grd 2	Electric Grand 2
 El.Grd 3	Electric Grand 3
+RatioDob	Ratio Dob E. Grand
 El.Grd 4	Electric Grand 4
 Det.EP 1	Detuned E. Piano 1
 Det.EP 2	Detuned E. Piano 2
@@ -686,6 +688,7 @@ General	General Strings
 DX-Clar1	DX-Clarinet 1
 DX-Clar2	DX-Clarinet 2
 DX-Clar3	DX-Clarinet 3
+Fuhppps!	Fuhppps! Bottle
 DX-Bottl	DX-Bottle Blow
 DX-SLd 9	DX-Square Lead 9
 DX-SyLd1	DX-Synth Lead 1
