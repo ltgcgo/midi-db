@@ -216,6 +216,7 @@ Reso Sqr	ResoSquareBa
 MnplisBa	MineaplsBass
 HammerBa	Hammer Bass
 AnalogBa	Analog Bass
+SynBass*	Synth Bass *
 MelloSBa	MelloSynBass
 Seq.Bass	SequencedBas
 ClkSynBa	ClickSynthBs
@@ -286,6 +287,7 @@ LegatoSt	Legato Str.
 Warm Str	Warm Strings
 70s Str	70s' Strings
 ChmbrStr	Chamber Str.
+SlowStr*	SlowStrings*
 StrQuart	StrngQuartet
 Marcato*	Marcato Str*
 ArcoStr*	ArcoStrings*
@@ -307,6 +309,7 @@ MelChoir	Mellow Choir
 ChoirStr	Choir Strngs
 SynVoix2	SynthVoice 2
 AnalgVox	Analog Voice
+OrchHt**	Orch. Hit *
 OrchHit2	Orch. Hit 2
 BrsStb80	Brass Stab80
 6th Hit+	Sixth Hit +
@@ -438,6 +441,7 @@ ModulSaw	Modular Saw.
 SimplSaw	Simple Saw.
 SeqAnalg	Seq. Analog
 SawLead*	Sawtooth Ld*
+BlastrLd	Blaster Lead
 Analogon	AnalogonLead
 FireWire	Fire Wire *
 NoviceLd	Novice Lead
@@ -449,9 +453,15 @@ BrthLayr	Breath Layer
 5thLdSft	5thLeadSoft
 Fat&Prky	Fat & Perky
 RotarStr	Rotary Str.
+Area51Pd	Area 51 Pad
+DarkMoon	Dark Moon Pd
 PolyPd80	Poly Pad 80
 SqrTwang	Square Twang
 Sqr.Pad8	Square Pad 8
+EqinoxPd	Equinox Pad
+InsmnPad	Insomnia Pad
+SolrisPd	Solaris Pad
+IonosPad	Ionosphr Pad
 Shwimmer	Shwimmer Pad
 Converge	Converge Pad
 ClaviPad	Clavich. Pad

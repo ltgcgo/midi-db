@@ -224,6 +224,7 @@ OrchStr*	Live! Orchestra Strings
 StSlwStr	Stereo Slow Strings
 LegatoSt	Legato Strings
 ChmbrStr	Chamber Strings
+SlowStr*	Slow Strings *
 StrQuart	Strings Quartet
 Marcato*	Marcato Strings *
 ArcoStr*	Live! Arco Strings
@@ -241,6 +242,7 @@ SolPlexs	Solar Plexus Strings
 MelChoir	Mellow Choir
 ChoirStr	Choir Strings
 SynVoix2	Synth Voice 2
+OrchHt**	Orchestra Hit **
 OrchHit2	Orchestra Hit 2
 BrsStb80	Brass Stab 80
 BassHit+	Bass Hit Plus
@@ -365,7 +367,9 @@ DaSyncLd	The Sync Lead
 BrthLayr	Breathy Layer
 5thLdSft	Fifth Lead Soft
 RotarStr	Rotary Strings
+DarkMoon	Dark Moon Pad
 PolyPd80	Poly Synth Pad 80
+IonosPad	Ionosphere Pad
 Wv2001Pd	Wave 2001 Pad
 ClaviPad	Clavichord Pad
 HrmoRain	Harmonic Rain

@@ -241,7 +241,9 @@ MnplisBa	MnplisBass
 Miami Ba	Miami Bass
 HammerBa	HammerBass
 AnalogBa	AnalogBass
+SynBass*	SynthBass*
 RezoBass	Rezzo Bass
+RaveBass	Rave Bass
 MelloSBa	MelloSynBs
 Seq.Bass	SequenceBs
 ClkSynBa	ClickSynBs
@@ -324,6 +326,7 @@ Warm Str	WarmString
 70s Str	70s'String
 Strings3	Strings 3
 ChmbrStr	ChamberStr
+SlowStr*	SlwString*
 StrQuart	StrQuartet
 Marcato*	MarctoStr*
 ArcoStr*	Arco Str.*
@@ -351,6 +354,7 @@ VoiceHmm	Voice Hmm
 StereoOh	Stereo Ooh
 SynVoix2	Syn.Voice2
 AnalgVox	AnalgVoice
+OrchHt**	Orch.Hit**
 OrchHit2	Orch. Hit2
 ImpactHt	Impact Hit
 Brs Stab	Brass Stab
@@ -512,6 +516,7 @@ ModulSaw	ModularSaw
 SimplSaw	Simple Saw
 SeqAnalg	Seq.Analog
 SawLead*	Saw. Lead*
+BlastrLd	Blaster Ld
 Analogon	AnalogonLd
 FireWire	Fire Wire
 Early Ld	Early Lead
@@ -536,6 +541,8 @@ SftWhirl	Soft Whirl
 ThickPad	Thick Pad
 RotarStr	Rotary Str
 LightPad	Light Pad
+Area51Pd	Area 51Pad
+DarkMoon	DarkMoonPd
 PolyPd80	PolyPad 80
 ClickPad	Click Pad
 AnalgPad	Analog Pad
@@ -546,6 +553,10 @@ GlassPad	Glass Pad
 SqrTwang	Sqr. Twang
 Sqr.Pad8	Sqr. Pad 8
 ChorusPd	Chorus Pad
+EqinoxPd	EquinoxPad
+InsmnPad	InsomniaPd
+SolrisPd	SolarisPd*
+IonosPad	IonosphrPd
 Shwimmer	ShwimmerPd
 Converge	ConvergePd
 PolarPad	Polar Pad
