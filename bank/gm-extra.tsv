@@ -1,0 +1,130 @@
+MSB	LSB	PRG	NME	ELC
+057	128	000	Acou.Pno	0
+057	128	001	BritePno	0
+057	128	002	SynthPno	0
+057	128	003	HnkyTonk	0
+057	128	004	ElPiano1	0
+057	128	005	ElPiano2	0
+057	128	006	Hrpschrd	0
+057	128	007	Clavinet	0
+057	128	008	Celesta	0
+057	128	009	Glocken	0
+057	128	010	MusicBox	0
+057	128	011	Vibrafon	0
+057	128	012	Marimba	0
+057	128	013	Xylophon	0
+057	128	014	TubulBel	0
+057	128	015	Santur	0
+057	128	016	HomeOrgn	0
+057	128	017	PercOrgn	0
+057	128	018	RockOrgn	0
+057	128	019	ChrchOrg	0
+057	128	020	ReedOrgn	0
+057	128	021	Acordion	0
+057	128	022	Harmnica	0
+057	128	023	Cncrtina	0
+057	128	024	NylonGtr	0
+057	128	025	SteelGtr	0
+057	128	026	Jazz Gtr	0
+057	128	027	CleanGtr	0
+057	128	028	MutedGtr	0
+057	128	029	OvrDrvGt	0
+057	128	030	Dist.Gtr	0
+057	128	031	GtrHarmo	0
+057	128	032	Aco.Bass	0
+057	128	033	FngrBass	0
+057	128	034	PickBass	0
+057	128	035	Fretless	0
+057	128	036	SlapBass	0
+057	128	037	SlapBas2	0
+057	128	038	SynBass1	0
+057	128	039	SynBass2	0
+057	128	040	Violin	0
+057	128	041	Viola	0
+057	128	042	Cello	0
+057	128	043	Contrbas	0
+057	128	044	Trem.Str	0
+057	128	045	Pizz.Str	0
+057	128	046	Harp	0
+057	128	047	Timpani	0
+057	128	048	Marcato	0
+057	128	049	Slow Str	0
+057	128	050	Syn.Str1	0
+057	128	051	Syn.Str2	0
+057	128	052	ChoirAah	0
+057	128	053	DooVoice	0
+057	128	054	SynVoice	0
+057	128	055	Orch.Hit	0
+057	128	056	Trumpet	0
+057	128	057	Trombone	0
+057	128	058	Tuba	0
+057	128	059	MutedTrp	0
+057	128	060	FrchHorn	0
+057	128	061	HitBrass	0
+057	128	062	SynBras1	0
+057	128	063	SynBras2	0
+057	128	064	SprnoSax	0
+057	128	065	Alto Sax	0
+057	128	066	TenorSax	0
+057	128	067	Bari.Sax	0
+057	128	068	Oboe	0
+057	128	069	Eng.Horn	0
+057	128	070	Bassoon	0
+057	128	071	Clarinet	0
+057	128	072	Piccolo	0
+057	128	073	Flute	0
+057	128	074	Recorder	0
+057	128	075	WoodFlut	0
+057	128	076	BotlBlow	0
+057	128	077	Shakhchi	0
+057	128	078	Whistle	0
+057	128	079	Ocarina	0
+057	128	080	SquareWv	0
+057	128	081	Saw Wave	0
+057	128	082	CaliopLd	0
+057	128	083	Chiff Ld	0
+057	128	084	CharanLd	0
+057	128	085	Voice Ld	0
+057	128	086	Fifth Ld	0
+057	128	087	Bass+ACY-Ld	0
+057	128	088	Fantasia	0
+057	128	089	Warm Pad	0
+057	128	090	PolySyPd	0
+057	128	091	GhstyPad	0
+057	128	092	BowGlass	0
+057	128	093	MetalPad	0
+057	128	094	Halo Pad	0
+057	128	095	SweepPad	0
+057	128	096	Aurora	0
+057	128	097	SoundTrk	0
+057	128	098	Crystal	0
+057	128	099	Atmosphr	0
+057	128	100	FreshAir	0
+057	128	101	Unicorn	0
+057	128	102	Echo Vox	0
+057	128	103	StarTrak	0
+057	128	104	Sitar	0
+057	128	105	Banjo	0
+057	128	106	Shamisen	0
+057	128	107	Koto	0
+057	128	108	Kalimba	0
+057	128	109	Bagpipe	0
+057	128	110	Fiddle	0
+057	128	111	Shanai	0
+057	128	112	Carillon	0
+057	128	113	Agogo	0
+057	128	114	SteelDrm	0
+057	128	115	Woodblok	0
+057	128	116	Taiko	0
+057	128	117	MelodTom	0
+057	128	118	Syn Drum	0
+057	128	119	RevCymbl	0
+057	128	120	FretNoiz	0
+057	128	121	BrthNoiz	0
+057	128	122	Seashore	0
+057	128	123	Jungle	0
+057	128	124	Telphone	0
+057	128	125	Helicptr	0
+057	128	126	Applause	0
+057	128	127	Pistol	0
+120	128	0	GUS Kit	0
