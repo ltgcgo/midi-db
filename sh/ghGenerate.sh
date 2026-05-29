@@ -1,12 +1,14 @@
 #!/bin/bash
 COMPRESS_CRIT="\.(ass|atom|bin|bm|bmp|conf|css|csv|htm|html|ico|js|json|kar|list|lrc|lst|map|md|mid|mjs|mod|mts|otf|rss|sbv|srt|ssa|svg|trc|ts|tsv|ttf|ttml|txt|vgm|vtt|wasm|webmanifest|xml|ytt)$"
 
-#if [ ! -f "$(which zopfli)" ]; then
-	#sudo apt install -y zopfli
-#fi
-if [ ! -f "$(which tree)" ]; then
-	sudo apt install -y tree
+if [ "$1" != "" ]; then
+	if [ ! -f "$(which zopfli)" ]; then
+		sudo apt install -y zopfli
+	fi
 fi
+#if [ ! -f "$(which tree)" ]; then
+	#sudo apt install -y tree
+#fi
 
 echo "$(date +"%s")" > build-time.txt
 cp -Lr ghp ghp-raw
@@ -58,7 +60,18 @@ tree -ifl | while IFS= read -r file; do
 				rm "$file"
 			fi
 		else
-			echo "File \"${file}\" is preserved."
+			fileHash="$(sha256sum "${file}" | cut -d' ' -f1)"
+			findResult="$(grep -F "${fileHash}	" ../fileHashes.tsv | cut -d '	' -f2)"
+			if [ "$findResult" != "" ] ; then
+				pathDiffRaw="$(realpath -Lsm --relative-to="${file}" "${findResult}")"
+				pathDiff="${pathDiffRaw/\.\.\//}"
+				echo "Deduplicated: ${file} -> ${pathDiff}"
+				rm "${file}"
+				ln -s "${pathDiff}" "${file}"
+			else
+				echo "${fileHash}	$(realpath -s "${file}")" >> ../fileHashes.tsv
+				echo "File \"${file}\" is preserved."
+			fi
 		fi
 	fi
 done
@@ -88,7 +101,11 @@ tree -ifl | while IFS= read -r file; do
 				rm "$file"
 			else
 				echo "${fileHash}	$(realpath -s "${file}")" >> ../fileHashes.tsv
-				gzip -9 "$file" && echo "Compressed \"${file}\" with Gzip."
+				if [ "$1" != "" ]; then
+					zopfli --i1 && echo "Compressed \"${file}\" with Zopfli."
+				else
+					gzip -9 "$file" && echo "Compressed \"${file}\" with Gzip."
+				fi
 			fi
 		#else
 			#echo "File \"${file}\" cannot be compressed."
@@ -125,7 +142,11 @@ tree -ifl | while IFS= read -r file; do
 				rm "$file"
 			else
 				echo "${fileHash}	$(realpath -s "${file}")" >> ../fileHashes.tsv
-				brotli -v9j "$file"
+				if [ "$1" != "" ]; then
+					brotli -vjq 10 "$file"
+				else
+					brotli -v9j "$file"
+				fi
 			fi
 		#else
 			#echo "File \"${file}\" cannot be compressed."
