@@ -493,7 +493,7 @@
 		[ 46,   4,  46,   4, "gs", "Roland GS SC-8850 #046", true],
 		[ 47,   4,  47,   4, "gs", "Roland GS SC-8850 #047", true],
 		[ 48,   3,  48,   4, "gs", "Roland GS SC-8850 #048"],
-		[120,   1, 120,   0, "pa", "GM2 + Korg PA #000 Drum Kit"],
+		[120,   1, 120,   0, "pa", "GM2 + Korg PA Drum Kit"],
 		[128,   2, 125,   0, "ns5r", "Roland GS Mixed Drum Kit", true],
 		[128,   0, 125,   1, "gs", "Roland GS SC-55 Drum Kit", true],
 		[128,   2, 125,   2, "gs", "Roland GS SC-88 Drum Kit", true],
@@ -510,7 +510,7 @@
 		[  0,   4, "Roland GS SC-8850 Drum Kit"],
 		[ 79,   0, "Yamaha XG PLG-DR Drum Kit"],
 		[ 79,   1, "Yamaha XG PLG-PC Drum Kit"],
-		[120,   0, "GM2 + Korg PA #000 Drum Kit"],
+		[120,   0, "GM2 + Korg PA Drum Kit"],
 		[126,   0, "Yamaha XG SFX Kit"],
 		[127,   0, "Yamaha XG Drum Kit"]
 	]
