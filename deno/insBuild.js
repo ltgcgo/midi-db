@@ -15,7 +15,7 @@ loadedBank.strictMode = true;
 for (const file of config.banks) {
 	await loadedBank.load(await Deno.readTextFile(`./bank/${file}`, false, file));
 	//console.debug(loadedBank.get(0, 0, 0, "gm"));
-	console.debug(loadedBank.bankInfo[0][0]);
+	//console.debug(loadedBank.bankInfo[0][0]);
 };
 for (const file of config.names) {
 	await loadedName.loadMap(await Deno.readTextFile(`./map/${file}`, false, 0, file));

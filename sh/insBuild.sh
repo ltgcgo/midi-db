@@ -1,4 +1,5 @@
 #!/bin/bash
+mkdir -p dist
 if [ "$1" == "" ]; then
 	echo "Must provide a config."
 	ls -1 conf/*.ins.json 2>/dev/null | while IFS= read -r file; do
