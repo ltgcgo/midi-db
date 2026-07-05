@@ -2,3 +2,5 @@
 .~lock*
 .zcompdump
 .zsh_history
+
+dist/*.ins
