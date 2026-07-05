@@ -26,7 +26,7 @@
 	],
 	"items": [
 		[  0,   0,   0,   0, "gm", "GM1 #000 Capital Instrument"],
-		[121,  32, 121,   0, "g2", "GM2 #000 Capital Instrument"],
+		[121,  32, 121,   0, "pa", "GM2 #000 Capital Instrument"],
 		[  0,   126, 0, 126, "xg", "Yamaha XG #126 MU100 Native", true],
 		[  0,   0,   0, 127, "xg", "Yamaha XG #127 MU Basic"],
 		[  0,   1,   0,   1, "xg", "Yamaha XG #001 Key Scale Panning"],
@@ -226,6 +226,23 @@
 		[100,  74,  84,  74, "xg", "Yamaha XG PLG-AN #074 Non-proxy"],
 		[100,  75,  84,  75, "xg", "Yamaha XG PLG-AN #075 Non-proxy"],
 		[100,  76,  84,  76, "xg", "Yamaha XG PLG-AN #076 Non-proxy"],
+		[100,  77, 84,  77, "Yamaha XG PLG-AN #077"],
+		[100,  78, 84,  78, "Yamaha XG PLG-AN #078"],
+		[100,  79, 84,  79, "Yamaha XG PLG-AN #079"],
+		[100,  80, 84,  80, "Yamaha XG PLG-AN #080"],
+		[100,  81, 84,  81, "Yamaha XG PLG-AN #081"],
+		[100,  96, 84,  96, "Yamaha XG PLG-AN #096"],
+		[100,  97, 84,  97, "Yamaha XG PLG-AN #097"],
+		[100,  98, 84,  98, "Yamaha XG PLG-AN #098"],
+		[100,  99, 84,  99, "Yamaha XG PLG-AN #099"],
+		[100, 100, 84, 100, "Yamaha XG PLG-AN #100"],
+		[100, 101, 84, 101, "Yamaha XG PLG-AN #101"],
+		[100, 102, 84, 102, "Yamaha XG PLG-AN #102"],
+		[100, 103, 84, 103, "Yamaha XG PLG-AN #103"],
+		[100, 104, 84, 104, "Yamaha XG PLG-AN #104"],
+		[100, 105, 84, 105, "Yamaha XG PLG-AN #105"],
+		[100, 106, 84, 106, "Yamaha XG PLG-AN #106"],
+		[100, 107, 84, 107, "Yamaha XG PLG-AN #107"],
 		[ 96,   0,  96,   0, "xg", "Yamaha XG PLG-PF #000"],
 		[ 96,  64,  96,  64, "xg", "Yamaha XG PLG-PF #064"],
 		[ 96,  65,  96,  65, "xg", "Yamaha XG PLG-PF #065"],
@@ -342,7 +359,7 @@
 		[127,   0, 127,   0, "xg", "Yamaha XG Drum Kit"]
 	],
 	"drums": [
-		[127,   0, "xg", "Yamaha XG Drum Kit"],
-		[126,   0, "xg", "Yamaha XG SFX Kit"]
+		[127,   0, "Yamaha XG Drum Kit"],
+		[126,   0, "Yamaha XG SFX Kit"]
 	]
 }

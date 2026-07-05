@@ -1,7 +1,9 @@
 "use strict";
 
-import {OctaviaDevice, VoiceBank} from "https://jsr.io/@ltgc/octavia/0.0.10/dist/state.mjs";
-import {RootDisplay} from "https://jsr.io/@ltgc/octavia/0.0.10/dist/basic.mjs";
+//import {OctaviaDevice, VoiceBank} from "https://jsr.io/@ltgc/octavia/0.0.10/dist/state.mjs";
+//import {RootDisplay} from "https://jsr.io/@ltgc/octavia/0.0.10/dist/basic.mjs";
+import {OctaviaDevice, VoiceBank} from "../libs/octavia@ltgcgo/state.mjs";
+import {RootDisplay} from "../libs/octavia@ltgcgo/basic.mjs";
 
 const config = JSON.parse(await Deno.readTextFile(`./conf/${Deno.args[0]}.ins.json`));
 
@@ -12,10 +14,20 @@ loadedBank.strictMode = true;
 
 for (const file of config.banks) {
 	await loadedBank.load(await Deno.readTextFile(`./bank/${file}`, false, file));
+	//console.debug(loadedBank.get(0, 0, 0, "gm"));
+	console.debug(loadedBank.bankInfo[0][0]);
 };
 for (const file of config.names) {
 	await loadedName.loadMap(await Deno.readTextFile(`./map/${file}`, false, 0, file));
 };
+/*await new Promise((r) => {
+	console.debug(`Waiting!`);
+	setTimeout(r, 1000);
+});
+await new Promise((r) => {
+	console.debug(`Waiting!`);
+	setTimeout(r, 1000);
+});*/
 
 const textEncoder = new TextEncoder();
 const fileHandle = await Deno.open(`./dist/${Deno.args[0]}.ins`, {
@@ -49,9 +61,9 @@ for (const item of config.items) {
 		if (isLax != null && !voiceObject?.name?.length > 0) {
 			voiceObject = loadedBank.bankInfo[prg][(srcMsb << 8) | isLax];
 		};*/
-		loadedBank.strictMode = isLax;
+		loadedBank.strictMode = isLax ? false : true;
 		let voiceObject = loadedBank.get(realMsb, prg, realLsb, mode ?? "g2");
-		if (voiceObject?.name?.length > 0) {
+		if (voiceObject.ending === " " && voiceObject?.name?.length > 0) {
 			fileWriteText(`\n${prg}=${loadedName.getMapped(voiceObject?.name)}`);
 		};
 	};
