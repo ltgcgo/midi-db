@@ -1,6 +1,10 @@
 # midi-db
 🎹 Data concerning MIDI standards.
 
+## Mixed definitions
+- `OctaviaRecommends.ins` (MU2000, PSR-2000, PLG-DR, PLG-PC, PLG-PF, PLG-AP, PLG-VL, PLG-SG, PLG-DX, PLG-AN, SC-8850, PA80)
+- `OctaviaAlternative.ins` (MU2000, PSR-2000, PLG-DR, PLG-PC, PLG-AN, SC-8850, SD-90, PA80, NS5R)
+
 ## Bitmaps
 * [XG Fonts](/bitmaps/xg/font.tsv) _(design based on established systems, CC0 where applicable)_
 * [XG System](/bitmaps/xg/system.tsv)
