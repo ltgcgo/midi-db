@@ -5,6 +5,7 @@
 import {OctaviaDevice, VoiceBank} from "../libs/octavia@ltgcgo/state.mjs";
 import {RootDisplay} from "../libs/octavia@ltgcgo/basic.mjs";
 
+let emittedInstruments = 0;
 const config = JSON.parse(await Deno.readTextFile(`./conf/${Deno.args[0]}.ins.json`));
 
 const dummyDevice = new OctaviaDevice();
@@ -47,7 +48,7 @@ for (const item of config.items) {
 	//console.debug(item);
 	const [srcMsb, srcLsb, realMsb, realLsb, mode, catName, isLax] = item;
 	if (writtenSections.has(catName)) {
-		console.info(`Category ${catName} has already been written.`);
+		//console.info(`Category ${catName} has already been written.`);
 		continue;
 	} else {
 		writtenSections.add(catName);
@@ -65,6 +66,7 @@ for (const item of config.items) {
 		let voiceObject = loadedBank.get(srcMsb, prg, srcLsb, mode ?? "g2");
 		if (voiceObject.ending === " " && voiceObject?.name?.length > 0) {
 			fileWriteText(`\n${prg}=${loadedName.getMapped(voiceObject?.name)}`);
+			emittedInstruments ++;
 		};
 	};
 };
@@ -88,5 +90,7 @@ for (const item of config.drums) {
 fileWriteText(`\nPatch[*]=${config.drums[0][2]}`);
 fileWriteText(`\nDrum[*,*]=1`);
 await fileWriteHandle.close();
+
+console.log(`Built target "${Deno.args[0]}". Emitted ${emittedInstruments} instruments.`);
 
 Deno.exit(0);
