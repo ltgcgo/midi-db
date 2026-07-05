@@ -99,7 +99,6 @@
 		[  0,  99,   0,  99, "xg", "Yamaha XG #099 Other Instrument"],
 		[  0, 100,   0, 100, "xg", "Yamaha XG #100 Other Instrument"],
 		[  0, 101,   0, 101, "xg", "Yamaha XG #101 Other Instrument"],
-		[ 16,   0,  16,   0, "xg", "Yamaha XG Sampling Voices 1"],
 		[ 16,   1,  16,   1, "xg", "Yamaha XG Sampling Voices 2"],
 		[ 32,   1,  32,   1, "xg", "Yamaha XG PLG-AP Preset"],
 		[ 33,   0,  33,   0, "xg", "Yamaha XG PLG-VL Preset 1"],
