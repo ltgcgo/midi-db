@@ -43,6 +43,7 @@ const fileWriteText = async function (text) {
 	await fileWriteHandle.ready;
 };
 const writtenSections = new Set();
+fileWriteText(`; Copyright 2026 © Lightingale Community\n; Licensed under CC BY-SA 4.0\n; Source code: https://github.com/ltgcgo/midi-db/\n\n`);
 fileWriteText(`.Patch Names`);
 for (const item of config.items) {
 	//console.debug(item);
