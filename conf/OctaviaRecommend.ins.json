@@ -14,15 +14,12 @@
 		"pa.24.tsv",
 		"xg.24.tsv",
 		"gs.24.tsv",
-		"sd.24.tsv",
 		"gm.12.tsv",
 		"xg.12.tsv",
 		"gs.12.tsv",
-		"sd.12.tsv",
 		"gm.10.tsv",
 		"xg.10.tsv",
-		"gs.10.tsv",
-		"sd.10.tsv"
+		"gs.10.tsv"
 	],
 	"items": [
 		[  0,   0,   0,   0, "gm", "GM1 #000 Capital Instrument"],
