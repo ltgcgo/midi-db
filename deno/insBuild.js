@@ -53,7 +53,7 @@ for (const item of config.items) {
 		writtenSections.add(catName);
 	};
 	//console.log(srcMsb, srcLsb, realMsb, realLsb, mode, catName);
-	const sourceBank = (srcMsb << 8) | (srcLsb & 255);
+	//const sourceBank = (srcMsb << 8) | (srcLsb & 255);
 	fileWriteText(`\n\n[${catName}]`);
 	loadedBank.strictMode = true;
 	for (let prg = 0; prg < 128; prg ++) {
@@ -62,7 +62,7 @@ for (const item of config.items) {
 			voiceObject = loadedBank.bankInfo[prg][(srcMsb << 8) | isLax];
 		};*/
 		loadedBank.strictMode = isLax ? false : true;
-		let voiceObject = loadedBank.get(realMsb, prg, realLsb, mode ?? "g2");
+		let voiceObject = loadedBank.get(srcMsb, prg, srcLsb, mode ?? "g2");
 		if (voiceObject.ending === " " && voiceObject?.name?.length > 0) {
 			fileWriteText(`\n${prg}=${loadedName.getMapped(voiceObject?.name)}`);
 		};
