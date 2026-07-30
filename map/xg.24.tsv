@@ -24,6 +24,8 @@ HardEPno	Hard Electric Piano
 VX E.Pno	VX Electric Piano
 60sElPno	60s' Electric Piano
 Diploid1	Diploid E. Piano 1
+Soho EP	Soho E. Piano
+DetFlops	Detuned Flops EP
 Diploid2	Diploid E. Piano 2
 Diploid3	Diploid E. Piano 3
 4 Way EP	4 Way E. Piano
@@ -38,6 +40,7 @@ EPiano2K	Electric Piano 2 KSP
 VX EPno2	VX Electric Piano 2
 Shirakwa	Shirakawa E. Piano
 DetFliks	Detuned Flicks EP
+Turnpik2	Turnpike EP 2
 ResoDXEP	Resonant DX EP
 ShiverDX	Shivering DX EP
 ShivrDX+	Shivering DX EP Plus
@@ -55,6 +58,7 @@ ClvinetK	Clavinet KSP
 ClaviWah	Wah Clavinet
 PulseClv	Pulse Clavinet
 PiercClv	Pierce Clavinet
+SweepClv	Sweep Clavinet
 SupClavi	Super Clavinet
 BrtClav*	Bright Clavinet *
 VibrafnK	Vibraphone KSP
@@ -86,6 +90,7 @@ TngoAcd2	Tango Accordion 2
 NylonGt#	Nylon Guitar #
 NylonGt2	Nylon Guitar 2
 NylonGt3	Nylon Guitar 3
+WaysideG	Wayside Guitar
 VelGtHrm	Velo Guitar Harmonics
 Espa.Gtr	Spanish Guitar
 DecayEsG	Decay Spanish Guitar
@@ -113,6 +118,7 @@ ChorusGt	Chorus Guitar
 CleanGt2	Clean Guitar 2
 MidT.Gtr	Mid-tone Guitar
 MidTGtSt	Mid-tone Guitar Stereo
+StNaslGt	Stereo Nasal Guitar
 HammrMid	Middle Hammer Guitar
 HammrBrg	Bridge Hammer Guitar
 HammrDbl	Double Hammer Guitar
@@ -131,6 +137,7 @@ MutedGt*	Muted Guitar *
 Ovrdriv#	Overdriven Guitar #
 OvdrGtDt	Detuned Overdrive Guitar
 BrtMnhtn	Bright Manhattan Guitar
+PwrMnhtn	Power Manhattan Guitar
 Ovrdriv*	Overdriven Guitar *
 Dist.Gt#	Distortion Guitar #
 DstRthmG	Distorted Rhythm Guitar
@@ -150,7 +157,9 @@ GtrHrmo2	Guitar Harmonics 2
 Acou.Ba#	Acoustic Bass #
 PkAcouBa	Picked Acoustic Bass
 VXUprght	VX Upright Bass
+BrBstnBa	Bright Boston Bass
 WalkSyBa	Walking Synth Bass
+Dim&Cool	Dim & Cool Bass
 FingrBa#	Fingered Bass #
 FingrDrk	Dark Fingered Bass
 Ba&DstEG	Bass & Distortion Guitar
@@ -252,12 +261,15 @@ SweepStr	Sweep Strings
 Syn.Str4	Synth Strings 4
 Syn.Str5	Synth Strings 5
 SynStr1*	Synth Strings 1 *
+PltnmStr	Platinum Strings
 TaurusS.	Taurus Strings
 SolPlexs	Solar Plexus Strings
 MelChoir	Mellow Choir
 ChoirStr	Choir Strings
+Str&C.Ah	Strings & Choir Aahs
 Scroll +	Scroll Aah Plus
 SynVoix2	Synth Voice 2
+DtAspirt	Detuned Aspirate
 OrchHt**	Orchestra Hit **
 OrchHit2	Orchestra Hit 2
 BrsStb80	Brass Stab 80
@@ -294,6 +306,7 @@ HrdBsTrb	Hard Bass Trombone
 TromSect	Trombone Section
 MutedTp#	Muted Trumpet #
 MuteTrp2	Muted Trumpet 2
+BakStair	Backstairs Trumpet
 FrHrSolo	French Horn Solo
 FrHorn 2	French Horn 2
 HornOrch	Horn Orchestra
@@ -371,9 +384,11 @@ DoublSaw	Double Sawtooth Lead
 Dim Saw	Dim Sawtooth Lead
 PulseSaw	Pulse Sawtooth Lead
 VeloLead	Velocity Lead
+Str8.Saw	Straight Sawtooth
 Str8Puls	Straight Pulse Lead
 PWMania	PWM Mania Lead
 ModulSaw	Modular Sawtooth Lead
+MouthSaw	Mouthed Sawtooth
 SimplSaw	Simple Sawtooth
 SeqAnalg	Sequenced Analog Lead
 SawLead*	Sawtooth Lead *
@@ -384,6 +399,7 @@ DistLead	Distortion Lead
 DaSyncLd	The Sync Lead
 BrthLayr	Breathy Layer
 5thLdSft	Fifth Lead Soft
+Sync B&L	Sync Bass & Lead
 RotarStr	Rotary Strings
 DarkMoon	Dark Moon Pad
 PolyPd80	Poly Synth Pad 80
@@ -753,16 +769,3 @@ SynBrsPd	Synth Brass Pad
 SynStrPd	Synth Strings Pad
 SynCmpLd	Synth Comped Lead
 BrthyFlt	Breathy Flute
-StNaslGt	Stereo Nasal Guitar
-Sync B&L	Sync Bass & Lead
-BrBstnBa	Bright Boston Bass
-Turnpik2	Turnpike EP 2
-Str8.Saw	Straight Sawtooth
-Dim&Cool	Dim & Cool Bass
-DetFlops	Detuned Flops EP
-BakStair	Backstairs Trumpet
-Soho EP	Soho E. Piano
-SweepClv	Sweep Clavinet
-DtAspirt	Detuned Aspirate
-WaysideG	Wayside Guitar
-PwrMnhtn	Power Manhattan Guitar

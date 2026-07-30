@@ -31,6 +31,7 @@ HardEPno	Hard ElPno
 VX E.Pno	VX ElPiano
 60sElPno	60s' ElPno
 Diploid1	Diploid 1
+DetFlops	Det. Flops
 Diploid2	Diploid 2
 Diploid3	Diploid 3
 Easy EP	Easy ElPno
@@ -49,8 +50,11 @@ VX EPno2	VX EPiano2
 DX Malet	DX Mallet
 Shirakwa	Shirakawa
 DetFliks	Det.Flicks
+Turnpike	TurnpikeEP
+Turnpik2	Turnpike 2
 SoftDXEP	Soft DX EP
 ResoDXEP	ResonantDX
+ShiverDX	Shiver DX
 ShivrDX+	ShiverDX +
 TinkrDX+	Tinker DX+
 DXModern	DX Modern
@@ -70,6 +74,7 @@ ClvinetK	Clavinet K
 ClaviWah	ClvchrdWah
 PulseClv	PulseClavi
 PiercClv	PierceClav
+SweepClv	SweepClav.
 SupClavi	SuperClavi
 HardyPlk	HardyPluck
 BrtClav*	Brt.Clavi*
@@ -125,6 +130,7 @@ TngoAcd2	TangoAcod2
 NylonGt#	Nylon Gt.#
 NylonGt2	Nylon Gt.2
 NylonGt3	Nylon Gt.3
+WaysideG	WaysideGtr
 VelGtHrm	VelGtHrmnx
 Espa.Gtr	SpanishGtr
 DecayEsG	DecayEspGt
@@ -156,6 +162,7 @@ CleanGt2	Clean Gt.2
 MidT.Gtr	MidToneGt.
 MidTGtSt	MidTnGtrSt
 NasalGtr	Nasal Gtr.
+StNaslGt	St.NasalGt
 HammrMid	Mid Hammer
 HammrBrg	BridgeHamr
 HammrDbl	Dbl Hammer
@@ -175,6 +182,7 @@ Ovrdriv#	Overdrive#
 OvdrGtDt	OvdrGtrDet
 Gt.Pinch	Gtr. Pinch
 BrtMnhtn	BriteMnhtn
+PwrMnhtn	PowerMnhtn
 Ovrdriv*	Overdrive*
 Dist.Gt#	Dist. Gt.#
 DstRthmG	DistRthmGt
@@ -198,7 +206,10 @@ JazzRthm	JazzRhythm
 PkAcouBa	PickAcouBa
 VXUprght	VX Upright
 BostonBa	BostonBass
+BrBstnBa	BrtBostnBa
+CoolthBa	CoolthBass
 WalkSyBa	Walk'SynBa
+Dim&Cool	Dim & Cool
 FingrBa#	FingerBas#
 FingrDrk	FingerBsDk
 FlangrBa	Flanger Ba
@@ -207,6 +218,7 @@ FngrSlap	FingerSlap
 FngrBas2	FingerBas2
 Jazzy Ba	Jazzy Bass
 Mod Bass	Modul.Bass
+ChaseBas	Chase Bass
 RezChase	Reso.Chase
 BlueBass	Blues Bass
 FW EBass	FltWdEBass
@@ -359,6 +371,8 @@ Syn.Str5	SynthStr.5
 SynStr1*	SynthStr1*
 TradeWnd	Trade Wind
 WormHole	Worm Hole
+Hope Str	HopeString
+PltnmStr	PltinumStr
 TaurusS.	TaurusStr.
 Leo Str.	Leo String
 SolPlexs	SolrPlexus
@@ -366,6 +380,7 @@ St.Choir	Ste. Choir
 ChoirAh2	Choir Ah 2
 MelChoir	MelloChoir
 ChoirStr	Choir Str.
+Str&C.Ah	String&Aah
 ScrollAh	Scroll Aah
 Scroll +	ScrollAah+
 StereoAh	Stereo Aah
@@ -374,6 +389,7 @@ VoiceHmm	Voice Hmm
 StereoOh	Stereo Ooh
 SynVoix2	Syn.Voice2
 AnalgVox	AnalgVoice
+DtAspirt	DtAspirate
 OrchHt**	Orch.Hit**
 OrchHit2	Orch. Hit2
 ImpactHt	Impact Hit
@@ -425,6 +441,7 @@ SlowTuba	Slow Tuba
 Eufonium	Euphonium
 MutedTp#	MutedTrp #
 MuteTrp2	MutedTrp 2
+BakStair	Backstairs
 FrHrSolo	FrHornSolo
 FrHorn 2	Fr. Horn 2
 HornOrch	Horn Orch.
@@ -515,10 +532,12 @@ SineLead	Sine Lead
 Pulse Ld	Pulse Lead
 SyncLead	Sync Lead
 AccentLd	AccentLead
+Brick Ld	Brick Lead
 AlumLead	Alum Lead
 FMSlwSwp	FMSlwSweep
 Curse Ld	Curse Lead
 OctvBeep	OctaveBeep
+SineLd 2	Sine Lead2
 MiniLead	Mini Lead
 Vinyl Ld	Vinyl Lead
 SawLead2	Saw Lead 2
@@ -534,9 +553,11 @@ PulseSaw	Pulse Saw
 Dr. Lead	DoctorLead
 VeloLead	Velo. Lead
 Dunce Ld	Dunce Lead
+Str8.Saw	Str8. Saw
 Str8Puls	StraitPuls
 PWMania	PWM Mania
 ModulSaw	ModularSaw
+MouthSaw	Mouth Saw
 SimplSaw	Simple Saw
 SeqAnalg	Seq.Analog
 SawLead*	Saw. Lead*
@@ -562,6 +583,8 @@ BrthLayr	BreathLayr
 Big&Low	Big & Low
 Fat&Prky	Fat&Perky
 SftWhirl	Soft Whirl
+Mogul Ld	Mogul Lead
+Sync B&L	Sync Ba&Ld
 LibraPad	Libra Pad
 ThickPad	Thick Pad
 RotarStr	Rotary Str
@@ -1187,22 +1210,3 @@ SynCmpLd	Syn.CompLd
 BrthyFlt	BrthyFlute
 SynLead1	SynthLead1
 SynLead2	SynthLead2
-StNaslGt	St.NasalGt
-Sync B&L	Sync Ba&Ld
-BrBstnBa	BrtBostnBa
-CoolthBa	CoolthBass
-Turnpike	TurnpikeEP
-Turnpik2	Turnpike 2
-Str8.Saw	Str8. Saw
-Dim&Cool	Dim & Cool
-DetFlops	Det. Flops
-BakStair	Backstairs
-Hope Str	HopeString
-SweepClv	SweepClav.
-DtAspirt	DtAspirate
-Mogul Ld	Mogul Lead
-WaysideG	WaysideGtr
-ShiverDX	Shiver DX
-ChaseBas	Chase Bass
-PwrMnhtn	PowerMnhtn
-Brick Ld	Brick Lead

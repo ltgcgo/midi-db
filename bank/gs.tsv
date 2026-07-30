@@ -24,7 +24,7 @@ LSB	PRG	MSB	NME	ELC	LVL	VXP
 002	001	008	Piano 2w	0	2	gs2:Piano 2w
 003	001	008	Piano 2w	1	3	gs3:Piano 2w
 004	001	008	PopPno w	1	4	gs4:PopPno w
-004	001	009	RockP. w		4	gs4:RockP. w
+004	001	009	RockPnoW		4	gs4:RockPnoW
 003	001	016	DancePno		3	gs3:DancePno
 000	002	049	EGrndPno	0	1	gs1:EGrndPno
 002	002	049	EGrndPno	0	2	gs2:EGrndPno

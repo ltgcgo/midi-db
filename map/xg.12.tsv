@@ -29,6 +29,8 @@ HardEPno	Hard El. Pno
 VX E.Pno	VX El. Piano
 60sElPno	60s' E.Piano
 Diploid1	Diploid EP 1
+Soho EP	Soho E.Piano
+DetFlops	DetunedFlops
 Diploid2	Diploid EP 2
 Diploid3	Diploid EP 3
 Easy EP	Easy E.Piano
@@ -44,6 +46,7 @@ VX EPno2	VX El.Piano2
 DX Malet	DX Mallet EP
 Shirakwa	Shirakawa EP
 DetFliks	Det.FlicksEP
+Turnpike	Turnpike EP
 ResoDXEP	ResonantDXEP
 ShivrDX+	Shiver DX +
 TinkrDX+	Tinker DX +
@@ -63,6 +66,7 @@ ClvinetK	Clavinet K.
 ClaviWah	Wah Clavinet
 PulseClv	Pulse Clavi.
 PiercClv	Pierce Clavi
+SweepClv	Sweep Clav.
 SupClavi	Super Clavi.
 HardyPlk	Hardy Pluck
 BrtClav*	BrightClavi*
@@ -108,6 +112,7 @@ TngoAcd2	TangoAccord2
 NylonGt#	Nylon Gtr. #
 NylonGt2	Nylon Gtr. 2
 NylonGt3	Nylon Gtr. 3
+WaysideG	Wayside Gtr.
 VelGtHrm	VelGtHrmonix
 Espa.Gtr	Spanish Gtr.
 DecayEsG	DecayEspaGtr
@@ -138,6 +143,7 @@ CleanGt2	Clean Gtr. 2
 MidT.Gtr	MidToneGtr.
 MidTGtSt	MidToneGtrSt
 NasalGtr	Nasal Guitar
+StNaslGt	St.NasalGtr.
 HammrMid	MiddleHammer
 HammrBrg	BridgeHammer
 HammrDbl	Doubl Hammer
@@ -157,6 +163,7 @@ Ovrdriv#	Overdriven #
 OvdrGtDt	OvrdrvGtrDet
 Gt.Pinch	Guitar Pinch
 BrtMnhtn	Bright Mnhtn
+PwrMnhtn	PowerMnhattn
 Ovrdriv*	Overdriven *
 Dist.Gt#	Dist. Gtt. #
 DstRthmG	DistRhythmGt
@@ -179,6 +186,8 @@ JazzRthm	Jazz Rhythm
 PkAcouBa	Pick A. Bass
 VXUprght	VX UprightBa
 BostonBa	Boston Bass
+BrBstnBa	Brt.BostonBa
+CoolthBa	Coolth Bass
 WalkSyBa	Walkin'SynBa
 FingrBa#	FingerBass #
 FingrDrk	DarkFingerBs
@@ -315,6 +324,8 @@ SweepStr	SweepStrings
 Syn.Str4	Synth Str. 4
 Syn.Str5	Synth Str. 5
 SynStr1*	Syn.String1*
+Hope Str	Hope Strings
+PltnmStr	PlatinumStr.
 TaurusS.	TaurusString
 Leo Str.	Leo Strings
 SolPlexs	Solar Plexus
@@ -322,8 +333,10 @@ St.Choir	Stereo Choir
 ChoirAh2	Choir Aah 2
 MelChoir	Mellow Choir
 ChoirStr	Choir Strngs
+Str&C.Ah	Str.&ChoirAh
 SynVoix2	SynthVoice 2
 AnalgVox	Analog Voice
+DtAspirt	Det.Aspirate
 OrchHt**	Orch. Hit *
 OrchHit2	Orch. Hit 2
 BrsStb80	Brass Stab80
@@ -362,6 +375,7 @@ HrdBsTrb	HardBassTrmb
 TromSect	TromboneSect
 MutedTp#	MutedTrmpt #
 MuteTrp2	MutedTrmpt 2
+BakStair	BackstairTrp
 FrHrSolo	Fr.Horn Solo
 FrHorn 2	FrenchHorn 2
 HornOrch	HrnOrchestra
@@ -440,6 +454,7 @@ SoloSine	Solo Sine Ld
 AccentLd	Accent Lead
 FMSlwSwp	FM SlowSweep
 OctvBeep	Octave Beep
+SineLd 2	Sine Lead 2
 SawLead2	Saw. Lead 2
 ThickSaw	Thick Saw Ld
 Dyna.Saw	Dynamic Saw
@@ -453,9 +468,11 @@ PulseSaw	Pulse Saw Ld
 Dr. Lead	Doctor Lead
 VeloLead	VelocityLead
 Dunce Ld	Dunce Lead
+Str8.Saw	Straight Saw
 Str8Puls	StraightPuls
 PWMania	PWM Mania Ld
 ModulSaw	Modular Saw.
+MouthSaw	Mouthed Saw
 SimplSaw	Simple Saw.
 SeqAnalg	Seq. Analog
 SawLead*	Sawtooth Ld*
@@ -470,6 +487,7 @@ DaSyncLd	TheSyncLead
 BrthLayr	Breath Layer
 5thLdSft	5thLeadSoft
 Fat&Prky	Fat & Perky
+Sync B&L	Sync Bass&Ld
 RotarStr	Rotary Str.
 Area51Pd	Area 51 Pad
 DarkMoon	Dark Moon Pd
@@ -899,17 +917,3 @@ SynCmpLd	SynthComp.Ld
 BrthyFlt	BreathyFlute
 SynLead1	Synth Lead 1
 SynLead2	Synth Lead 2
-StNaslGt	St.NasalGtr.
-Sync B&L	Sync Bass&Ld
-BrBstnBa	Brt.BostonBa
-CoolthBa	Coolth Bass
-Turnpike	Turnpike EP
-Str8.Saw	Straight Saw
-DetFlops	DetunedFlops
-BakStair	BackstairTrp
-Soho EP	Soho E.Piano
-Hope Str	Hope Strings
-SweepClv	Sweep Clav.
-DtAspirt	Det.Aspirate
-WaysideG	Wayside Gtr.
-PwrMnhtn	PowerMnhattn

@@ -2,6 +2,8 @@ bitmaps/xg/voices.tsv
 bitmaps/xg/system.tsv
 bitmaps/xg/freeChord.tsv
 bitmaps/xg/qyRsrc.tsv
+bitmaps/sc/voices.tsv
+bitmaps/sc/system.tsv
 bank/gm2.tsv
 bank/xg.tsv
 bank/gs.tsv

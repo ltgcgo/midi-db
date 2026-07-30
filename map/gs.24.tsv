@@ -7,15 +7,19 @@ BrthTnSx	Breathy Tenor Sax
 Uprt.Pno	Upright Piano
 Piano 1w	Wide Grand Piano
 UprtP. w	Wide Upright Piano
+MildP. w	Wide Mild Piano
 Piano 1d	Dark Grand Piano
 EuropePf	European Piano
 PianoStr	Piano + Strings 1
 Pno+Str2	Piano + Strings 2
 DreamP.2	Dream Piano 2
 Piano 2w	Wide Bright Piano
+PopPno w	Wide Pop Piano
+RockPnoW	Wide Rock Piano
 EGRhode1	E. Grand + Rhodes 1
 EGRhode2	E. Grand + Rhodes 2
 Piano 3w	Wide Electric Grand
+HnkyTk w	Wide Honky Tonk
 Old Uprt	Old Upright Piano
 Det.EP 1	Detuned E. Piano 1
 StSoftEP	Stereo Soft EP
@@ -53,6 +57,7 @@ HardVibr	Hard Vibraphone
 Pop Vibr	Pop Vibraphone
 Vib. w	Wide Vibraphone.
 Vibra. w	Wide Vibraphone
+Marmba w	Wide Marimba
 Xylofn.w	Wide Xylophone
 ChchBel2	Church Bell 2
 TubBel w	Wide Tubular Bell
