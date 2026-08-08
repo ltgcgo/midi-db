@@ -1214,7 +1214,7 @@ LSB	PRG	MSB	NME	ELC	LVL	VXP
 004	117	042	Snare3!!		4	gs4:Snare3!!
 004	117	043	Snare4!!		4	gs4:Snare4!!
 004	117	044	Snare5!!		4	gs4:Snare5!!
-000	118	049	Syn Drum	0	1	gs1:Syn Drum
+000	118	049	Syn.Drum	0	1	gs1:Syn Drum
 000	118	008	808 Tom		1	gs1:808 Tom
 000	118	009	ElecPerc		1	gs1:ElecPerc
 003	118	010	SinePerc		3	gs3:SinePerc
