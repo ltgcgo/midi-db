@@ -43,8 +43,12 @@ const constructList = async function (invokeDepth, map, fileStream, parentBuffer
 		//binaryString.set(parentBuffer);
 		//binaryString[parentBuffer.length] = binaryId;
 		//console.debug(line.name, binaryString);
-		const binaryString = `${parentBuffer != null ? parentBuffer : ""}${line.id}${tailBuffer != null ? tailBuffer : ""}`;
+		const appendNow = line.name.indexOf("@") == 0;
+		if (appendNow) {
+			line.name = line.name.substring(1);
+		};
 		const newPath = `${currentPath}${currentPath?.length > 0 ? "." : ""}${line.name}`;
+		const binaryString = `${parentBuffer != null ? parentBuffer : ""}${line.id}${appendNow && tailBuffer != null ? tailBuffer : ""}`;
 		//console.debug(newPath, binaryString);
 		//map[newPath] = binaryString.toHex();
 		//map[newPath] = binaryString;
