@@ -4,3 +4,4 @@
 .zsh_history
 
 dist/*.ins
+dist/*.json
