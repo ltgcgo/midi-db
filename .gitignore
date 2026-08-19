@@ -5,3 +5,4 @@
 
 dist/*.ins
 dist/*.json
+dist/*.tsv

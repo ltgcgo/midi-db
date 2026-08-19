@@ -1,0 +1,12 @@
+id	name
+00	system
+20	userBank
+21	userDrum
+22	userEfx
+23	userCommon
+24	userPart1a
+25	userPart1b
+26	userPart2a
+27	userPart2b
+40	patch
+41	drum

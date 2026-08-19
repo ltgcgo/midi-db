@@ -63,6 +63,10 @@ const constructList = async function (invokeDepth, map, fileStream, parentBuffer
 				tailBuffer = ""; // Checksum.
 				break;
 			};*/
+			case "^": {
+				tailBuffer = "CR"; // Checksum region start/begin.
+				break;
+			};
 		};
 		if (tailBuffer?.length > 0) {
 			line.name = line.name.substring(1);
