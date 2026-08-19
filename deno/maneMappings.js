@@ -25,14 +25,24 @@ const readFileStreamWith = async function (path, method) {
 		} catch (err) {console.error(err)};
 	};
 };
+const tokenMap = new Map([["!", "CS"]]);
 const emitMapTsv = function (map, firstLine) {
 	let file = firstLine;
 	for (const [key, value] of map) {
-		file += `\n${key}\t${value}`;
+		let newKey = key;
+		let newValue = value;
+		for (const [token, tailing] of tokenMap) {
+			if (key.indexOf(token) < 0) {
+				continue;
+			};
+			newKey = key.replace(token, "");
+			newValue += tailing;
+		};
+		file += `\n${newKey}\t${newValue}`;
 	};
 	return file;
 };
-const constructList = async function (invokeDepth, map, fileStream, parentBuffer, currentPath, filePrefix, tailBuffer) {
+const constructList = async function (invokeDepth, map, fileStream, parentBuffer, currentPath, filePrefix) {
 	const currentDepth = invokeDepth + 1;
 	if (currentDepth >= maxDepth) return;
 	console.debug(`Building for "${filePrefix}:${currentPath != null ? currentPath : (root)}"...`);
@@ -43,12 +53,22 @@ const constructList = async function (invokeDepth, map, fileStream, parentBuffer
 		//binaryString.set(parentBuffer);
 		//binaryString[parentBuffer.length] = binaryId;
 		//console.debug(line.name, binaryString);
-		const appendNow = line.name.indexOf("@") == 0;
-		if (appendNow) {
+		let tailBuffer;
+		switch (line.name[0]) {
+			case "@": {
+				tailBuffer = "DI"; // Device ID.
+				break;
+			};
+			/*case "!": {
+				tailBuffer = ""; // Checksum.
+				break;
+			};*/
+		};
+		if (tailBuffer?.length > 0) {
 			line.name = line.name.substring(1);
 		};
 		const newPath = `${currentPath}${currentPath?.length > 0 ? "." : ""}${line.name}`;
-		const binaryString = `${parentBuffer != null ? parentBuffer : ""}${line.id}${appendNow && tailBuffer != null ? tailBuffer : ""}`;
+		const binaryString = `${parentBuffer != null ? parentBuffer : ""}${line.id}${tailBuffer != null ? tailBuffer : ""}`;
 		//console.debug(newPath, binaryString);
 		//map[newPath] = binaryString.toHex();
 		//map[newPath] = binaryString;
@@ -123,8 +143,7 @@ await Deno.writeTextFile(
 			(await Deno.open("./mane/syx.tsv")).readable,
 			"",
 			"",
-			"./mane/syx",
-			"DI"
+			"./mane/syx"
 		),
 		firstLines
 	)
