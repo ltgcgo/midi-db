@@ -1,0 +1,13 @@
+id	name
+00	rxProgram
+01	rxBank
+02	rxPitch
+03	rxNAt
+04	rxPAt
+05	rxModulation
+06	rxVolume
+07	rxPanpot
+08	rxExpression
+09	rxSustain
+0a	phaseLock
+0b	veloCurveType

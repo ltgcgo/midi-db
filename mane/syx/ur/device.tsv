@@ -1,0 +1,8 @@
+id	name
+01	volume
+03	fineTune
+04	coarseTune
+05	global
+08	tuning
+09	controller
+0a	keyed

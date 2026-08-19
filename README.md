@@ -1,6 +1,9 @@
 # midi-db
 🎹 Data concerning MIDI standards.
 
+## Mane Mappings
+Akin to Fabric Yarn, **Octavia Mane** supplies bidirectional mappings from raw bytes to readable names. This is used to conduct readable assembly and disassembly in Octavia MICC.
+
 ## Mixed definitions
 - `OctaviaRecommends.ins` (MU2000, PSR-2000, PLG-DR, PLG-PC, PLG-PF, PLG-AP, PLG-VL, PLG-SG, PLG-DX, PLG-AN, SC-8850, PA80)
 - `OctaviaAlternative.ins` (MU2000, PSR-2000, PLG-DR, PLG-PC, PLG-AN, SC-8850, SD-90, PA80, NS5R)
@@ -10,8 +13,11 @@
 * [XG System](/bitmaps/xg/system.tsv)
 * [XG Voices](/bitmaps/xg/voices.tsv)
 
-## Fields
-### ID maps
+## Voice Data
+### Fields
+#### ID maps
+> Outdated information.
+
 ID maps are TSV files.
 
 * `MSB` defines the cc0 (bank MSB) value of the voice.
@@ -25,7 +31,9 @@ ID maps are TSV files.
   * Any value above is not defined.
 * `DRM` defines the drum map ID used. Can also be used by voice menus.
 
-### Drum maps
+#### Drum maps
+> Outdated information.
+
 Drum maps are custom script files.
 
 * `drm` defines the current drum map ID to write to.
@@ -40,7 +48,7 @@ Drum maps are custom script files.
 * `nec` sets the note element count of the current note number. Defaults to `1`.
 
 ## Voice Maps
-See all of the [correct names](/bank/en.tsv).
+> Outdated information.
 
 Major maps contains Yamaha-ish voice/kit IDs, not actual names. Actual names for devices require additional maps.
 

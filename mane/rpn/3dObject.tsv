@@ -1,0 +1,10 @@
+id	name
+00	azimuth
+01	elevation
+02	gain
+03	distanceRatio
+04	maxDistance
+05	gainAtBound
+06	refDistRatio
+07	panSpreadAngle
+08	rollAngle

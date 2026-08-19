@@ -1,0 +1,14 @@
+id	name
+08	vibratoRate
+09	vibratoDepth
+0a	vibratoDelay
+20	brightness
+21	resonance
+24	hpfCutoff
+30	eqBassGain
+31	eqTrebleGain
+34	eqBassFreq
+35	eqTrebleFreq
+63	attackTime
+64	decayTime
+66	releaseTime
