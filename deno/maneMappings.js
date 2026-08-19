@@ -124,7 +124,7 @@ await Deno.writeTextFile(
 			"",
 			"",
 			"./mane/syx",
-			"DE"
+			"DI"
 		),
 		firstLines
 	)
