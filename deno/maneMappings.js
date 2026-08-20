@@ -112,14 +112,16 @@ const constructList = async function (invokeDepth, map, childList, fileStream, p
 				symlinkCache.set(nullableLinkTargetPath, treeName);
 			};
 		};
-		if (ownChildrenList.length > 0 && !(pointerCurrentLevel?.length > 0)) {
-			leafNode.c = ownChildrenList;
-		} else if (carryOver.length > 0) {
-			//console.log(carryOver);
-			for (const token of carryOver) {
-				const addition = tokenMap.get(token);
-				if (addition?.length > 0) {
-					leafNode.v += addition;
+		if (!(pointerCurrentLevel.length > 0)) {
+			if (ownChildrenList.length > 0) {
+				leafNode.c = ownChildrenList;
+			} else if (carryOver.length > 0) {
+				//console.log(carryOver);
+				for (const token of carryOver) {
+					const addition = tokenMap.get(token);
+					if (addition?.length > 0) {
+						leafNode.v += addition;
+					};
 				};
 			};
 		};
