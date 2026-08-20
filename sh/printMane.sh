@@ -2,7 +2,9 @@
 printf "\$ tree -ifl ./mane\n"
 tree -ifl ./mane | while IFS= read -r line; do
 	if [[ "$line" != *" -> "* ]]; then
-		echo $line
+		if [[ "$line" == *".tsv" ]]; then
+			echo $line
+		fi
 	fi
 done
 printf "\n"
