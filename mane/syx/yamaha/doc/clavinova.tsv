@@ -5,6 +5,8 @@ id	name
 11	special
 14	reset
 1f	guideMode
+21	guideLamp
+22	panel
 50	control
 51	varLenDataA
 52	varLenDataB
