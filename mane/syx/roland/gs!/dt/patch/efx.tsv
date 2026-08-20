@@ -16,14 +16,14 @@ id	name
 0e	nameChar14
 0f	nameChar15
 30	reverbType
-31	reverbCharacter
-32	reverbPreLpf
+31	reverbCategory
+32	reverbLpfCutoff
 33	reverbLevel
 34	reverbTime
 35	reverbFeedback
-37	reverbDelay
+37	reverbPreDelay
 38	chorusType
-39	chorusPreLpf
+39	chorusLpfCutoff
 3a	chorusLevel
 3b	chorusFeedback
 3c	chorusDelay
@@ -32,7 +32,7 @@ id	name
 3f	chorusSendToReverb
 40	chorusSendToDelay
 50	delayType
-51	delayPreLpf
+51	delayLpfCutoff
 52	delayTimeC
 53	delayTimeRatioL
 54	delayTimeRatioR

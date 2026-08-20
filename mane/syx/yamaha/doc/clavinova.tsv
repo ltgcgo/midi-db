@@ -1,0 +1,10 @@
+id	name
+02	clockInternal
+03	clockExternal
+06	bulk
+11	special
+14	reset
+1f	guideMode
+50	control
+51	varLenDataA
+52	varLenDataB
