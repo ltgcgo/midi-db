@@ -38,12 +38,14 @@ const emitMapTsv = function (map, firstLine) {
 	for (const [key, value] of map) {
 		let newKey = key;
 		let newValue = value;
-		for (const [token, tailing] of tokenMap) {
-			if (key.indexOf(token) < 0) {
-				continue;
+		if ("0123456789abcdef".indexOf(value[0]) >= 0) {
+			for (const [token, tailing] of tokenMap) {
+				if (key.indexOf(token) < 0) {
+					continue;
+				};
+				newKey = key.replace(token, "");
+				newValue += tailing;
 			};
-			newKey = key.replace(token, "");
-			newValue += tailing;
 		};
 		file += `\n${newKey}\t${newValue}`;
 	};
@@ -92,15 +94,8 @@ const constructList = async function (invokeDepth, map, childList, fileStream, p
 		//console.debug(newPath, binaryString);
 		//map[newPath] = binaryString.toHex();
 		//map[newPath] = binaryString;
-		map.set(newPath, binaryString);
 		const ownChildrenList = [], leafNode = {"k": treeName, "v": addedElement};
 		childList.push(leafNode);
-		await readFileStreamWith(
-			`./${filePrefix}/${newPath.replaceAll(".", "/")}.tsv`,
-			async (childStream) => {
-				await constructList(currentDepth, map, ownChildrenList, childStream, binaryString, newPath, filePrefix, newCarryOver);
-			}
-		);
 		const nullableLinkTargetPath = await readPathIfSymLink(`./${filePrefix}/${newPath.replaceAll(".", "/")}.tsv`);
 		let pointerCurrentLevel;
 		if (nullableLinkTargetPath?.length > 0) {
@@ -112,7 +107,16 @@ const constructList = async function (invokeDepth, map, childList, fileStream, p
 				symlinkCache.set(nullableLinkTargetPath, treeName);
 			};
 		};
-		if (!(pointerCurrentLevel.length > 0)) {
+		if (pointerCurrentLevel?.length > 0) {
+			map.set(newPath, `@${currentPath}${currentPath?.length > 0 ? "." : ""}${pointerCurrentLevel}:${binaryString}`);
+		} else {
+			map.set(newPath, binaryString);
+			await readFileStreamWith(
+				`./${filePrefix}/${newPath.replaceAll(".", "/")}.tsv`,
+				async (childStream) => {
+					await constructList(currentDepth, map, ownChildrenList, childStream, binaryString, newPath, filePrefix, newCarryOver);
+				}
+			);
 			if (ownChildrenList.length > 0) {
 				leafNode.c = ownChildrenList;
 			} else if (carryOver.length > 0) {
