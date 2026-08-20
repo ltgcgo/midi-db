@@ -3,6 +3,7 @@
 import TextReader from "../libs/rochelle@ltgcgo/textRead.mjs";
 import DsvParser from "../libs/rochelle@ltgcgo/dsvParse.mjs";
 
+const rootPath = Deno.cwd();
 const firstLines = "path\tbinary";
 const maxDepth = 16;
 
@@ -25,6 +26,12 @@ const readFileStreamWith = async function (path, method) {
 		} catch (err) {console.error(err)};
 	};
 };
+const readPathIfSymLink = async function (path) {
+	try {
+		if (!(await Deno.lstat(path)).isSymlink) return;
+		return (await Deno.readLink(path)).replace(rootPath, ".");
+	} catch (err) {};
+};
 const tokenMap = new Map([["!", "CS"]]);
 const emitMapTsv = function (map, firstLine) {
 	let file = firstLine;
@@ -45,6 +52,7 @@ const emitMapTsv = function (map, firstLine) {
 const constructList = async function (invokeDepth, map, childList, fileStream, parentBuffer, currentPath, filePrefix, carryOver = "") {
 	const currentDepth = invokeDepth + 1;
 	if (currentDepth >= maxDepth) return;
+	const symlinkCache = new Map();
 	console.debug(`Building for "${filePrefix}:${currentPath != null ? currentPath : (root)}"...`);
 	for await (const line of DsvParser.parseObjects(DsvParser.TYPE_TSV | DsvParser.DATA_TEXT, TextReader.line(fileStream))) {
 		//console.debug(line);
@@ -87,10 +95,24 @@ const constructList = async function (invokeDepth, map, childList, fileStream, p
 		map.set(newPath, binaryString);
 		const ownChildrenList = [], leafNode = {"k": treeName, "v": addedElement};
 		childList.push(leafNode);
-		await readFileStreamWith(`./${filePrefix}/${newPath.replaceAll(".", "/")}.tsv`, async (childStream) => {
-			await constructList(currentDepth, map, ownChildrenList, childStream, binaryString, newPath, filePrefix, newCarryOver);
-		});
-		if (ownChildrenList.length > 0) {
+		await readFileStreamWith(
+			`./${filePrefix}/${newPath.replaceAll(".", "/")}.tsv`,
+			async (childStream) => {
+				await constructList(currentDepth, map, ownChildrenList, childStream, binaryString, newPath, filePrefix, newCarryOver);
+			}
+		);
+		const nullableLinkTargetPath = await readPathIfSymLink(`./${filePrefix}/${newPath.replaceAll(".", "/")}.tsv`);
+		let pointerCurrentLevel;
+		if (nullableLinkTargetPath?.length > 0) {
+			pointerCurrentLevel = symlinkCache.get(nullableLinkTargetPath);
+			if (pointerCurrentLevel?.length > 0) {
+				console.debug(`Pointed duplicate "${treeName}" to member "${pointerCurrentLevel}" in the current level.`);
+				leafNode.p = pointerCurrentLevel;
+			} else {
+				symlinkCache.set(nullableLinkTargetPath, treeName);
+			};
+		};
+		if (ownChildrenList.length > 0 && !(pointerCurrentLevel?.length > 0)) {
 			leafNode.c = ownChildrenList;
 		} else if (carryOver.length > 0) {
 			//console.log(carryOver);
