@@ -63,10 +63,14 @@ const constructList = async function (invokeDepth, map, childList, fileStream, p
 		//binaryString.set(parentBuffer);
 		//binaryString[parentBuffer.length] = binaryId;
 		//console.debug(line.name, binaryString);
-		let tailBuffer, newCarryOver = carryOver, treeName = line.name;
+		let headBuffer, tailBuffer, newCarryOver = carryOver, treeName = line.name;
 		switch (line.name[0]) {
 			case "@": {
 				tailBuffer = "DI"; // Device ID.
+				break;
+			};
+			case "$": {
+				headBuffer = "DI"; // Device ID.
 				break;
 			};
 			case "!": {
@@ -84,13 +88,13 @@ const constructList = async function (invokeDepth, map, childList, fileStream, p
 			newCarryOver += nameLastChar;
 			treeName = treeName.substring(0, line.name.length - 1);
 		};
-		if (tailBuffer?.length > 0) {
+		if (tailBuffer?.length > 0 || headBuffer?.length > 0) {
 			treeName = treeName.substring(1);
 			line.name = line.name.substring(1);
 		};
 		//(carryOver?.length > 0 || newCarryOver?.length > 0) && console.debug(treeName, carryOver, newCarryOver);
 		const newPath = `${currentPath}${currentPath?.length > 0 ? "." : ""}${line.name}`;
-		const addedElement = `${line.id}${tailBuffer != null ? tailBuffer : ""}`;
+		const addedElement = `${headBuffer != null ? headBuffer : ""}${line.id}${tailBuffer != null ? tailBuffer : ""}`;
 		const binaryString = `${parentBuffer != null ? parentBuffer : ""}${addedElement}`;
 		//console.debug(newPath, binaryString);
 		//map[newPath] = binaryString.toHex();
