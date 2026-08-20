@@ -42,7 +42,7 @@ const emitMapTsv = function (map, firstLine) {
 	};
 	return file;
 };
-const constructList = async function (invokeDepth, map, childList, fileStream, parentBuffer, currentPath, filePrefix) {
+const constructList = async function (invokeDepth, map, childList, fileStream, parentBuffer, currentPath, filePrefix, carryOver = "") {
 	const currentDepth = invokeDepth + 1;
 	if (currentDepth >= maxDepth) return;
 	console.debug(`Building for "${filePrefix}:${currentPath != null ? currentPath : (root)}"...`);
@@ -53,24 +53,31 @@ const constructList = async function (invokeDepth, map, childList, fileStream, p
 		//binaryString.set(parentBuffer);
 		//binaryString[parentBuffer.length] = binaryId;
 		//console.debug(line.name, binaryString);
-		let tailBuffer;
+		let tailBuffer, newCarryOver = carryOver, treeName = line.name;
 		switch (line.name[0]) {
 			case "@": {
 				tailBuffer = "DI"; // Device ID.
 				break;
 			};
-			/*case "!": {
-				tailBuffer = ""; // Checksum.
+			case "!": {
+				newCarryOver += ""; // Checksum.
+				treeName = treeName.substring(1);
 				break;
-			};*/
+			};
 			case "^": {
 				tailBuffer = "CR"; // Checksum region start/begin.
 				break;
 			};
 		};
+		if (tokenMap.has(line.name[line.name.length - 1])) {
+			newCarryOver += line.name[line.name.length - 1];
+			treeName = treeName.substring(0, line.name.length - 1);
+		};
 		if (tailBuffer?.length > 0) {
+			treeName = treeName.substring(1);
 			line.name = line.name.substring(1);
 		};
+		//(carryOver?.length > 0 || newCarryOver?.length > 0) && console.debug(treeName, carryOver, newCarryOver);
 		const newPath = `${currentPath}${currentPath?.length > 0 ? "." : ""}${line.name}`;
 		const addedElement = `${line.id}${tailBuffer != null ? tailBuffer : ""}`;
 		const binaryString = `${parentBuffer != null ? parentBuffer : ""}${addedElement}`;
@@ -78,13 +85,21 @@ const constructList = async function (invokeDepth, map, childList, fileStream, p
 		//map[newPath] = binaryString.toHex();
 		//map[newPath] = binaryString;
 		map.set(newPath, binaryString);
-		const ownChildrenList = [], leafNode = {"k": line.name, "v": addedElement};
+		const ownChildrenList = [], leafNode = {"k": treeName, "v": addedElement};
 		childList.push(leafNode);
 		await readFileStreamWith(`./${filePrefix}/${newPath.replaceAll(".", "/")}.tsv`, async (childStream) => {
-			await constructList(currentDepth, map, ownChildrenList, childStream, binaryString, newPath, filePrefix);
+			await constructList(currentDepth, map, ownChildrenList, childStream, binaryString, newPath, filePrefix, newCarryOver);
 		});
 		if (ownChildrenList.length > 0) {
 			leafNode.c = ownChildrenList;
+		} else if (carryOver.length > 0) {
+			//console.log(carryOver);
+			for (const token of carryOver) {
+				const addition = tokenMap.get(token);
+				if (addition?.length > 0) {
+					leafNode.v += addition;
+				};
+			};
 		};
 	};
 	return map;
