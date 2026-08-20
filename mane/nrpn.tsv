@@ -11,7 +11,7 @@ id	name
 1d	drumReverb
 1e	drumChorus
 1f	drumDelay
-24	drumHpfCutoff
+24	drumThinness
 30	drumEqBassGain
 31	drumEqTrebleGain
 34	drumEqBassFreq

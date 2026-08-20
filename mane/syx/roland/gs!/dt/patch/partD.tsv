@@ -1,0 +1,6 @@
+id	name
+00	bankLsb
+01	fallbackLsb
+20	eq
+21	outputAssign
+22	efx

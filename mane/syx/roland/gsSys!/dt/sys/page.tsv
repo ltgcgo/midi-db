@@ -1,5 +1,5 @@
 id	name
-00	frame0data00
+00	frame0
 01	frame0data01
 02	frame0data02
 03	frame0data03
@@ -63,7 +63,7 @@ id	name
 3d	frame0data61
 3e	frame0data62
 3f	frame0data63
-40	frame1data00
+40	frame1
 41	frame1data01
 42	frame1data02
 43	frame1data03

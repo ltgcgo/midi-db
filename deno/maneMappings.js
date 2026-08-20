@@ -142,11 +142,6 @@ const constructList = async function (invokeDepth, map, childList, fileStream, p
 
 //await enumerateFoldersWith("./mane", console.log);
 
-
-
-
-;
-
 //console.debug(fullCcMap);
 //console.debug(fullRpnMap);
 //console.debug(fullNrpnMap);

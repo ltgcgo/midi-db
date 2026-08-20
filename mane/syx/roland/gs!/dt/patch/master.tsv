@@ -1,0 +1,9 @@
+id	name
+00	fineTune
+01	fineTuneByte2
+02	fineTuneByte3
+03	fineTuneByte4
+04	volume
+05	coarseTune
+06	pan
+7f	reset

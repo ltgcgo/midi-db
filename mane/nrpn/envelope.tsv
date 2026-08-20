@@ -4,7 +4,7 @@ id	name
 0a	vibratoDelay
 20	brightness
 21	resonance
-24	hpfCutoff
+24	thinness
 30	eqBassGain
 31	eqTrebleGain
 34	eqBassFreq
