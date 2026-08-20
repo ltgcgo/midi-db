@@ -42,7 +42,7 @@ const emitMapTsv = function (map, firstLine) {
 	};
 	return file;
 };
-const constructList = async function (invokeDepth, map, fileStream, parentBuffer, currentPath, filePrefix) {
+const constructList = async function (invokeDepth, map, childList, fileStream, parentBuffer, currentPath, filePrefix) {
 	const currentDepth = invokeDepth + 1;
 	if (currentDepth >= maxDepth) return;
 	console.debug(`Building for "${filePrefix}:${currentPath != null ? currentPath : (root)}"...`);
@@ -72,14 +72,20 @@ const constructList = async function (invokeDepth, map, fileStream, parentBuffer
 			line.name = line.name.substring(1);
 		};
 		const newPath = `${currentPath}${currentPath?.length > 0 ? "." : ""}${line.name}`;
-		const binaryString = `${parentBuffer != null ? parentBuffer : ""}${line.id}${tailBuffer != null ? tailBuffer : ""}`;
+		const addedElement = `${line.id}${tailBuffer != null ? tailBuffer : ""}`;
+		const binaryString = `${parentBuffer != null ? parentBuffer : ""}${addedElement}`;
 		//console.debug(newPath, binaryString);
 		//map[newPath] = binaryString.toHex();
 		//map[newPath] = binaryString;
 		map.set(newPath, binaryString);
+		const ownChildrenList = [], leafNode = {"k": line.name, "v": addedElement};
+		childList.push(leafNode);
 		await readFileStreamWith(`./${filePrefix}/${newPath.replaceAll(".", "/")}.tsv`, async (childStream) => {
-			await constructList(currentDepth, map, childStream, binaryString, newPath, filePrefix);
+			await constructList(currentDepth, map, ownChildrenList, childStream, binaryString, newPath, filePrefix);
 		});
+		if (ownChildrenList.length > 0) {
+			leafNode.c = ownChildrenList;
+		};
 	};
 	return map;
 };
@@ -96,12 +102,18 @@ const constructList = async function (invokeDepth, map, fileStream, parentBuffer
 //console.debug(fullNrpnMap);
 //console.debug(fullSysExMap);
 
+const childTreeCc = [];
+const childTreeRpn = [];
+const childTreeNrpn = [];
+const childTreeSysEx = [];
+
 await Deno.writeTextFile(
 	"./dist/mane.cc.tsv",
 	emitMapTsv(
 		await constructList(
 			0,
 			new Map(),
+			childTreeCc,
 			(await Deno.open("./mane/cc.tsv")).readable,
 			"",
 			"",
@@ -110,12 +122,14 @@ await Deno.writeTextFile(
 		firstLines
 	)
 );
+await Deno.writeTextFile("./dist/mane.cc.tree.json", JSON.stringify(childTreeCc));
 await Deno.writeTextFile(
 	"./dist/mane.rpn.tsv",
 	emitMapTsv(
 		await constructList(
 			0,
 			new Map(),
+			childTreeRpn,
 			(await Deno.open("./mane/rpn.tsv")).readable,
 			"",
 			"",
@@ -124,12 +138,14 @@ await Deno.writeTextFile(
 		firstLines
 	)
 );
+await Deno.writeTextFile("./dist/mane.rpn.tree.json", JSON.stringify(childTreeRpn));
 await Deno.writeTextFile(
 	"./dist/mane.nrpn.tsv",
 	emitMapTsv(
 		await constructList(
 			0,
 			new Map(),
+			childTreeNrpn,
 			(await Deno.open("./mane/nrpn.tsv")).readable,
 			"",
 			"",
@@ -138,12 +154,14 @@ await Deno.writeTextFile(
 		firstLines
 	)
 );
+await Deno.writeTextFile("./dist/mane.nrpn.tree.json", JSON.stringify(childTreeNrpn));
 await Deno.writeTextFile(
 	"./dist/mane.syx.tsv",
 	emitMapTsv(
 		await constructList(
 			0,
 			new Map(),
+			childTreeSysEx,
 			(await Deno.open("./mane/syx.tsv")).readable,
 			"",
 			"",
@@ -152,3 +170,4 @@ await Deno.writeTextFile(
 		firstLines
 	)
 );
+await Deno.writeTextFile("./dist/mane.syx.tree.json", JSON.stringify(childTreeSysEx));
