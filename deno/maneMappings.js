@@ -28,6 +28,7 @@ const readFileStreamWith = async function (path, method) {
 };
 const readPathIfSymLink = async function (path) {
 	try {
+		return (await Deno.realPath(path)).replace(rootPath, ".");
 		if (!(await Deno.lstat(path)).isSymlink) return;
 		return (await Deno.readLink(path)).replace(rootPath, ".");
 	} catch (err) {};
