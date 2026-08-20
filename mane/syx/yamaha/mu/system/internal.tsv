@@ -1,0 +1,15 @@
+id	name
+00	muteLock
+01	adLock
+02	eqLock
+03	rxReset
+04	rxBank
+05	bulkOutInterval
+06	perfMidiCh
+07	perfCoarseTune
+08	lcdContrast
+09	midiOutPort
+10	drumEditRxNote
+12	voiceMap
+14	outputAssign
+15	outputGain

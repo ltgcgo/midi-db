@@ -1,0 +1,16 @@
+id	name
+00	system
+01	info
+02	efx
+03	ins
+06	letterDisp
+07	bitmapDisp
+08	multiA
+0a	multiB
+10	adPart
+11	adSystem
+30	drumSet1
+31	drumSet2
+32	drumSet3
+33	drumSet4
+70	plugin
