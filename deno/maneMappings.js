@@ -38,12 +38,12 @@ const emitMapTsv = function (map, firstLine) {
 	for (const [key, value] of map) {
 		let newKey = key;
 		let newValue = value;
-		if ("0123456789abcdef".indexOf(value[0]) >= 0) {
-			for (const [token, tailing] of tokenMap) {
-				if (key.indexOf(token) < 0) {
-					continue;
-				};
-				newKey = key.replace(token, "");
+		for (const [token, tailing] of tokenMap) {
+			if (key.indexOf(token) < 0) {
+				continue;
+			};
+			newKey = key.replace(token, "");
+			if ("0123456789abcdef".indexOf(value[0]) >= 0) {
 				newValue += tailing;
 			};
 		};
@@ -79,8 +79,9 @@ const constructList = async function (invokeDepth, map, childList, fileStream, p
 				break;
 			};
 		};
-		if (tokenMap.has(line.name[line.name.length - 1])) {
-			newCarryOver += line.name[line.name.length - 1];
+		const nameLastChar = line.name[line.name.length - 1]
+		if (tokenMap.has(nameLastChar)) {
+			newCarryOver += nameLastChar;
 			treeName = treeName.substring(0, line.name.length - 1);
 		};
 		if (tailBuffer?.length > 0) {
@@ -108,7 +109,13 @@ const constructList = async function (invokeDepth, map, childList, fileStream, p
 			};
 		};
 		if (pointerCurrentLevel?.length > 0) {
-			map.set(newPath, `@${currentPath}${currentPath?.length > 0 ? "." : ""}${pointerCurrentLevel}:${binaryString}`);
+			let normalisedPointer = `${currentPath}${currentPath?.length > 0 ? "." : ""}${pointerCurrentLevel}`;
+			if (newCarryOver?.length > 0) {
+				for (const token of newCarryOver) {
+					normalisedPointer = normalisedPointer.replace(token, "");
+				};
+			};
+			map.set(newPath, `@${normalisedPointer}:${binaryString}`);
 		} else {
 			map.set(newPath, binaryString);
 			await readFileStreamWith(
