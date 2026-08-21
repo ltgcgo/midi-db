@@ -2,7 +2,20 @@
 🎹 Data concerning MIDI standards.
 
 ## Mane Mappings
-Akin to Fabric Yarn, **Octavia Mane** supplies bidirectional mappings from raw bytes to readable names. This is used to conduct readable assembly and disassembly in Octavia MICC.
+**Octavia Mane** (backronym _Mapped Addresses, Named Extensions_) supplies bidirectional mappings from raw bytes to readable names, akin to Fabric Yarn mappings, which the name of this project was inspired from. This is used to conduct readable assembly and disassembly in Octavia MICC.
+
+The tree objects in the JSON mappings have the following meaning.
+
+- `k`: Current key segment.
+- `v`: Current value segment.
+- `c`: List of child nodes.
+- `p`: Same-level key pointer.
+
+There are also some markers.
+
+- `CR`: Checksum Calculation Region Start.
+- `CS`: Append Checksum Byte.
+- `DI`: Device ID.
 
 ## Mixed definitions
 - `OctaviaRecommends.ins` (MU2000, PSR-2000, PLG-DR, PLG-PC, PLG-PF, PLG-AP, PLG-VL, PLG-SG, PLG-DX, PLG-AN, SC-8850, PA80)
