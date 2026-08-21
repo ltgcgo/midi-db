@@ -3,8 +3,8 @@ id	name
 01	info
 02	efx
 03	ins
-06	letterDisp
-07	bitmapDisp
+06	letter
+07	bitmap
 08	multiA
 0a	multiB
 10	adPart
