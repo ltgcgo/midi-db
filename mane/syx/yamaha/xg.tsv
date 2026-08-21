@@ -5,8 +5,8 @@ id	name
 03	ins
 06	letter
 07	bitmap
-08	multiA
-0a	multiB
+08	multi
+0a	multiExt
 10	adPart
 11	adSystem
 30	drumSet1

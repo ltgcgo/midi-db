@@ -13,7 +13,7 @@ id	name
 0b	monoPoly
 0c	legato
 0d	pitchRange
-0e	portamentoSw
+0e	portamentoSwitch
 0f	portamento
 10	portamentoSecondByte
 11	brightness
