@@ -1,5 +1,5 @@
 id	name
-00	reservedOscCount
+00	minimumOscCount
 01	bankMsb
 02	bankLsb
 03	program
