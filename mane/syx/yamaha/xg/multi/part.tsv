@@ -4,7 +4,7 @@ id	name
 02	bankLsb
 03	program
 04	rxCh
-05	monoPoly
+05	poly
 06	repeatAssign
 07	type
 08	coarseTune

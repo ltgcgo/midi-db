@@ -10,7 +10,7 @@ id	name
 08	panpot
 09	coarseTune
 0a	fineTune
-0b	monoPoly
+0b	poly
 0c	legato
 0d	pitchRange
 0e	portamentoSwitch

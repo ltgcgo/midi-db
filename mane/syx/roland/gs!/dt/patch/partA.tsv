@@ -18,7 +18,7 @@ id	name
 10	rxPortamento
 11	rxSostenuto
 12	rxSoft
-13	monoPoly
+13	poly
 14	repeatAssign
 15	type
 16	coarseTune
