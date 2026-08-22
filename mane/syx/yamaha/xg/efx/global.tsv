@@ -66,7 +66,7 @@ id	name
 57	mfxPanpot
 58	mfxSendToReverb
 59	mfxSendToChorus
-5a	mfxConn
+5a	mfxSource
 5b	mfxPart
 5c	mfxModDepth
 5d	mfxPitchDepth
