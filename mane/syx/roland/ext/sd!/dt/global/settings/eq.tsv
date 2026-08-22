@@ -1,0 +1,10 @@
+id	name
+00	switch
+01	lowFreqL
+02	lowGainL
+03	highFreqL
+04	highGainL
+05	lowFreqR
+06	lowGainR
+07	highFreqR
+08	highGainR

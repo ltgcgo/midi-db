@@ -1,0 +1,11 @@
+id	name
+00	fineTune
+01	fineTuneByte2
+02	fineTuneByte3
+03	fineTuneByte4
+04	coarseTune
+05	volume
+06	systemCcSlot1
+07	systemCcSlot2
+08	systemCcSlot3
+09	systemCcSlot4

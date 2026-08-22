@@ -1,5 +1,7 @@
 id	name
-00	setup
+00	system
+01	global
+02	audio
 10	multi
 11	partGroup1
 12	partGroup2

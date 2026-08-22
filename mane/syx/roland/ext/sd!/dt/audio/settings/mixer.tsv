@@ -1,0 +1,14 @@
+id	name
+00	analogInGain
+01	analogInSend
+02	analogInMute
+10	digitalInGain
+11	digitalInSend
+12	digitalInMute
+20	usbWaveInGain
+21	usbWaveInSend
+22	usbWaveInMute
+30	synthGain
+31	synthSend
+32	synthMute
+43	ioMfx
