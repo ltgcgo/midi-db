@@ -1,0 +1,17 @@
+id	name
+00	seqNum
+01	text
+02	copyright
+03	trackTitle
+04	instrument
+05	lyrics
+06	marker
+07	cuePoint
+20	trackChannel
+21	trackPort
+2f	trackEnd
+51	setTempo
+54	setSmpteOffset
+58	setTimeSig
+59	setKeySig
+7f	seqEx

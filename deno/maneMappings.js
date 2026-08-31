@@ -206,6 +206,22 @@ await Deno.writeTextFile(
 );
 await Deno.writeTextFile("./dist/mane.nrpn.tree.json", JSON.stringify(childTreeNrpn));
 await Deno.writeTextFile(
+	"./dist/mane.meta.tsv",
+	emitMapTsv(
+		await constructList(
+			0,
+			new Map(),
+			childTreeCc,
+			(await Deno.open("./mane/meta.tsv")).readable,
+			"",
+			"",
+			"./mane/meta"
+		),
+		firstLines
+	)
+);
+await Deno.writeTextFile("./dist/mane.meta.tree.json", JSON.stringify(childTreeCc));
+await Deno.writeTextFile(
 	"./dist/mane.syx.tsv",
 	emitMapTsv(
 		await constructList(

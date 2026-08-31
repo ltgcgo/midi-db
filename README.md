@@ -1,8 +1,8 @@
 # midi-db
-🎹 Data concerning MIDI standards.
+🎹 Data concerning MIDI standards. [Documentation](https://gh.ltgc.cc/octavia/midi-db.html)
 
 ## Mane Mappings
-**Octavia Mane** (backronym _Mapped Addresses, Named Extensions_) supplies bidirectional mappings from raw bytes to readable names, akin to Fabric Yarn mappings, which the name of this project was inspired from. This is used to conduct readable assembly and disassembly in Octavia MICC.
+**Octavia Mane** (backronym _Mapped Addresses, Named Extensions_) supplies bidirectional mappings from raw bytes to readable names, akin to Fabric Yarn mappings, which the name of this project was inspired from. Mane mappings are used to conduct readable assembly and disassembly in Octavia MICC, however Octavia's own SysEx interpreter does not rely on Mane in any way.
 
 The tree objects in the JSON mappings have the following meaning.
 
