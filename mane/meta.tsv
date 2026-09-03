@@ -7,6 +7,8 @@ id	name
 05	lyrics
 06	marker
 07	cuePoint
+08	voiceName
+09	deviceName
 20	trackChannel
 21	trackPort
 2f	trackEnd
