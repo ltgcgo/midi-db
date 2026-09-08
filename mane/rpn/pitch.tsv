@@ -1,5 +1,8 @@
 id	name
-00	range
+00	bendRange
 01	fineTune
 02	coarseTune
+03	tuneProgram
+04	tuneBank
 05	modDepth
+07	bendRangeNote
