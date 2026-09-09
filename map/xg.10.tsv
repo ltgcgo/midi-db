@@ -12,8 +12,8 @@ DblConGr	DblConGrnd
 OldAcPno	OldAcPiano
 GrandP *	LvGrandPno
 StGrdPf*	LvStGrdPno
-BriteP #	BritPiano#
-BritPnoK	BritPianoK
+BriteP #	Brt.Piano#
+BritPnoK	Brt.PianoK
 StBrtPno	StBritePno
 DetBrPno	Det.BrtPno
 MIDI Gr4	MIDIGrand4
@@ -1210,3 +1210,12 @@ SynCmpLd	Syn.CompLd
 BrthyFlt	BrthyFlute
 SynLead1	SynthLead1
 SynLead2	SynthLead2
+CFX Grd$	CFX Grand$
+StudioG$	StudioGrd$
+BritePf$	Brt.Piano$
+Pop Grd$	Pop Grand$
+OctvPf1$	OctavePf1$
+OctvPf2$	OctavePf2$
+Rock Pf$	RockPiano$
+Amb. Pf$	Amb.Piano$
+CocktlP$	CoktailPf$
