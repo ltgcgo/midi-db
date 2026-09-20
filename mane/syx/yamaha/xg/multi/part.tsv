@@ -41,7 +41,7 @@ id	name
 27	pitchLfoFilter
 28	pitchLfoVolume
 30	rxPitch
-31	rxPAt
+31	rxCAt
 32	rxProgram
 33	rxCc
 34	rxNAt
@@ -69,12 +69,12 @@ id	name
 4a	scaleTune9
 4b	scaleTune10
 4c	scaleTune11
-4d	patPitch
-4e	patFilter
-4f	patVolume
-50	patLfoPitch
-51	patLfoFilter
-52	patLfoVolume
+4d	catPitch
+4e	catFilter
+4f	catVolume
+50	catLfoPitch
+51	catLfoFilter
+52	catLfoVolume
 53	natPitch
 54	natFilter
 55	natVolume

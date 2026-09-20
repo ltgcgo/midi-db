@@ -3,7 +3,7 @@ id	name
 01	rxBank
 02	rxPitch
 03	rxNAt
-04	rxPAt
+04	rxCAt
 05	rxModulation
 06	rxVolume
 07	rxPanpot

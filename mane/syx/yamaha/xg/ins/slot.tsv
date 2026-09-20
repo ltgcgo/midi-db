@@ -14,7 +14,7 @@ id	name
 0c	fromPart
 0d	modDepth
 0e	pitchDepth
-0f	patDepth
+0f	catDepth
 10	ac1Depth
 11	ac2Depth
 20	prm11

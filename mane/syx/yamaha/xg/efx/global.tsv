@@ -70,7 +70,7 @@ id	name
 5b	mfxPart
 5c	mfxModDepth
 5d	mfxPitchDepth
-5e	mfxPAtDepth
+5e	mfxCAtDepth
 5f	mfxAc1Depth
 60	mfxAc2Depth
 70	mfxPrm11
