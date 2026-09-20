@@ -71,7 +71,7 @@ for (const item of config.items) {
 		};
 	};
 };
-fileWriteText(`\n\n.Instrument Definitions\n\n[Normal Voices]`);
+fileWriteText(`\n\n.Instrument Definitions\n\n[${config.lists?.melodic ?? "Normal Voices"}]`);
 for (const item of config.items) {
 	//console.debug(item);
 	const [srcMsb, srcLsb, realMsb, realLsb, mode, catName] = item;
@@ -80,7 +80,7 @@ for (const item of config.items) {
 	fileWriteText(`\nPatch[${targetBank}]=${catName}`);
 };
 fileWriteText(`\nPatch[*]=1`);
-fileWriteText(`\n\n[Drum Kits]`);
+fileWriteText(`\n\n[${config.lists?.drumKit ?? "Drum Kits"}]`);
 for (const item of config.drums) {
 	//console.debug(item);
 	const [realMsb, realLsb, catName] = item;

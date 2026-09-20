@@ -1,4 +1,8 @@
 {
+	"lists": {
+		"melodic": "Octavia Recommended Set Melodic Voices",
+		"drumKit": "Octavia Recommended Set Drum Kits"
+	},
 	"banks": [
 		"pa.tsv", "gm2.tsv",
 		"xg.tsv", "gs.tsv", "sd.tsv",

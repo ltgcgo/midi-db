@@ -1,4 +1,8 @@
 {
+	"lists": {
+		"melodic": "Octavia Alternative Set Melodic Voices",
+		"drumKit": "Octavia Alternative Set Drum Kits"
+	},
 	"banks": [
 		"pa.tsv", "gm2.tsv",
 		"xg.tsv", "gs.tsv", "sd.tsv",
