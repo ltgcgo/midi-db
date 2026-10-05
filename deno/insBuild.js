@@ -65,7 +65,15 @@ for (const item of config.items) {
 		};*/
 		loadedBank.strictMode = isLax ? false : true;
 		let voiceObject = loadedBank.get(srcMsb, prg, srcLsb, mode ?? "g2");
-		if (voiceObject.ending === " " && voiceObject?.name?.length > 0) {
+		if (
+			(
+				voiceObject.ending === " " ||
+				isLax && (
+					voiceObject.ending === "^"
+				)
+			) &&
+			voiceObject?.name?.length > 0
+		) {
 			fileWriteText(`\n${prg}=${loadedName.getMapped(voiceObject?.name)}`);
 			emittedInstruments ++;
 		};

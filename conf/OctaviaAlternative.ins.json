@@ -116,7 +116,7 @@
 		[  0, 149,   0,  109, "xg", "Yamaha PSR #109 Panel Voice"],
 		[  0, 150,   0,  110, "xg", "Yamaha PSR #110 Panel Voice"],
 		[  0, 151,   0,  111, "xg", "Yamaha PSR #111 Panel Voice"],
-		[  0, 128,   0,  112, "xg", "Yamaha PSR #112 Panel Voice"],
+		[  0, 128,   0,  112, "xg", "Yamaha PSR #112 Panel Voice", true],
 		[  0, 129,   0,  113, "xg", "Yamaha PSR #113 Panel Voice"],
 		[  0, 130,   0,  114, "xg", "Yamaha PSR #114 Panel Voice"],
 		[  0, 131,   0,  115, "xg", "Yamaha PSR #115 Panel Voice"],

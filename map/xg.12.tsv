@@ -165,7 +165,7 @@ Gt.Pinch	Guitar Pinch
 BrtMnhtn	Bright Mnhtn
 PwrMnhtn	PowerMnhattn
 Ovrdriv*	Overdriven *
-Dist.Gt#	Dist. Gtt. #
+Dist.Gt#	Dist. Gtr. #
 DstRthmG	DistRhythmGt
 DistGtr2	Dist. Gtr. 2
 DistGtr3	Dist. Gtr. 3
@@ -924,3 +924,22 @@ OctvPf2$	Octave Pf.2$
 Rock Pf$	Rock Piano $
 Amb. Pf$	Amb. Piano $
 CocktlP$	Cocktail Pf$
+BriteP *	BrightPiano*
+MIDIGrd*	MIDI Grand *
+Hpschrd*	Harpsichord*
+MusicBx*	Music Box *
+Vibrafn*	Vibraphone *
+Xylophn*	Xylophone *
+TubeBel*	TubularBell*
+ReedOrg*	Reed Organ *
+BallrmAc	BallroomAcrd
+Folk Gtr	Folk Guitar
+CleanGt*	CleanGuitar*
+Dist.Gt*	Dist.Guitar*
+Acou.Ba*	Acou. Bass *
+SoloVln*	Solo Violin*
+PizzStr*	Pizz.String*
+AnlgStr*	AnalgString*
+MutedTp*	MutedTrmpt *
+SqrLead*	SquareLead *
+StlDrum*	Steel Drums*

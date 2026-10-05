@@ -2,7 +2,7 @@ id	name
 00	seqNum
 01	text
 02	copyright
-03	trackTitle
+03	title
 04	instrument
 05	lyrics
 06	marker
