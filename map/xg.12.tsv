@@ -1,6 +1,7 @@
 ID	Name
 ClvchrdK	Clavichord K
 ElctrAtm	ElectricAtms
+Mel Tom2	Melod. Tom 2
 GrandP #	Grand Piano#
 GrndPnoK	GrandPiano K
 MelloGrP	MellowGrdPno
@@ -17,10 +18,12 @@ BritPnoK	BrightPianoK
 StBrtPno	StBritePiano
 DetBrPno	Det.BritePno
 MIDI Gr4	MIDI Grand 4
+BriteP *	BrightPiano*
 EGndPnoK	ElGrndPianoK
 Det.CP80	Detuned CP80
 LayerCP1	Layered CP 1
 LayerCP2	Layered CP 2
+MIDIGrd*	MIDI Grand *
 HnkyTnkK	HonkyTonk K
 EPiano1#	El. Piano 1#
 EPiano1K	El.Piano 1 K
@@ -61,6 +64,7 @@ ChrBelEP	ChorusBellEP
 HpschrdK	HarpsichordK
 Hpschrd2	Harpsichord2
 Hpschrd3	Harpsichord3
+Hpschrd*	Harpsichord*
 Clavi. #	Clavinet   #
 ClvinetK	Clavinet K.
 ClaviWah	Wah Clavinet
@@ -71,10 +75,14 @@ SupClavi	Super Clavi.
 HardyPlk	Hardy Pluck
 BrtClav*	BrightClavi*
 S. Orgel	Small Orgel
+MusicBx*	Music Box *
 VibrafnK	Vibraphone K
 HardVibr	HardVibrafon
+Vibrafn*	Vibraphone *
 SMarimba	Sine Marimba
+Xylophn*	Xylophone *
 ChrchBel	Church Bells
+TubeBel*	TubularBell*
 DrawOrg#	Draw Organ #
 DetDrwOr	Det.DrawOrgn
 60sDrOrg	60sDrawOrgan
@@ -106,9 +114,11 @@ ChurOrg3	ChurchOrgan3
 ChurOrg2	ChurchOrgan2
 OrgFlute	Organ Flute
 TrmOrgFl	TremOrgFlute
+ReedOrg*	Reed Organ *
 AccordIt	Accordion It
 Harmo. 2	Harmonica 2
 TngoAcd2	TangoAccord2
+BallrmAc	BallroomAcrd
 NylonGt#	Nylon Gtr. #
 NylonGt2	Nylon Gtr. 2
 NylonGt3	Nylon Gtr. 3
@@ -123,6 +133,7 @@ SteelGt2	Steel Gtr. 2
 Nyln&Stl	Nyln&SteelGt
 Stl&Body	SteelGt&Body
 Nashv.Gt	Nashville Gt
+Folk Gtr	Folk Guitar
 JazzGtr#	Jazz Gtr. #
 MelloGtr	Mellow Gtr.
 Jazz Amp	Jazz Gtr Amp
@@ -150,6 +161,7 @@ HammrDbl	Doubl Hammer
 HammrSt.	StereoHammer
 FMChoGtr	FMChorusGtr.
 PeskyGtr	Pesky Guitar
+CleanGt*	CleanGuitar*
 60sClnGt	60s'CleanGtr
 MutedGt#	Muted Gtr. #
 Funk Gtr	Funk Gtr. 1
@@ -178,6 +190,7 @@ TwinDist	Twin Dist.Gt
 RckRthm2	RockRhythm 2
 RockRthm	Rock Rhythm
 BiteEGtr	BiteE.Guitar
+Dist.Gt*	Dist.Guitar*
 AcouHarm	Acou.Hrmonix
 GtFeedbk	Gtr.Feedback
 GtrHrmo2	Gtr. Harmo 2
@@ -189,6 +202,7 @@ BostonBa	Boston Bass
 BrBstnBa	Brt.BostonBa
 CoolthBa	Coolth Bass
 WalkSyBa	Walkin'SynBa
+Acou.Ba*	Acou. Bass *
 FingrBa#	FingerBass #
 FingrDrk	DarkFingerBs
 FlangrBa	Flanger Bass
@@ -262,6 +276,7 @@ CadenzDk	Dark Cadenza
 ViolinSc	Violin Sect.
 HdVlnSec	HardViolnSec
 SlVlnSec	SlowViolnSec
+SoloVln*	Solo Violin*
 DblViola	Double Viola
 ViolaSec	Viola Sect.
 HdVlaSec	HardViolaSec
@@ -282,6 +297,7 @@ BrTrmStr	BriteTremStr
 TremStr*	TremStrings*
 LvTrmStr	LiveTremStr.
 PizzOct.	Pizz. Octave
+PizzStr*	Pizz.String*
 ElecHarp	ElectricHarp
 VlinHarp	Violin Harp
 DtVliHrp	DetViolinHrp
@@ -329,6 +345,7 @@ PltnmStr	PlatinumStr.
 TaurusS.	TaurusString
 Leo Str.	Leo Strings
 SolPlexs	Solar Plexus
+AnlgStr*	AnalgString*
 St.Choir	Stereo Choir
 ChoirAh2	Choir Aah 2
 MelChoir	Mellow Choir
@@ -376,6 +393,7 @@ TromSect	TromboneSect
 MutedTp#	MutedTrmpt #
 MuteTrp2	MutedTrmpt 2
 BakStair	BackstairTrp
+MutedTp*	MutedTrmpt *
 FrHrSolo	Fr.Horn Solo
 FrHorn 2	FrenchHorn 2
 HornOrch	HrnOrchestra
@@ -455,6 +473,7 @@ AccentLd	Accent Lead
 FMSlwSwp	FM SlowSweep
 OctvBeep	Octave Beep
 SineLd 2	Sine Lead 2
+SqrLead*	SquareLead *
 SawLead2	Saw. Lead 2
 ThickSaw	Thick Saw Ld
 Dyna.Saw	Dynamic Saw
@@ -540,7 +559,7 @@ S.Gameln	St. Gamelan
 RamaCymb	Rama Cymbal
 AsianBel	Asian Bells
 GlasPerc	Glass Perc.
-Mel Tom2	Melod. Tom 2
+StlDrum*	Steel Drums*
 ElecPerc	Elec. Perc.
 Syn.Perc	Synth Perc.
 RvCymbl2	Rev.Cymbal 2
@@ -551,6 +570,13 @@ Rev.Kick	Reverse Kick
 RConBaDr	RevConBaDrum
 Rev. Tom	Reverse Tom
 Rev.Tom2	ReverseTom 2
+StudioG$	StudioGrand$
+BritePf$	BrightPiano$
+OctvPf1$	Octave Pf.1$
+OctvPf2$	Octave Pf.2$
+Rock Pf$	Rock Piano $
+Amb. Pf$	Amb. Piano $
+CocktlP$	Cocktail Pf$
 MtdClavi	Muted Clavi.
 DstnFire	Distant Fire
 BlineHrd	Hard Beeline
@@ -917,29 +943,3 @@ SynCmpLd	SynthComp.Ld
 BrthyFlt	BreathyFlute
 SynLead1	Synth Lead 1
 SynLead2	Synth Lead 2
-StudioG$	StudioGrand$
-BritePf$	BrightPiano$
-OctvPf1$	Octave Pf.1$
-OctvPf2$	Octave Pf.2$
-Rock Pf$	Rock Piano $
-Amb. Pf$	Amb. Piano $
-CocktlP$	Cocktail Pf$
-BriteP *	BrightPiano*
-MIDIGrd*	MIDI Grand *
-Hpschrd*	Harpsichord*
-MusicBx*	Music Box *
-Vibrafn*	Vibraphone *
-Xylophn*	Xylophone *
-TubeBel*	TubularBell*
-ReedOrg*	Reed Organ *
-BallrmAc	BallroomAcrd
-Folk Gtr	Folk Guitar
-CleanGt*	CleanGuitar*
-Dist.Gt*	Dist.Guitar*
-Acou.Ba*	Acou. Bass *
-SoloVln*	Solo Violin*
-PizzStr*	Pizz.String*
-AnlgStr*	AnalgString*
-MutedTp*	MutedTrmpt *
-SqrLead*	SquareLead *
-StlDrum*	Steel Drums*

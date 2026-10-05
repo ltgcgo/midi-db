@@ -1,6 +1,7 @@
 ID	Name
 ClvchrdK	Clavichord KSP
 ElctrAtm	Electric Atmos
+Mel Tom2	Melodic Tom 2
 GrandP #	Grand Piano #
 GrndPnoK	Grand Piano KSP
 MelloGrP	Mellow Grand Piano
@@ -15,6 +16,7 @@ BriteP #	Bright Piano #
 BritPnoK	Bright Piano KSP
 StBrtPno	Stereo Bright Piano
 DetBrPno	Detuned Bright Piano
+BriteP *	Bright Piano *
 EGndPnoK	Electric Grand Piano KSP
 HnkyTnkK	Honky Tonk KSP
 EPiano1#	Electric Piano 1 #
@@ -53,6 +55,7 @@ ChrBelEP	Chorus Bells EP
 HpschrdK	Harpsichord KSP
 Hpschrd2	Harpsichord 2
 Hpschrd3	Harpsichord 3
+Hpschrd*	Harpsichord *
 Clavi. #	Clavinet #
 ClvinetK	Clavinet KSP
 ClaviWah	Wah Clavinet
@@ -63,6 +66,7 @@ SupClavi	Super Clavinet
 BrtClav*	Bright Clavinet *
 VibrafnK	Vibraphone KSP
 HardVibr	Hard Vibraphone
+TubeBel*	Tubular Bell *
 DrawOrg#	Drawbar Organ #
 DetDrwOr	Detuned Drawbar Organ
 60sDrOrg	60s' Drawbar Organ
@@ -86,7 +90,9 @@ ChurOrg3	Church Organ 3
 ChurOrg2	Church Organ 2
 TrmOrgFl	Tremolo Organ Flute
 AccordIt	Italian Accordion
+Musette*	French Musette *
 TngoAcd2	Tango Accordion 2
+BallrmAc	Ballroom Accordion
 NylonGt#	Nylon Guitar #
 NylonGt2	Nylon Guitar 2
 NylonGt3	Nylon Guitar 3
@@ -124,6 +130,7 @@ HammrBrg	Bridge Hammer Guitar
 HammrDbl	Double Hammer Guitar
 HammrSt.	Stereo Hammer Guitar
 FMChoGtr	FM Chorus Guitar
+CleanGt*	Clean Guitar *
 60sClnGt	60s' Clean Guitar
 MutedGt#	Muted Guitar #
 Funk Gtr	Funk Guitar 1
@@ -151,6 +158,7 @@ FeedbkG2	Feedback Guitar 2
 TwinDist	Twin Distortion Guitar
 RckRthm2	Rock Rhythm 2
 BiteEGtr	Bite E. Guitar
+Dist.Gt*	Distortion Guitar *
 AcouHarm	Acoustic Harmonics
 GtFeedbk	Guitar Feedback
 GtrHrmo2	Guitar Harmonics 2
@@ -160,6 +168,7 @@ VXUprght	VX Upright Bass
 BrBstnBa	Bright Boston Bass
 WalkSyBa	Walking Synth Bass
 Dim&Cool	Dim & Cool Bass
+Acou.Ba*	Acoustic Bass *
 FingrBa#	Fingered Bass #
 FingrDrk	Dark Fingered Bass
 Ba&DstEG	Bass & Distortion Guitar
@@ -212,6 +221,7 @@ AnalgBa*	Analog Bass *
 ViolinSc	Violin Section
 HdVlnSec	Hard Violin Section
 SlVlnSec	Slow Violin Section
+SoloVln*	Solo Violin *
 ViolaSec	Viola Section
 HdVlaSec	Hard Viola Section
 SlVlaSec	Slow Viola Section
@@ -229,6 +239,7 @@ BrTrmStr	Bright Tremolo Strings
 TremStr*	Tremolo Strings *
 LvTrmStr	Live! Tremolo Strings
 PizzOct.	Pizzcato Octave
+PizzStr*	Pizzicato String *
 ElecHarp	Electric Harp
 DtVliHrp	Detuned Violin Harp
 StStrngs	Stereo Strings
@@ -264,6 +275,7 @@ SynStr1*	Synth Strings 1 *
 PltnmStr	Platinum Strings
 TaurusS.	Taurus Strings
 SolPlexs	Solar Plexus Strings
+AnlgStr*	Analog Strings *
 MelChoir	Mellow Choir
 ChoirStr	Choir Strings
 Str&C.Ah	Strings & Choir Aahs
@@ -307,6 +319,7 @@ TromSect	Trombone Section
 MutedTp#	Muted Trumpet #
 MuteTrp2	Muted Trumpet 2
 BakStair	Backstairs Trumpet
+MutedTp*	Muted Trumpet *
 FrHrSolo	French Horn Solo
 FrHorn 2	French Horn 2
 HornOrch	Horn Orchestra
@@ -374,6 +387,7 @@ DblOsci.	Double Oscillator
 MellowSq	Mellow Square
 SoloSine	Solo Sine Lead
 FMSlwSwp	FM Slow Sweep Lead
+SqrLead*	Square Lead *
 SawLead2	Sawtooth Lead 2
 ThickSaw	Thick Saw Lead
 Dyna.Saw	Dynamic Sawtooth Lead
@@ -430,7 +444,7 @@ TiklBell	Tickle Bells
 Gamelan	Gamelan Gongs
 S.Gameln	Stereo Gamelan Gongs
 GlasPerc	Glass Percussion
-Mel Tom2	Melodic Tom 2
+StlDrum*	Steel Drums *
 ElecPerc	Electric Percussion
 Syn.Perc	Synth Percussion
 RvCymbl2	Reverse Cymbal 2
@@ -439,6 +453,14 @@ RevSnare	Reverse Snare
 RvSnare2	Reverse Snare 2
 RConBaDr	Rev. Concert Bass Drum
 Rev.Tom2	Reverse Tom 2
+CFX Grd$	CFX Grand Piano $
+StudioG$	Studio Grand Piano $
+BritePf$	Bright Piano $
+Pop Grd$	Pop Grand Piano $
+OctvPf1$	Octave Piano 1 $
+OctvPf2$	Octave Piano 2 $
+Amb. Pf$	Ambient Piano $
+CocktlP$	Cocktail Piano $
 MtdClavi	Muted Clavinet
 Voodoo	Voodoo Drums
 TnglCaos	Tingle & Chaos
@@ -769,25 +791,3 @@ SynBrsPd	Synth Brass Pad
 SynStrPd	Synth Strings Pad
 SynCmpLd	Synth Comped Lead
 BrthyFlt	Breathy Flute
-CFX Grd$	CFX Grand Piano $
-StudioG$	Studio Grand Piano $
-BritePf$	Bright Piano $
-Pop Grd$	Pop Grand Piano $
-OctvPf1$	Octave Piano 1 $
-OctvPf2$	Octave Piano 2 $
-Amb. Pf$	Ambient Piano $
-CocktlP$	Cocktail Piano $
-BriteP *	Bright Piano *
-Hpschrd*	Harpsichord *
-TubeBel*	Tubular Bell *
-Musette*	French Musette *
-BallrmAc	Ballroom Accordion
-CleanGt*	Clean Guitar *
-Dist.Gt*	Distortion Guitar *
-Acou.Ba*	Acoustic Bass *
-SoloVln*	Solo Violin *
-PizzStr*	Pizzicato String *
-AnlgStr*	Analog Strings *
-MutedTp*	Muted Trumpet *
-SqrLead*	Square Lead *
-StlDrum*	Steel Drums *
