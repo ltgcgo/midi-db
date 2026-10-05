@@ -70,9 +70,11 @@ Voices 2	VOICES 2
 India2Kt	INDIAN 2
 StdChnKt	STD + CHINA
 StndKit#	STANDARD #
+StndKit*	STANDARD *
 Dry Kit	DRY
 BrightKt	BRIGHT
 Skim Kit	SKIM
+Hit Kit	HIT
 Slim Kit	SLIM
 RogueKit	ROGUE
 Hob Kit	HOB
@@ -82,34 +84,41 @@ RockKit2	ROCK 2
 ApogeeKt	APOGEE
 PerigeKt	PERIGEE
 JazzKit2	JAZZ 2
+BrushKt*	LV! BRUSH
+BrshKtR*	REAL BRUSH *
 SymphnKt	SYMPHONY
+SymphKt*	SYMPHONY *
 Ntrl Kit	NATURAL
+HipHpKt*	HIP HOP *
 NtrlFunk	NATURAL FUNK
+BreakKit	BREAK
 AnlgT8Kt	ANALOG TR808
 AnlgT9Kt	ANALOG TR909
-Hous!Kit	HOUSE!
+HousKit*	HOUSE *
 DrumMchn	DRUM MACHINE
 TrampKit	TRAMP
 AmberKit	AMBER
 CoffinKt	COFFIN
+80sPopKt	80'S POP
+80sR&BKt	80'S R&B
 DubstpKt	DUBSTEP
 EDM Kit	EDM
-Elect^Kt	ELECTRONIC ^
+ElectKt*	ELECTRONIC *
 Trap Kit	TRAP
 SchlgrKt	SCHLAGER
 PopDrmKt	LV! POP DRUM
-JzBrCpKt	L!JAZZ BRUSH
+JzBrCpKt	LV!JAZZBRUSH
 Lv StdKt	LV! STANDARD
 LvFunkKt	LV! FUNK
 Lv Brush	LV! BRUSH
 Std&Perc	LV! STD&PERC
 FunkPerc	LV!FUNK&PERC
 Brush&P.	L!BRUSH&PERC
-StudioKt	LV!STUDIO
-Pwr^Kit1	LV! POWER 1
-Pwr^Kit2	LV! POWER 2
-Acou.Kit	LV! ACOUSTIC
-Rock^Kit	LV! ROCK
-RealDrKt	LV!REAL DRUM
+StudioKt	LV! STUDIO
+PwrKit1*	LV! POWER 1
+PwrKit2*	LV! POWER 2
+AcouKit*	LV! ACOUSTIC
+RockKit*	LV! ROCK
+RealDrKt	LV! REALDRUM
 R&B Kit	R & B
 RockKit3	ROCK 3

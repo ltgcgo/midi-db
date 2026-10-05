@@ -2,6 +2,7 @@ ID	Name
 ClvchrdK	Clavichord KSP
 ElctrAtm	Electric Atmos
 Mel Tom2	Melodic Tom 2
+Trem.EP*	Cool! Tremolo EP
 GrandP #	Grand Piano #
 GrndPnoK	Grand Piano KSP
 MelloGrP	Mellow Grand Piano
@@ -36,7 +37,9 @@ Cheap EP	Cheap E. Piano
 Funky EP	Funky E. Piano
 TrmStcEP	Cool! Trem. Suitcase EP
 GalaxyEP	Cool! Galaxy EP
-Trem.EP*	Cool! Tremolo EP
+SuitcsEP	Cool! Suitcase EP
+TrmScEP*	Cool! Trem. Suitcase EP
+ElPiano*	Cool! Electric Piano
 EPiano2#	Electric Piano 2 #
 EPiano2K	Electric Piano 2 KSP
 VX EPno2	VX Electric Piano 2
@@ -86,11 +89,15 @@ WarmJazz	Warm Jazz Organ
 SlwRotar	Slow Rotary Organ
 FstRotar	Fast Rotary Organ
 GlaRotar	Glacial Rotary Organ
+CoolRtOr	Cool! Rotary Organ
 ChurOrg3	Church Organ 3
 ChurOrg2	Church Organ 2
 TrmOrgFl	Tremolo Organ Flute
 AccordIt	Italian Accordion
 Musette*	French Musette *
+SwtHrmn*	Sweet! Harmonica *
+ModernHm	Modern Harmonica
+BluesHrm	Blues Harmonica
 TngoAcd2	Tango Accordion 2
 BallrmAc	Ballroom Accordion
 NylonGt#	Nylon Guitar #
@@ -255,13 +262,14 @@ SwellStr	Swell Strings
 3 OctStr	3 Octave Strings
 5PartStr	5-Part Strings
 StrngEns	Strings Ensemble *
-OrchStr*	Live! Orchestra Strings
+OrchStr*	Live! Orchestral Strings
 StSlwStr	Stereo Slow Strings
 LegatoSt	Legato Strings
 ChmbrStr	Chamber Strings
 SlowStr*	Slow Strings *
 StrQuart	Strings Quartet
 Marcato*	Marcato Strings *
+StrsPad*	Live! Strings Pad *
 ArcoStr*	Live! Arco Strings
 ZephyrS.	Zephyr Strings
 Reso Str	Resonant Strings
@@ -344,6 +352,7 @@ AnlSforz	Analog Sforzando Brass
 SyBrsSub	Synth Brass Sub-oscillator
 AnVelBrs	Analog Velocity Brass
 SynBras*	Synth Brass *
+HyprBrs*	Hyper Brass *
 HbrCmpBr	Hybrid Comp Brass
 SynBras4	Synth Brass 4
 AnVelBr2	Analog Velocity Brass 2
@@ -495,14 +504,30 @@ AfrCuba2	Live! Afro-Cuban Kit 2
 BrazilKt	Live! Brazillian Kit
 PopLatin	Pop Latin Kit
 StndKit#	Standard Kit #
+StndKit*	Standard Kit *
 DarkRoom	Dark Room Kit
+BrushKt*	Live! Brush Kit
+BrshKtR*	Live! Real Brushes Kit
+SymphKt*	Live! Symphony Kit
+HipHpKt*	Hip Hop Kit *
 NtrlFunk	Natural Funk Kit
+AnlgT8Kt	Analog TR-808 Kit
+AnlgT9Kt	Analog TR-909 Kit
+ElectKt*	Electro Kit *
+PopDrmKt	Live! Pop Drum Kit
+JzBrCpKt	Lv! Jazz Brush Comp. Kit
 Lv StdKt	Live! Standard Kit
 LvFunkKt	Live! Funk Kit
 Lv Brush	Live! Brush Kit
 Std&Perc	Live! Stand. + Perc. Kit
 FunkPerc	Live! Funk + Perc. Kit
 Brush&P.	Live! Brush + Perc. Kit
+StudioKt	Live! Studio Kit
+PwrKit1*	Live! Power Kit 1
+PwrKit2*	Live! Power Kit 2
+AcouKit*	Live! Acoustic Kit
+RockKit*	Live! Rock Kit
+RealDrKt	Live! Real Drum Kit
 LiveRm A	Live! Room Kit A
 LiveRm B	Live! Room Kit B
 GrdPnoSt	Grand Piano Stereo
@@ -791,24 +816,3 @@ SynBrsPd	Synth Brass Pad
 SynStrPd	Synth Strings Pad
 SynCmpLd	Synth Comped Lead
 BrthyFlt	Breathy Flute
-StrsPad*	Live! Strings Pad *
-CoolRtOr	Cool! Rotary Organ
-SwtHrmn*	Sweet! Harmonica *
-ModernHm	Modern Harmonica
-BluesHrm	Blues Harmonica
-HyprBrs*	Hyper Brass *
-BrushKt*	Live! Brush Kit
-BrshKtR*	Live! Real Brushes Kit
-SymphKt*	Live! Symphony Kit
-HipHpKt*	Hip Hop Kit *
-AnlgT8Kt	Analog T8 Kit
-AnlgT9Kt	Analog T9 Kit
-ElectKt*	Electro Kit *
-PopDrmKt	Live! Pop Drum Kit
-JzBrCpKt	Lv! Jazz Brush Comp. Kit
-StudioKt	Live! Studio Kit
-PwrKit1*	Live! Power Kit 1
-PwrKit2*	Live! Power Kit 2
-AcouKit*	Live! Acoustic Kit
-RockKit*	Live! Rock Kit
-RealDrKt	Live! Real Drum Kit

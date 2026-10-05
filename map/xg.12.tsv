@@ -2,6 +2,7 @@ ID	Name
 ClvchrdK	Clavichord K
 ElctrAtm	ElectricAtms
 Mel Tom2	Melod. Tom 2
+Trem.EP*	Tremolo EP *
 GrandP #	Grand Piano#
 GrndPnoK	GrandPiano K
 MelloGrP	MellowGrdPno
@@ -38,7 +39,7 @@ Diploid2	Diploid EP 2
 Diploid3	Diploid EP 3
 Easy EP	Easy E.Piano
 TrmStcEP	TremSuitcsEP
-Trem.EP*	Tremolo EP *
+SuitcsEP	Suitcase EP*
 EPiano2#	El. Piano 2#
 EPiano2K	El.Piano 2 K
 Chor.EP2	Chorus EP 2
@@ -110,6 +111,7 @@ SlwRotar	Slow Rotary
 FstRotar	Fast Rotary
 GlaRotar	GlacialRotar
 RockOrg*	Rock Organ *
+CoolRtOr	CoolRotarOrg
 ChurOrg3	ChurchOrgan3
 ChurOrg2	ChurchOrgan2
 OrgFlute	Organ Flute
@@ -117,6 +119,10 @@ TrmOrgFl	TremOrgFlute
 ReedOrg*	Reed Organ *
 AccordIt	Accordion It
 Harmo. 2	Harmonica 2
+SwtHrmn*	Swt!Hrmonic*
+ModernHm	ModernHrmonc
+BluesHrm	BluesHrmonic
+Hrmnica*	Harmonica *
 TngoAcd2	TangoAccord2
 BallrmAc	BallroomAcrd
 NylonGt#	Nylon Gtr. #
@@ -330,6 +336,7 @@ ChmbrStr	Chamber Str.
 SlowStr*	SlowStrings*
 StrQuart	StrngQuartet
 Marcato*	Marcato Str*
+StrsPad*	Lv!StrsPad *
 ArcoStr*	ArcoStrings*
 ZephyrS.	Zephyr Strs.
 Reso Str	Resonant Str
@@ -424,6 +431,8 @@ AnVelBrs	AnalgVeloBrs
 AnalgBrs	Analog Brass
 SynBras*	Synth Brass*
 TechnoBr	Techno Brass
+PopBras*	Pop Brass *
+HyprBrs*	Hyper Brass*
 HbrCmpBr	HybrCompBras
 SynBras4	SynthBrass 4
 ChoirBrs	Choir Brass
@@ -632,21 +641,43 @@ AfrCuba2	AfroCubanKt2
 BrazilKt	BrazillianKt
 PopLatin	Pop Latin Kt
 StndKit#	StandardKit#
+StndKit*	StandardKit*
 DarkRoom	Dark Room Kt
 ElectrKt	Electro Kit
 AnalgKt2	Analog Kit 2
 HipHopKt	Hip Hop Kit
 PerigeKt	Perigee Kit
+BrushKt*	Lv!BrushKit*
 BrushKt2	Brush Kit 2
+BrshKtR*	Lv!BrshKitR*
 SymphnKt	Symphony Kit
+SymphKt*	Lv!SymphKit*
 Ntrl Kit	Natural Kit
+HipHpKt*	Hip Hop Kit*
 NtrlFunk	Ntrl Funk Kt
+AnlgT8Kt	Analog T8 Kt
+AnlgT9Kt	Analog T9 Kt
+HousKit*	House Kit *
+DrumMchn	Drum Machine
+80sPopKt	80s' Pop Kit
+80sR&BKt	80s' R&B Kit
+DubstpKt	Dubstep Kit
+ElectKt*	Electro Kit*
+SchlgrKt	Schlager Kit
+PopDrmKt	Lv!PopDrmKit
+JzBrCpKt	JazBrshCmpKt
 Lv StdKt	LiveStdrdKit
 LvFunkKt	LiveFunk Kit
 Lv Brush	LiveBrushKit
 Std&Perc	LiveStd&Perc
 FunkPerc	LvFunkPercKt
 Brush&P.	LvBrush&Perc
+StudioKt	Lv!StudioKit
+PwrKit1*	Lv!PowerKit1
+PwrKit2*	Lv!PowerKit2
+AcouKit*	Lv!Acou. Kit
+RockKit*	Lv!Rock Kit
+RealDrKt	Lv!RealDrmKt
 LiveRm A	Live! Room A
 LiveRm B	Live! Room B
 GrdPnoSt	GrandPiano w
@@ -943,33 +974,3 @@ SynCmpLd	SynthComp.Ld
 BrthyFlt	BreathyFlute
 SynLead1	Synth Lead 1
 SynLead2	Synth Lead 2
-SuitcsEP	Suitcase EP
-Hrmnica*	Harmonica *
-PopBras*	Pop Brass *
-StrsPad*	Lv!StrsPad *
-CoolRtOr	CoolRotarOrg
-SwtHrmn*	Swt!Hrmonic*
-ModernHm	ModernHrmonc
-BluesHrm	BluesHrmonic
-HyprBrs*	Hyper Brass*
-SchlgrKt	Schlager Kit
-DubstpKt	Dubstep Kit
-DrumMchn	Drum Machine
-HousKit*	House Kit *
-BrushKt*	Lv!BrushKit*
-BrshKtR*	Lv!BrshKitR*
-SymphKt*	Lv!SymphKit*
-HipHpKt*	Hip Hop Kit*
-AnlgT8Kt	Analog T8 Kt
-AnlgT9Kt	Analog T9 Kt
-ElectKt*	Electro Kit*
-PopDrmKt	Lv!PopDrmKit
-JzBrCpKt	JazBrshCmpKt
-StudioKt	Lv!StudioKit
-PwrKit1*	Lv!PowerKit1
-PwrKit2*	Lv!PowerKit2
-AcouKit*	Lv!Acou. Kit
-RockKit*	Lv!Rock Kit
-RealDrKt	Lv!RealDrmKt
-80sPopKt	80s' Pop Kit
-80sR&BKt	80s' R&B Kit
