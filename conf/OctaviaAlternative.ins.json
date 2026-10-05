@@ -447,7 +447,7 @@
 		[128,   3, 125,   3, "gs", "Roland GS SC-88 Pro Drum Kit", true],
 		[128,   4, 125,   4, "gs", "Roland GS SC-8850 Drum Kit", true],
 		[126, 152, 126,   0, "xg", "Yamaha XG SFX Kit", true],
-		[127, 152, 127,   0, "xg", "Yamaha XG Drum Kit", true]
+		[127, 152, 127,   0, "xg", "Yamaha XG Modern Drum Kit", true]
 	],
 	"drums": [
 		[  0,   0, "Roland GS Mixed Drum Kit"],
@@ -465,6 +465,6 @@
 		[107,   0, "Roland SD Enhanced Kit"],
 		[120,   0, "GM2 + Korg PA Drum Kit"],
 		[126,   0, "Yamaha XG SFX Kit"],
-		[127,   0, "Yamaha XG Drum Kit"]
+		[127,   0, "Yamaha XG Modern Drum Kit"]
 	]
 }
