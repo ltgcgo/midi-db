@@ -112,6 +112,7 @@ FstRotar	Fast Rotary
 GlaRotar	GlacialRotar
 RockOrg*	Rock Organ *
 CoolRtOr	CoolRotarOrg
+JzScanOr	JazzScanOrgn
 ChurOrg3	ChurchOrgan3
 ChurOrg2	ChurchOrgan2
 OrgFlute	Organ Flute
@@ -261,6 +262,7 @@ MnplisBa	MineaplsBass
 HammerBa	Hammer Bass
 AnalogBa	Analog Bass
 SynBass*	Synth Bass *
+SynBas2*	Syn. Bass 2*
 MelloSBa	MelloSynBass
 Seq.Bass	SequencedBas
 ClkSynBa	ClickSynthBs

@@ -90,6 +90,7 @@ SlwRotar	Slow Rotary Organ
 FstRotar	Fast Rotary Organ
 GlaRotar	Glacial Rotary Organ
 CoolRtOr	Cool! Rotary Organ
+JzScanOr	Cool! Jazz Scan Organ
 ChurOrg3	Church Organ 3
 ChurOrg2	Church Organ 2
 TrmOrgFl	Tremolo Organ Flute
@@ -214,6 +215,7 @@ Reso Sqr	Resonant Square Bass
 SwePWMBa	Sweep PWM Bass
 St.SwPWM	Stereo Sweep PWM Bass
 MnplisBa	Minneapolis Bass
+SynBas2*	Synth Bass 2 *
 MelloSBa	Mellow Synth Bass
 Seq.Bass	Sequenced Bass
 ClkSynBa	Click Synth Bass

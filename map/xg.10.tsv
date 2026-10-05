@@ -132,6 +132,7 @@ FstRotar	FastRotary
 GlaRotar	GlaRotarOr
 RockOrg*	RockOrgan*
 CoolRtOr	CoolRotOrg
+JzScanOr	JazzScanOr
 ChurOrg3	ChurchOrg3
 ChurOrg2	ChurchOrg2
 NotreDam	Notre Dame
@@ -299,6 +300,7 @@ AnalogBa	AnalogBass
 SynBass*	SynthBass*
 RezoBass	Rezzo Bass
 RaveBass	Rave Bass
+SynBas2*	Syn.Bass2*
 MelloSBa	MelloSynBs
 Seq.Bass	SequenceBs
 ClkSynBa	ClickSynBs
@@ -728,6 +730,7 @@ Rev.Kick	Rev. Kick
 RConBaDr	RvConBaDrm
 Rev. Tom	ReverseTom
 Rev.Tom2	Rev. Tom 2
+Applauz*	Applause *
 CFX Grd$	CFX Grand$
 StudioG$	StudioGrd$
 BritePf$	Brt.Piano$
