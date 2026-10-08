@@ -547,6 +547,7 @@ RichHpsi	Rich Harpsichord
 PhaseClv	Phaser Clavichord
 ClavBass	Clavinet Bass
 New Slap	New Slap Bass
+RockPigs	Rock Pig Squeals
 Cybastrg	Cyber Strings
 Buzz Saw	Buzzy Saw Lead
 OsciLead	Oscillated Lead
@@ -559,7 +560,7 @@ Fretles!	Fretless Bass!
 Fretls!2	Fretless Bass! 2
 RockBass	Overdriven Rock Bass
 PlsClav!	Pulse Clavinet Bass!
-MuteHrBa	Muted Heart Bass
+MuteHrBa	Muted Harmonic Bass
 Chamlion	Chamelion Synth Bass
 Para.Syn	Parallel Synth Bass
 AttakSyn	Attack Synth Bass
@@ -578,7 +579,7 @@ Destiny	Destiny Guitar
 Ossyncro	Oscillated Synchro
 Old Mini	Old Mini Lead
 Fat Mini	Fat Mini Lead
-Choronic	Choronic Lead
+Choronic	Choronic Brass Lead
 SynHarmo	Synth Harmonics
 Reso.Sqr	Resonant Square
 Wurli Ld	Wurli E. Piano Lead
@@ -588,6 +589,8 @@ Digitron	Digitron Lead
 LyricOff	Lyrics Off Lead
 Persinet	Persian Clarinet
 Softblow	Soft Blown Sax
+AlbaPipe	Scottish Bagpipe
+ElctrmBr	Electrum Brass Synth
 BaClari!	Bass Clarinet!
 WX JzGtr	WX Jazz Guitar
 Sintax	Sintax Saxophone
@@ -598,10 +601,13 @@ TenorSx!	Tenor Saxophone!
 Coca	Coca Pan Flute
 JetLpBow	Jet Lip Bowed Fiddle
 MuteCone	Muted Trumpet Cone
+BrethBow	Breathy Bowed Strings
 JazzTrp2	Jazz Trumpet 2
+Flumpet	Flugel Trumpet
 MuteTrp!	Muted Trumpet!
 MuteTp!2	Muted Trumpet! 2
 MelTrmbn	Mellow Trombone
+NerzoBrs	Nerzo Synth Brass
 FrHorn!2	French Horn! 2
 Nu Horne	New French Horn
 WX Horn	WX French Horn
@@ -614,8 +620,11 @@ BowPicol	Bowed Piccolo
 C Flute	Concert Flute
 C Flute2	Concert Flute 2
 BtlFlut2	Bottle Flute 2
+Rzde.Flt	Resonant Flute
 WX Shaku	WX Shakuhachi
 PanPicol	Pan Piccolo
+Flurinet	Flute Clarinet
+Flurmod	Flute Clarinet Mod
 SquealAT	Squealing Aftertouch
 NuSoprSx	New Soprano Sax
 CvSoprSx	Curved Soprano Sax
@@ -623,8 +632,8 @@ LiteSopr	Light Soprano Sax
 AnaSprno	Analog Soprano Sax
 SweetAlt	Sweet Alto Sax
 AltoSax!	Alto Saxophone!
-HarpAlto	Harp Alto Sax
-HarpAlt2	Harp Alto Sax 2
+HarmAlto	Harmonica Alto Sax
+HarmAlt2	Harmonica Alto Sax 2
 GlassAlt	Glassy Alto Sax
 Acid Sax	Acid Saxophone
 Wack Sax	Wacky Saxophone
@@ -632,23 +641,27 @@ NuTenrSx	New Tenor Sax
 MildTenr	Mild Tenor Sax
 Jazz Sax	Jazz Saxophone
 TenorSub	Sub Tenor Sax
-BellMike	Bell Mike Sax
+BellMike	Bell Microphone Sax
 GlassTnr	Glassy Tenor Sax
 FunkyTnr	Funky Tenor Sax
 OldTenor	Old Tenor Sax
 BrtTenor	Bright Tenor Sax
 BariSax!	Baritone Sax!
-VoxoSaxo	Voxo Saxophone
+VoxoSaxo	Vocal Saxophone
+VoxoSaxo	Vocal Saxophone
 EngHorn!	English Horn!
 HyperCla	Hyper Clarinet
+BgpChntr	Bagpipe Chanter
+Claricrd	Clarinet Recorder
 BowedSaw	Bowed Sawtooth
 Ophelia	Ophelia Synth
 Squeeze	Squeeze Accordion
 AmpdHarp	Amped Harmonica
-CromHarp	Chrome Harmonica
+CromHarp	Chromatic Harmonica
 WahUpHrp	Wah Up Harmonica
 YamaBotl	Mountain Bottle
-CrumBon	Crum Trombone
+CrumBone	Crumhorn Trombone
+ReedWind	Reedy Woodwind
 M-Male	Male Voice
 M-ASoft	Male Soft Adult
 M-AHusky	Male Husky Adult

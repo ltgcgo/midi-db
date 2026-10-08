@@ -3,6 +3,7 @@ ClvchrdK	Clavichord K
 ElctrAtm	ElectricAtms
 Mel Tom2	Melod. Tom 2
 Trem.EP*	Tremolo EP *
+CrumBon	CrumTrombone
 GrandP #	Grand Piano#
 GrndPnoK	GrandPiano K
 MelloGrP	MellowGrdPno
@@ -712,13 +713,14 @@ SqrLead!	Square Lead!
 BiggerSy	Bigger Synth
 AnaSquid	Analog Squid
 SharpSyn	Sharp Synth
-Ana.Wave	Analog Wave
+Ana.Wave	Analog Waves
 Ana.Wurl	Analog Wurly
 FngrBas!	FingeredBas!
 UprghtBa	Upright Bass
 Fnground	GroundFingrd
 Birdland	BirdlandBass
 FlageoBa	Flageo Bass
+DampBass	Damped Bass
 Fretles!	FretlessBas!
 Fretls!2	FretlesBas!2
 ThumBass	Thumped Bass
@@ -730,7 +732,7 @@ FruitBas	Fruity Bass
 SqrBass!	Square Bass!
 PlsClav!	Pulse Clavi!
 BuzzerBa	Buzzer Bass
-MuteHrBa	MutedHrtBass
+MuteHrBa	MutedHrmBass
 Tek.Bass	Techno Bass!
 TranzBas	Trance Bass
 Chamlion	ChamelionBas
@@ -770,6 +772,7 @@ Digitron	DigitronLead
 Rezzawi	Rezzawi Lead
 Persinet	PersianClari
 Softblow	SoftBlowSax
+ElctrmBr	ElectrumBras
 BaClari!	BassClarint!
 WX Clari	WX Clarinet
 WX JzGtr	WX Jazz Gtr.
@@ -785,6 +788,7 @@ BrethBow	Breathy Bow
 FluglHr!	Flugel Horn!
 Jazz Trp	Jazz Trumpet
 JazzTrp2	JazzTrumpet2
+Flumpet	FlugelTrmpt.
 MuteTrp!	MutedTrumpt!
 MuteTp!2	MutedTrump!2
 MelTrmbn	MelloTrombon
@@ -804,12 +808,13 @@ BowPicol	BowedPiccolo
 C Flute	ConcertFlute
 C Flute2	ConcrtFlute2
 BtlFlut2	BottleFlute2
-Rzde.Flt	Rzde. Flute
+Rzde.Flt	Reso. Flute
 Nz Flute	Noisy Flute
 WX Shaku	WX Shakuhach
 PanPicol	Pan Piccolo
-Bamboo	Bamboo Dizi
 Andean	Andean Quena
+Flurinet	FluteClrinet
+Flurmod	Flurinet Mod
 SquealAT	Squealing AT
 NuSoprSx	New Sopr.Sax
 CvSoprSx	CurveSoprSax
@@ -818,30 +823,35 @@ LiteSopr	LightSoprano
 AnaSprno	Analog Sopr.
 NuAltoSx	New Alto Sax
 SweetAlt	SweetAltoSax
-HarpAlto	Harp AltoSax
-HarpAlt2	HarpAltoSax2
+HarmAlto	HarmoAltoSax
+HarmAlt2	HrmoAltoSax2
 GlassAlt	Glassy Alto
 NuTenrSx	New Tenor Sx
 TenorSub	Sub Tenor Sx
-BellMike	Bell Mike Sx
+BellMike	BellMcrphnSx
 GlassTnr	Glassy Tenor
 FunkyTnr	Funky Tenor
 BrtTenor	Bright Tenor
 BariSax!	BaritoneSax!
+OboeWhi.	Oboe Whistle
 DblReedy	Double Reedy
 TripleRd	Triple Reedy
 EngHorn!	EnglishHorn!
 HyperCla	HyperClarint
 Clrint!2	Clarinet! 2
+BgpChntr	BgppeChanter
+Claricrd	ClariRcorder
 Lonely	Lonely Synth
 Ophelia	OpheliaSynth
 Pico Str	Pico String
 Squeeze	SqueezeAcord
+MouthKey	Mouthed Key
 AmpdHarp	Amped Harmo.
-CromHarp	Chrome Harmo
+CromHarp	Chrom.Harmo.
 WahUpHrp	Wah Up Harmo
 YamaBotl	Yama Bottle
-CrumBon	CrumTrombone
+ReedWind	Reedy Wdwind
+Bamboo	Bamboo Pipe
 M-ASoft	M-Adult Soft
 M-AHusky	M-AdultHusky
 F-NMusic	F-New Music

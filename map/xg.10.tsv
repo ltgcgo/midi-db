@@ -915,7 +915,7 @@ Cybastrg	Cybastring
 Wynth	WindySynth
 Buzz Saw	Buzzy Saw
 Zub Zub	ZubZubLead
-BlueLead	Blue Lead
+Blue.Syn	Blue Synth
 OsciLead	Oscil.Lead
 SqrLead!	Square Ld!
 BiggerSy	BiggerSyn.
@@ -944,7 +944,7 @@ PlsClav!	PulseClav!
 MogueBas	Mogue Bass
 BoppaBas	Boppa Bass
 BuzzerBa	BuzzerBass
-MuteHrBa	MutedHrtBa
+MuteHrBa	MutedHrmBa
 Tek.Bass	TeknoBass!
 TranzBas	TranceBass
 Chamlion	Chamelion
@@ -1000,13 +1000,14 @@ Persinet	PersianClr
 PicoPipe	Pico Pipe
 Softblow	SoftBlowSx
 AlbaPipe	Alba Pipe
+ElctrmBr	ElectrumBr
 Edgeopho	Edgeophone
 BaClari!	BassClari!
 WX Clari	WXClarinet
 WX JzGtr	WX JazzGtr
 Shakuha!	Shakhachi!
 LipClari	LipClarint
-Floboe	Fluid Oboe
+Floboe	Flute Oboe
 Sintax	Sintax Sax
 Eastern	EasternShk
 SprnoSx!	SopranoSx!
@@ -1024,6 +1025,7 @@ Trumpt!2	Trumpet! 2
 FluglHr!	FlugelHrn!
 Jazz Trp	JazzTrumpt
 JazzTrp2	JazzTrump2
+Flumpet	FlugelTrp.
 WXTrumpt	WX Trumpet
 MuteTrp!	MutedTrpt!
 MuteTp!2	MutedTrp!2
@@ -1050,13 +1052,14 @@ C Flute2	Con.Flute2
 JazFlute	Jazz Flute
 OakFlute	Oak Flute
 BtlFlut2	BotlFlute2
-Rzde.Flt	Rzde.Flute
+Rzde.Flt	Reso.Flute
 Nz Flute	NoisyFlute
 WX Shaku	WX Shakuha
 PanPicol	PanPiccolo
-Bamboo	Bamboo Di
 Andean	AndesQuena
+Flurinet	FluClrinet
 SoftReed	Soft Reed
+Flurmod	FlurinetMd
 SquealAT	SquealinAT
 NuSoprSx	NewSoprSax
 CvSoprSx	CurvSoprSx
@@ -1066,8 +1069,8 @@ AnaSprno	AnalogSopr
 NuAltoSx	NewAltoSax
 SweetAlt	Sweet Alto
 AltoSax!	Alto Sax!
-HarpAlto	Harp Alto
-HarpAlt2	Harp Alto2
+HarmAlto	Harmo Alto
+HarmAlt2	HarmoAlto2
 GlassAlt	Glass Alto
 Wack Sax	Wacky Sax
 NuTenrSx	New Tenor
@@ -1077,9 +1080,9 @@ FunkyTnr	FunkyTenor
 OldTenor	Old Tenor
 BrtTenor	BriteTenor
 BariSax!	Bari. Sax!
-VoxoSaxo	Voxo Saxo.
+VoxoSaxo	Vocal Sax.
 Oboe!2	Oboe! 2
-OboeWhi.	Oboe Whi.
+OboeWhi.	OboeWhistl
 DblReedy	DoublReedy
 TripleRd	TriplReedy
 EngHorn!	Eng. Horn!
@@ -1088,9 +1091,10 @@ LitePipe	Light Pipe
 HyperCla	HyperClari
 Clrint!2	Clarinet!2
 IslePipe	Isle Pipe
+BgpChntr	BgpChanter
 ThaiReed	Thai Reed
 Recordr!	Recorder!
-Claricrd	Clarichord
+Claricrd	Claricord
 SoftPipe	Soft Pipe
 BowedSaw	Bowed Saw
 MizuHorn	Water Horn
@@ -1103,8 +1107,9 @@ AmpdHarp	AmpedHarmo
 CromHarp	ChromHarmo
 WahUpHrp	WahUpHarmo
 YamaBotl	YamaBottle
-CrumBon	CrumTrombn
-ReedWin	Reedy Wind
+CrumBone	CrumTrombn
+ReedWind	Reedy Wind
+Bamboo	BambooPipe
 M-ASoft	M-AdltSoft
 M-AHusky	M-AdtHusky
 F-NMusic	F-NewMusic

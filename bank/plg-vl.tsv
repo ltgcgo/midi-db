@@ -16,7 +16,7 @@ MSB	PRG	LSB	NME	VXP
 033	014	005	Wynth	yVl:Wynth
 033	015	005	Buzz Saw	yVl:Buzz Saw
 033	016	005	Zub Zub	yVl:Zub Zub
-033	017	005	BlueLead	yVl:BlueLead
+033	017	005	Blue.Syn	yVl:Blue.Syn
 033	018	005	OsciLead	yVl:OsciLead
 033	019	005	SqrLead!	yVl:SqrLead!
 033	020	005	BiggerSy	yVl:BiggerSy
@@ -119,7 +119,7 @@ MSB	PRG	LSB	NME	VXP
 033	117	005	Alt Kwek	yVl:Alt Kwek
 033	118	005	Softblow	yVl:Softblow
 033	119	005	AlbaPipe	yVl:AlbaPipe
-033	120	005	Electrum	yVl:Electrum
+033	120	005	ElctrmBr	yVl:ElctrmBr
 033	121	005	Edgeopho	yVl:Edgeopho
 033	122	005	BaClari!	yVl:BaClari!
 033	123	005	WX Clari	yVl:WX Clari
@@ -184,7 +184,7 @@ MSB	PRG	LSB	NME	VXP
 033	054	006	WX Shaku	yVl:WX Shaku
 033	055	006	Pan Pipe	yVl:Pan Pipe
 033	056	006	PanPicol	yVl:PanPicol
-033	057	006	Bamboo	yVl:Bamboo
+033	057	006	BambooPp	yVl:BambooPp
 033	058	006	Andean	yVl:Andean
 033	059	006	Flurinet	yVl:Flurinet
 033	060	006	SoftReed	yVl:SoftReed
@@ -200,8 +200,8 @@ MSB	PRG	LSB	NME	VXP
 033	070	006	NuAltoSx	yVl:NuAltoSx
 033	071	006	SweetAlt	yVl:SweetAlt
 033	072	006	AltoSax!	yVl:AltoSax!
-033	073	006	HarpAlto	yVl:HarpAlto
-033	074	006	HarpAlt2	yVl:HarpAlt2
+033	073	006	HarmAlto	yVl:HarmAlto
+033	074	006	HarmAlt2	yVl:HarmAlt2
 033	075	006	GlassAlt	yVl:GlassAlt
 033	076	006	Acid Sax	yVl:Acid Sax
 033	077	006	Wack Sax	yVl:Wack Sax
@@ -218,19 +218,19 @@ MSB	PRG	LSB	NME	VXP
 033	088	006	VoxoSaxo	yVl:VoxoSaxo
 033	089	006	Oboe!	yVl:Oboe!
 033	090	006	Oboe!2	yVl:Oboe!2
-033	091	006	Noboe	yVl:Noboe
+033	091	006	Nu Oboe	yVl:Nu Oboe
 033	092	006	OboeWhi.	yVl:OboeWhi.
 033	093	006	DblReedy	yVl:DblReedy
 033	094	006	TripleRd	yVl:TripleRd
 033	095	006	EngHorn!	yVl:EngHorn!
-033	096	006	Loboe	yVl:Loboe
+033	096	006	Low Oboe	yVl:Low Oboe
 033	097	006	Bassoon!	yVl:Bassoon!
 033	098	006	Clrinet!	yVl:Clrinet!
 033	099	006	LitePipe	yVl:LitePipe
 033	100	006	HyperCla	yVl:HyperCla
 033	101	006	Clrint!2	yVl:Clrint!2
 033	102	006	IslePipe	yVl:IslePipe
-033	103	006	Chanter	yVl:Chanter
+033	103	006	BgpChntr	yVl:BgpChntr
 033	104	006	ThaiReed	yVl:ThaiReed
 033	105	006	Recordr!	yVl:Recordr!
 033	106	006	Claricrd	yVl:Claricrd
@@ -252,9 +252,9 @@ MSB	PRG	LSB	NME	VXP
 033	122	006	YamaBotl	yVl:YamaBotl
 033	123	006	Blowsoo	yVl:Blowsoo
 033	124	006	Brappo	yVl:Brappo
-033	125	006	CrumBon	yVl:CrumBon
+033	125	006	CrumBone	yVl:CrumBone
 033	126	006	Klarina	yVl:Klarina
-033	127	006	ReedWin	yVl:ReedWin
+033	127	006	ReedWind	yVl:ReedWind
 097	021	112	Squeeze	yVl:Squeeze
 097	022	112	MouthKey	yVl:MouthKey
 097	022	113	AmpdHarp	yVl:AmpdHarp
