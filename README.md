@@ -1,5 +1,7 @@
-# midi-db
-🎹 Data concerning MIDI standards. [Documentation](https://gh.ltgc.cc/octavia/midi-db.html)
+# Octavia Scroll
+🎹 Data concerning MIDI standards. [Documentation](https://gh.ltgc.cc/octavia/components/midi-db.html)
+
+Like the project and want to support it? Learn how in the parent project Octavia ([Codeberg](https://codeberg.org/ltgc/octavia/), [GitHub](https://github.com/ltgcgo/octavia/))!
 
 ## Mane Mappings
 **Octavia Mane** (backronym _Mapped Addresses, Named Extensions_) supplies bidirectional mappings from raw bytes to readable names, akin to Fabric Yarn mappings, which the name of this project was inspired from. Mane mappings are used to conduct readable assembly and disassembly in Octavia MICC, however Octavia's own SysEx interpreter does not rely on Mane in any way.

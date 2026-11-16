@@ -3,38 +3,77 @@ MSB	LSB	Name
 00	ff	Disabled
 01	00	XG Hall 1
 01	01	XG Hall 2
+01	02	YP Hall Large A
+01	03	YP Hall Medium B
+01	04	YP Hall Pf. Concert
+01	05	YP Hall Pf. Cathedral
 01	06	XG Hall Medium
 01	07	XG Hall Large
-01	10	XG Hall 3
-01	11	XG Hall 4
-01	12	XG Hall 5
-01	17	XG Cathedral
+01	10	YP Hall 1
+01	11	YP Hall 2
+01	12	YP Hall 3
+01	13	YP Hall Ballad
+01	14	YP Hall Piano
+01	15	YP Hall Basic C
+01	16	YP Hall Light
+01	17	YP Hall Atmosphere
+01	18	YP Hall Pf. Recital
+01	1b	YP Hall Vocal 1
+01	1c	YP Hall Vocal 2
+01	1e	YP Hall Basic B
+01	1f	YP Hall Large B
+01	20	YP Hall Large R
+01	21	YP Hall Medium R
+01	22	YP Hall Bright R
+01	23	YP Hall Large + R
+01	24	YP Hall Medium + R
+01	25	YP Hall Small + R
 02	00	XG Room 1
 02	01	XG Room 2
 02	02	XG Room 3
+02	03	YP Room Warm
+02	04	YP Room Woody
 02	05	XG Room Small
 02	06	XG Room Medium
 02	07	XG Room Large
-02	10	XG Room 4
-02	11	XG Room 5
-02	12	XG Room 6
-02	13	XG Room 7
+02	10	YP Room 1
+02	11	YP Room 2
+02	12	YP Room 3
+02	13	YP Room 4
+02	14	YP Room Acoustic
+02	15	YP Room Drums
+02	16	YP Room Percussion
+02	18	YP Piano Chamber
+02	20	YP Room R
+02	21	YP Room Power R
+02	22	YP Room + R
 03	00	XG Stage 1
 03	01	XG Stage 2
-03	10	XG Stage 3
-03	11	XG Stage 4
+03	10	YP Stage 1
+03	11	YP Stage 2
+03	18	YP Piano Club
 04	00	XG Plate
-04	10	XG Plate 2
-04	11	XG Plate 3
+04	01	YP Plate Rich
 04	07	XG GM Plate
+04	10	YP Plate 1
+04	11	YP Plate 2
+04	12	YP Plate Large
+04	18	YP Plate Piano
+04	20	YP Plate Large R
+04	21	YP Plate Medium R
+04	22	YP Plate Rattle R
+04	23	YP Plate Large + R
+04	24	YP Plate Medium + R
 05	00	XG Delay LCR
-05	10	XG Delay LCR 2
+05	10	YP Delay LCR
 06	00	XG Delay LR
 07	00	XG Echo
 08	00	XG Cross Delay
+08	10	YP Cross Delay
 09	00	XG Early Reflection 1
 09	01	XG Early Reflection 2
 0a	00	XG Gated Reverb
+0a	10	YP Gated Reverb
 0b	00	XG Reversed Gate
 10	00	XG White Room
 11	00	XG Tunnel
@@ -45,7 +84,11 @@ MSB	LSB	Name
 14	02	XG Karaoke 3
 15	00	XG Tempo Delay
 15	08	XG Tempo Echo
-16	00	XG Tempo X Delay
+15	10	YP Tempo Delay 2
+16	00	XG Tempo Cross Dly
+16	10	YP Tempo X Delay 1
+16	11	YP Tempo X Delay 2
+16	12	YP Tempo X Delay 3
 18	00	KG Hall 1
 18	01	KG Hall 2
 18	02	KG Hall 3
@@ -430,83 +473,129 @@ MSB	LSB	Name
 41	06	XG GM Chorus 4
 41	07	XG Feedback Chorus
 41	08	XG Chorus 4
+41	09	YP Chorus Ambient
+41	10	YP Chorus Fast
+41	11	YP Chorus Light
 42	00	XG Celeste 1
 42	01	XG Celeste 2
 42	02	XG Celeste 3
 42	08	XG Celeste 4
-41	10	XG Chorus 5
-42	11	XG Chorus 6
+42	09	YP Celeste Ambient
+42	10	YP Chorus 1
+42	11	YP Chorus 2
+42	12	YP Rotary Speaker 4
 43	00	XG Flanger 1
 43	01	XG Flanger 2
 43	07	XG GM Flanger
 43	08	XG Flanger 3
-41	10	XG Flanger 4
+43	09	YP Flanger Ambient
+43	10	YP Flanger 1
+43	11	YP Flanger 2
 42	12	XG Rotary Speaker 9
 42	13	XG Rotary Speaker 10
-43	11	XG Flanger 5
 44	00	XG Symphonic
-44	10	XG Symphonic 2
+44	09	YP Symphonic Amb.
+44	10	YP Symphonic
 45	00	XG Rotary Speaker
 45	01	XG Distort+Rotary
 45	02	XG Overdrive+Rotary
 45	03	XG Amp Sim+Rotary
-45	10	XG Rotary Speaker 2
-45	11	XG Rotary Speaker 3
+45	10	YP Rotary Speaker 1
+45	11	YP Rotary Speaker 2
 46	00	XG Tremolo
-46	10	XG Tremolo 2
-46	11	XG Rotary Speaker 4
+46	10	YP Tremolo 1
+46	11	YP Rotary Speaker 3
 46	12	XG EP Tremolo 1
-46	13	XG Tremolo 3
+46	13	YP Trem. Guitar 2
 46	14	XG Tremolo 4
 46	15	XG EP Tremolo 2
 47	00	XG Auto Pan
 47	01	XG Auto Pan 2
-47	10	XG Auto Pan 3
-47	11	XG Rotary Speaker 5
-47	12	XG Rotary Speaker 6
-47	14	XG Guitar Tremolo
-47	15	XG EP Auto Pan 1
-47	16	XG Rotary Speaker 7
+47	10	YP Auto Pan 1
+47	11	YP Rotary Speaker 1
+47	12	YP Rotary Speaker 2
+47	13	YP Tremolo 2
+47	14	YP Trem. Guitar 1
+47	15	YP EP Auto Pan 1
+47	16	YP Rotary Speaker 5
 47	17	XG Auto Pan 4
 47	18	XG EP Auto Pan 2
 47	19	XG Rotary Speaker 8
 48	00	XG Phaser 1
 48	08	XG Phaser 2
-48	10	XG EP Phaser 1
-48	11	XG EP Phaser 2
+48	10	YP EP Phaser 1
+48	11	YP EP Phaser 2
+48	12	YP EP Phaser 3
+48	13	YP Phaser
 49	00	XG Distortion
 49	01	XG Compress+Distort
 49	08	XG Stereo Distort
+49	10	YP Compress+Distort
 4a	00	XG Overdrive
 4a	08	XG Stereo Overdrive
-4b	00	XG Amp Simulator
-4b	01	XG Amp Simulator 2
-4b	08	XG Stereo Amp Sim
-4b	10	XG Hard Distortion 1
-4b	11	XG Soft Distortion 1
-4b	15	XG Stereo Amp 2
-4b	16	XG Hard Distortion 2
-4b	17	XG Soft Distortion 2
+4b	00	XG Amplifier
+4b	01	XG Amplifier 2
+4b	08	XG Stereo Amplifier
+4b	10	YP Hard Distortion 1
+4b	11	YP Soft Distortion 1
+4b	12	YP Hard Stereo Dist.
+4b	13	YP Soft Stereo Dist.
+4b	14	YP Stereo Amp 1
+4b	15	YP Stereo Amp 2
+4b	16	YP Hard Distortion 2
+4b	17	YP Soft Distortion 2
 4b	18	XG Stereo Amp 3
-4b	19	XG Hard Distortion 3
+4b	19	YP Stereo Amp 4
+4b	1a	YP Stereo Amp 5
+4b	1b	YP Stereo Amp Clean
+4b	1c	YP Stereo Amp Blues
+4b	1d	YP Stereo Amp Solid
+4b	1e	YP St. Amp Crunchy
+4b	1f	YP St. Amp Harmo.
 4c	00	XG 3-band EQ
-4c	10	XG EQ Disco
-4c	11	XG EQ Tel
+4c	10	YP EQ Disco
+4c	11	YP EQ Telephone
+4c	12	YP 3-band EQ Stereo
+4c	13	YP Lo-Fi Drums 3
+4c	14	YP Lo-Fi Drums 4
 4d	00	XG 2-band EQ
 4e	00	XG Auto Wah
-4e	01	XG Auto Wah+Dist
+4e	01	XG Auto Wah+Dist.
 4e	02	XG Auto Wah+OvrDrv
-4e	10	XG Auto Wah 2
+4e	10	YP Auto Wah 1
+4e	11	YP Auto Wah+Dist.
+4e	12	YP Auto Wah+OvrDrv
 4e	13	XG Auto Wah 3
 4e	14	XG Auto Wah 4
+4e	15	YP A. Wah+Dist. Hard
+4e	16	YP A. Wah+Ovdr Hard
+4e	17	YP A. Wah+Dist. Hvy
+4e	18	YP A. Wah+Ovdr Hvy
+4e	19	YP A. Wah+Dist. Lite
+4e	1a	YP A. Wah+Ovdr Lite
 50	00	XG Pitch Shifter
 50	01	XG Pitch Shifter 2
+50	10	YP Pitch Shifter
 51	00	XG Enhancer
+51	10	YP Enhancer
 52	00	XG Wah 1
 52	01	XG Wah+Distortion
 52	02	XG Wah+Overdrive
 52	08	XG Wah 2
+52	10	YP Wah+Distortion
+52	11	YP Wah+Overdrive
+52	12	YP Wah Clavinet
+52	13	YP Wah E. Piano
+52	14	YP Wah
+52	15	YP Wah+Dist. Hard
+52	15	YP Wah+Ovdr. Hard
+52	17	YP Wah+Dist. Heavy
+52	18	YP Wah+Ovdr. Heavy
+52	19	YP Wah+Dist. Light
+52	1a	YP Wah+Ovdr. Light
 53	00	XG Compressor
+53	10	YP Comp. Medium
+53	11	YP Comp. Heavy
 54	00	XG Noise Gate
 55	00	XG Voice Cancel
 56	00	XG 2-way Rotary
@@ -514,35 +603,112 @@ MSB	LSB	Name
 56	02	XG 2-way Rot+OvrDrv
 56	03	XG 2-way Rot+Amp
 57	00	XG Ensemble Detune
+57	10	YP Ensemble Detune
 58	00	XG Ambience
 5d	00	XG Talking Mod
 5e	00	XG Lo-Fi
+5e	10	YP Lo-Fi 1
+5e	11	YP Lo-Fi 2
+5e	12	YP Lo-Fi Drums 1
+5e	13	YP Lo-Fi Drums 2
 5f	00	XG Delay+Distortion
 5f	01	XG Delay+Overdrive
+5f	10	YP Delay+Distortion
+5f	11	YP Delay+Overdrive
+5f	20	YP Multi Dist. Solo
+5f	21	YP Multi Dist. Basic
+5f	22	YP Multi Ovdr+Chorus
+5f	23	YP Multi Crunch Wah
+5f	24	YP Multi Vintg Delay
+5f	25	YP Multi Vintg Echo
 60	00	XG Comp+Dist+Delay
 60	01	XG Comp+Ovdr+Dly
+60	10	YP Comp+Dist+Delay
+60	11	YP Comp+Ovdr+Dly
+60	20	YP Stereo Distortion
+60	21	YP Stereo Overdrive
+60	22	YP Stereo Vintage
+60	23	YP Stereo Hvy Dist.
 61	00	XG Wah+Dist+Delay
 61	01	XG Wah+Ovdr+Delay
+61	10	YP Wah+Dist+Delay
+61	11	YP Wah+Ovdr+Delay
+61	20	YP UK Cmb. Classic
+61	21	YP UK Cm. Top Boost
+61	22	YP UK Cmb. Custom
+61	23	YP UK Cmb. Heavy
 62	00	XG Vintage Hard Dist
 62	01	XG Vin Hard Dist+Dly
 62	02	XG Vintage Soft Dist
 62	03	XG Vin Soft Dist+Dly
+62	10	YP Vin Dist. Twin
+62	11	YP Vin Dist. Clean 1
+62	12	YP Vin Dist. Crunch
+62	13	YP Vin Dist. Edgy
+62	14	YP Vn Ds. Hard Close
+62	15	YP Vin Dist. Blues
+62	16	YP Vin Dist. Warm
+62	17	YP Vn Ds. Soft Close
+62	18	YP Vin Dist. Metal
+62	19	YP Vin Dist. Solid
+62	1a	YP Vin Dist. Clean 2
+62	1b	YP Vn Ds. Jazz Clean
+62	20	YP UK Legend Blues
+62	21	YP UK Legend Hvy 1
+62	22	YP UK Legend Hvy 2
+62	23	YP UK Legend Clean
+62	24	YP UK Lg. Dist. Clean
 63	00	XG Dual Rotary 1
 63	01	XG Dual Rotary 2
+63	10	YP Dual Rot. Bright
+63	11	YP Dual Rot. Warm
+64	00	YP Dist+Tempo Delay
+64	01	YP Ovdr+Tempo Delay
+65	00	YP Comp+Dist+TDly
+65	01	YP Cmp+Ov+TDly 1
+65	10	YP Cmp+Ov+TDly 2
+65	11	YP Cmp+Ov+TDly 3
+65	12	YP Cmp+Ov+TDly 4
+65	13	YP Cmp+Ov+TDly 5
+65	14	YP Cmp+Ov+TDly 6
+66	01	YP Wah+Ov+TDly 1
+66	10	YP Wah+Ov+TDly 2
+67	00	YP SftDs+TmpDly 2
+67	01	YP HrdDs+TmpDly 2
+67	10	YP SftDs+TmpDly 1
+67	11	YP HrdDs+TmpDly 1
+67	12	YP Dist. Rockabilly
+67	13	YP Dist. Fusion
 68	00	XG V. Flanger
 69	00	XG Basic Multi Comp
+69	10	YP Comp. Melodic
+69	11	YP Comp. Bass
 6b	00	XG Tempo Flanger
 6c	00	XG Tempo Phaser
+6c	10	YP Tempo Phaser
 6d	00	XG Dynamic Filter
 6e	00	XG Dynamic Flanger
 6f	00	XG Dynamic Phaser
-70	00	XG Dyna. Ring Mod
+70	00	XG Dyn. Ring Mod
 71	00	XG Ring Modulator
 72	00	XG Slicer
 73	00	XG Isolator
 74	00	XG Low Resolution
 75	00	XG Digital Turntable
 76	00	XG Digital Scratch
+77	00	YP Vibraphone Rotor
+78	00	YP Tempo Tremolo
+79	00	YP Tmp Auto Pan 1
+79	01	YP Tmp Auto Pan 2
+7a	00	YP Pedal Wah
+7a	01	YP Pedal Wah+Dist.
+7a	02	YP Pedal Wah+Ovdr.
+7a	15	YP P. Wah+Ds. Hard
+7a	16	YP P. Wah+Ov. Hard
+7a	17	YP P. Wah+Ds. Heavy
+7a	18	YP P. Wah+Ov. Heavy
+7a	19	YP P. Wah+Ds. Light
+7a	1a	YP P. Wah+Ov. Light
 80	00	ES Thru
 81	00	ES Hall 1
 81	01	ES Hall 2
